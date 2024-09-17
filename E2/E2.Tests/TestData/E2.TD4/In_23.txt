@@ -1,0 +1,101 @@
+100 16
+Haora
+Florence
+Newcastle
+Kinshasa
+Brisbane
+Kochi
+Tel Aviv-Yafo
+Sholapur
+Yangquan
+Chengdu
+Karachi
+Beijing
+Varanasi
+Raleigh
+Heze
+Geneva
+Columbus
+Jinan
+Ludhiana
+Dar es Salaam
+Guatemala
+Mexico City
+Vereeniging
+Tabriz
+Abuja
+Kumasi
+Dallas
+Port Elizabeth
+Atlanta
+Boston
+Addis Ababa
+Charlotte
+Baotou
+Pune
+Chandigarh
+Fez
+Zhengzhou
+Kawasaki
+Zhangzhou
+Guadalajara
+Joinville
+Volgograd
+Aleppo
+Natal
+Maracaibo
+Birmingham
+Gwalior
+Pyongyang
+Las Vegas
+Zhongli
+Yinchuan
+Faridabad
+Dublin
+Qinhuangdao
+Toluca
+Budapest
+Rosario
+Zigong
+Jabalpur
+Tokyo
+Hanoi
+Jerusalem
+Novosibirsk
+Hamamatsu
+Can Tho
+Bogota
+Karaj
+Manchester
+Sydney
+Makkah
+Suwon
+Zhanjiang
+Xiantao
+Conakry
+Mannheim
+Benin City
+Nanchang
+San Francisco
+Rotterdam
+Milwaukee
+Prague
+Riyadh
+Peshawar
+Shenyeng
+Frankfurt
+Changde
+Anshan
+Zibo
+Cilacap
+Changchun
+Cincinnati
+New Orleans
+Leshan
+Lucknow
+Fortaleza
+Bhopal
+Nanyang
+Medina
+Austin
+Louisville

@@ -1,0 +1,6 @@
+5 3
+Beijing
+Mexico City
+London
+Karachi
+Tokyo

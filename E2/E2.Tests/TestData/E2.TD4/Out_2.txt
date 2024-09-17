@@ -1,0 +1,4 @@
+1.333333
+0 : Mexico City
+1 : Beijing -> Karachi -> Tokyo
+2 : London

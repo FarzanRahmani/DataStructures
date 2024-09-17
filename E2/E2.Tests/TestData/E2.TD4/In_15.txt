@@ -1,0 +1,11 @@
+10 3
+Delhi
+Shenzhen
+Mexico City
+Lima
+Wuhan
+Beijing
+Tianjin
+Bogota
+Buenos Aires
+Chicago

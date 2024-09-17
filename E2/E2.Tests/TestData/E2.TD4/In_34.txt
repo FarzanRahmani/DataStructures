@@ -1,0 +1,101 @@
+100 27
+Casablanca
+Ahvaz
+Yekaterinburg
+Budapest
+Salt Lake City
+Joinville
+Chennai
+Amsterdam
+New York
+Nanning
+Vijayawada
+Santos
+Las Vegas
+Odessa
+Zaozhuang
+Doha
+Faisalabad
+Lahore
+Jerusalem
+Porto Alegre
+Asansol
+Jinhua
+Medan
+Sacramento
+Rio de Janeiro
+Ikare
+Gwangju
+Cali
+Rotterdam
+Queens
+Yiyang
+Ottawa
+Suwon
+Aurangabad
+Baghdad
+Sofia
+Haikou
+Cochabamba
+Tel Aviv-Yafo
+Davao
+Hefei
+Port Elizabeth
+Fortaleza
+Rawalpindi
+Fez
+Tokyo
+Ibadan
+Luoyang
+Turin
+Ujungpandang
+Kharkiv
+Munich
+Busan
+Brazzaville
+Santa Cruz
+Kanpur
+Wanzhou
+Karachi
+Wenzhou
+Monterrey
+Varanasi
+Chelyabinsk
+Kansas City
+London
+Quito
+Patna
+Riverside
+Nasik
+Santiago
+Luan
+Milan
+Chifeng
+Jacksonville
+Natal
+Natal
+Da Nang
+Guadalajara
+Suining
+Guangzhou
+Conakry
+Aden
+Sholapur
+Xiamen
+Sheffield
+Makkah
+Tripoli
+Lanzhou
+San Jose
+Xinyi
+Benxi
+Hims
+Buenos Aires
+Harare
+Shiraz
+Manaus
+Fukuoka
+Vancouver
+Panama City
+Ad Damman
+Maoming

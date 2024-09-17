@@ -1,0 +1,11 @@
+10 2
+Bogota
+Delhi
+Bangalore
+Rio de Janeiro
+Beijing
+Paris
+Manila
+Lagos
+Shenzhen
+Istanbul

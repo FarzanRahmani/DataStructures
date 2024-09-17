@@ -1,0 +1,6 @@
+5 2
+Jakarta
+Chicago
+Kolkata
+Paris
+London

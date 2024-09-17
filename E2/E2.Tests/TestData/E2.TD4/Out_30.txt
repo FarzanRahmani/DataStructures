@@ -1,0 +1,17 @@
+4.466667
+0 : Orlando -> Nanchong -> Faisalabad -> Aurangabad -> Suining -> Vereeniging
+1 : Marseille -> Natal
+2 : Harbin -> Busan -> Perm -> Dahuk -> Medan -> Nanjing
+3 : Bhilai -> Allahabad -> Jianmen -> Brazzaville
+4 : San Salvador -> Semarang -> Ujungpandang -> Port-au-Prince -> Ankara -> Davao
+5 : Kuala Lumpur -> Khulna -> Alexandria -> Odessa
+6 : Budapest -> Tampa -> Abidjan -> Sharjah -> Dushanbe -> Qingdao
+7 : Kyoto -> Huzhou -> Bamako -> Jabalpur -> Fushun -> Seoul -> Zhangzhou -> Boston -> Fukuoka -> Rawalpindi
+8 : Yangquan -> Cincinnati -> Bronx -> Vila Velha
+9 : Shiraz -> Jerusalem -> Duisburg -> Amritsar -> Nashville -> Seattle -> Lisbon
+10 : Prague -> Heze -> Zibo -> Taiyuan -> The Hague -> Kazan -> Doha -> Gwangju -> Manila
+11 : Xinyang -> Kuwait -> Jiamusi -> Saidu -> Mexico City -> Ranchi
+12 : Haifa -> Mogadishu -> Washington -> Abuja -> Huambo -> Tunis
+13 : Tianshui -> Sofia -> Hamburg -> Benxi -> Essen -> Changsha -> Agra -> Leshan
+14 : Baghdad -> Palembang -> Maracaibo -> Zhongli -> Novosibirsk -> Ottawa -> Pune
+15 : Daejeon -> Rabat -> Turin -> Neijiang -> Jilin -> Aleppo -> Rajkot -> Maoming -> Makkah

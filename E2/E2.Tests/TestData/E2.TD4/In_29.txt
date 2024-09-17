@@ -1,0 +1,101 @@
+100 15
+Charlotte
+Hamburg
+Daejeon
+Boston
+Wenzhou
+Asansol
+Nagoya
+Khulna
+Port-au-Prince
+Kabul
+Cagayan de Oro
+Zaozhuang
+Lubumbashi
+Rostov
+Baltimore
+Nanjing
+Guadalajara
+Indianapolis
+London
+Yangquan
+Damascus
+Brazzaville
+Ujungpandang
+Kano
+Chennai
+Monterrey
+Singapore
+Changzhou
+Ranchi
+Dongguan
+Daqing
+Perm
+Beijing
+Joinville
+Ad Damman
+El Giza
+Tunis
+Guwahati
+Nizhny Novgorod
+Kunming
+Dhanbad
+George Town
+Anshan
+Sapporo
+Amsterdam
+Glasgow
+Xiamen
+Omdurman
+Daegu
+Huaiyin
+Bandung
+Nezahualcoyotl
+Chittagong
+Cleveland
+Hanoi
+Conakry
+Tijuana
+Jiaxing
+Porto Alegre
+Fukuoka
+Bhopal
+Ankara
+Nairobi
+Manchester
+Xian
+Nasik
+Tel Aviv-Yafo
+Taipei
+Benoni
+Jiamusi
+Rome
+Belgrade
+Shantou
+Jabalpur
+Tainan
+San Salvador
+Pretoria
+Mogadishu
+Detroit
+Johannesburg
+Kalyan
+Allahabad
+Buenos Aires
+Shangqiu
+New Orleans
+Hefei
+Vila Velha
+Tianshui
+Mosul
+Ibadan
+Rajkot
+Shangrao
+Qingdao
+Pittsburgh
+Medina
+Milan
+Mandalay
+Medan
+Alexandria
+Durban

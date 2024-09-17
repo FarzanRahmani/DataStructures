@@ -1,0 +1,4 @@
+0.333333
+0 : Rio de Janeiro
+1 : Beijing -> Jakarta
+2 : New York -> Shanghai

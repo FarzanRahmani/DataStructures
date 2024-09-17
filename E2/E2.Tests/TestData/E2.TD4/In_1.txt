@@ -1,0 +1,6 @@
+5 2
+Seoul
+London
+Buenos Aires
+Lima
+Guangzhou

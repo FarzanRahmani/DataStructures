@@ -1,0 +1,5 @@
+6.000000
+0 : Faisalabad -> Manchester -> Conakry -> Surat -> Abbottabad -> Melbourne -> Semarang -> Vila Velha -> Xiamen -> Suzhou -> Bucharest -> Saint Louis -> Calgary -> Baotou -> Kaduna -> Mogadishu -> Hohhot -> Memphis -> Aurangabad -> Pittsburgh -> Kumasi -> Ndjamena
+1 : Benxi -> Manaus -> Samara -> Rotterdam -> Chifeng -> Luanda -> Hengyang -> Haikou -> Srinagar -> Yinchuan -> Amritsar -> Jaipur -> Marseille -> Jinxi -> Auckland -> Puebla -> Shanghai -> Lille -> Brussels -> Ganzhou -> Jinan -> Natal -> Riyadh -> Anshan -> Phnom Penh -> Tokyo -> New York
+2 : Nanchang -> Novosibirsk -> Adana -> Durban -> Ottawa -> Portland -> Linyi -> Ankang -> Quezon City -> Zigong -> Algiers -> Munich -> Harbin -> Budapest -> Maracaibo -> Lucknow -> Santos -> Palembang -> Surabaya -> Moscow -> Columbus -> Kunming -> Zhongli -> Zaozhuang -> Edmonton -> Baltimore -> Yaounde
+3 : Amsterdam -> Zhanjiang -> Kyoto -> Athens -> Ufa -> Yokohama -> Mexico City -> Kochi -> Maracay -> Jodhpur -> Rawalpindi -> Ningbo -> Jamshedpur -> Jabalpur -> Xuzhou -> Maoming -> Hyderabad -> Zhengzhou -> Mashhad -> Fukuoka -> Taichung -> El Giza -> Cali -> Sapporo

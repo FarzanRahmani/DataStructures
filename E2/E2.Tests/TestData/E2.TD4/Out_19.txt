@@ -1,0 +1,8 @@
+10.238095
+0 : Sendai -> Dhanbad -> Shantou -> Aleppo -> Nanchang -> Qom -> Beijing -> Mbuji-Mayi -> Nairobi -> Fukuoka -> Perth -> Taipei -> Cilacap -> Cochabamba -> Bamako -> Adana -> Dahuk -> Santiago -> Da Nang -> Maputo
+1 : Jianmen -> Manchester -> Taiyuan -> Nagoya -> Dushanbe -> Ottawa -> Ibadan -> Lisbon -> Hamburg -> Abidjan -> Bandung -> Stuttgart
+2 : Puebla -> Toluca -> Madrid -> Miami -> Changwon -> Hims -> Lille -> Bogota -> Port-au-Prince -> Isfahan
+3 : Haifa -> Amritsar -> Allahabad -> Geneva -> Lagos -> Gaziantep -> Hanoi -> Suwon -> Wuxi -> Istanbul -> Kolkata -> Taichung -> Yongzhou -> Durban
+4 : Lubumbashi -> Mumbai -> Karaj -> El Giza -> Yaounde -> Shanghai -> Brussels -> St. Petersburg -> Bekasi -> Milwaukee -> Sacramento -> Kiev -> San Diego
+5 : Jabalpur -> Chengdu -> Ningbo -> Tehran -> Xuzhou -> Brisbane -> Brazzaville -> Addis Ababa -> Hiroshima -> Rostov -> Luanda -> Rawalpindi -> Nanyang -> Baoding -> Benin City -> Seattle
+6 : Yangquan -> Asansol -> Douala -> Nezahualcoyotl -> Baotou -> Leeds -> Nizhny Novgorod -> Yokohama -> Ndjamena -> Stockholm -> Frankfurt -> Patna -> Bangkok -> Nampo -> Mannheim

@@ -1,0 +1,16 @@
+10.380952
+0 : Samara -> Manchester -> Warangal
+1 : Kyoto -> Nezahualcoyotl -> Los Angeles -> Luan -> Xiangtan
+2 : Santiago -> Indianapolis -> Tangshan -> Bucharest -> Aden -> Kiev -> Miami
+3 : Duisburg -> Rawalpindi -> Lahore -> Warsaw -> Atlanta -> Aleppo -> Detroit -> Ho Chi Minh City
+4 : Varanasi -> Jakarta -> Luoyang -> Novosibirsk -> Tokyo
+5 : Yongzhou -> Linyi -> Taichung -> Seville -> San Antonio -> Ankara
+6 : Richmond -> Baghdad -> Kolkata -> Sydney -> Sacramento -> Tianshui -> Xian -> Birmingham
+7 : Taian -> Tbilisi -> Cilacap -> Leeds -> Nanchang -> Benin City -> Changsha -> Auckland -> Dar es Salaam
+8 : Can Tho -> Alexandria -> Nairobi -> Athens -> Shanghai -> Pune -> Monrovia -> Damascus
+9 : Hamamatsu -> Yerevan -> Hong Kong -> Cairo -> Ujungpandang -> Montevideo
+10 : Zhengzhou -> Jamshedpur -> Prague
+11 : Jiamusi -> Naples -> Nagpur -> Kharkiv -> Stuttgart -> Frankfurt -> Banghazi -> Rangoon -> San Diego -> Yulin -> Chittagong -> Memphis -> Neijiang -> Vancouver -> Lisbon -> Porto Alegre
+12 : Kaohsiung -> Vadodara -> Vila Velha -> Brisbane -> Fuzhou -> Indore
+13 : Jianmen -> Cologne -> Bogota
+14 : Essen -> Ludhiana -> Rosario -> Ottawa -> Mbuji-Mayi -> Xianyang -> Dubai

@@ -1,0 +1,101 @@
+100 4
+Pyongyang
+Santiago
+Rome
+Xian
+Bursa
+Chelyabinsk
+Douala
+Helsinki
+Tijuana
+Jodhpur
+San Francisco
+Cologne
+Nashville
+Kuwait
+Zhangzhou
+Havana
+Adelaide
+Qiqihar
+Rajkot
+San Jose
+Lubumbashi
+Baoding
+Guangzhou
+Sanaa
+Lanzhou
+Yangquan
+Sholapur
+Joinville
+Taichung
+Sheffield
+Kampala
+Suining
+Dhanbad
+Wenzhou
+Kanpur
+Ghaziabad
+Isfahan
+Xuzhou
+New York
+Charlotte
+Doha
+Gwalior
+Baltimore
+Riverside
+Ahvaz
+Hefei
+Hamburg
+Changwon
+Luan
+New Orleans
+Maanshan
+Nagpur
+Kharkiv
+Santo Domingo
+Ottawa
+Nanyang
+Xinyi
+Casablanca
+Zibo
+Alexandria
+Medan
+Agra
+Warangal
+Jining
+Austin
+Valencia
+Yantai
+Dushanbe
+Jianmen
+Brazzaville
+Monrovia
+Nanjing
+Jilin
+Liuzhou
+Curitiba
+Chongqing
+Lima
+Xiamen
+Fuzhou
+Athens
+Porto Alegre
+Harare
+Yiyang
+Wuhan
+Mudangiang
+Hengyang
+San Antonio
+Shuyang
+Bekasi
+Can Tho
+Rangoon
+Leshan
+Mandalay
+Davao
+Aleppo
+Kano
+Huaiyin
+Seville
+Neijiang
+Tainan

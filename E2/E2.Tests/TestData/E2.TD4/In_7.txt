@@ -1,0 +1,6 @@
+5 3
+Tokyo
+Paris
+Chicago
+Shanghai
+New York

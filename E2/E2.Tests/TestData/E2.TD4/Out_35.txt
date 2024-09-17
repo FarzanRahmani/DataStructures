@@ -1,0 +1,16 @@
+9.380952
+0 : Samara -> Mexico City -> Adana -> Suzhou -> Doha -> Harare
+1 : Nezahualcoyotl -> Brussels -> Los Angeles
+2 : Busan -> Suining -> Mandalay -> Bucharest -> Kiev -> Jining -> Madurai
+3 : Jeddah -> Volgograd -> Detroit -> Fortaleza -> Port-au-Prince -> Incheon -> Edmonton
+4 : Nanjing -> Qinhuangdao -> Baoding -> Coimbatore -> Riverside -> Jakarta
+5 : San Antonio -> Xuzhou -> Xinyang -> Seville -> Wenzhou -> Dakar -> Ankara -> Donetsk -> Madrid
+6 : Milwaukee -> Birmingham -> Helsinki -> Dushanbe -> Jaipur -> Chennai -> Taipei
+7 : Dongguan -> Ibadan -> El Giza -> Bhopal -> Jixi -> Sapporo -> Karachi -> Durban -> Accra -> Srinagar -> Changde -> Rabat -> Bekasi -> Tainan -> Sanaa
+8 : Kansas City -> Ikare -> Nairobi -> Lagos -> Ahvaz
+9 : Glasgow -> Algiers -> Chelyabinsk -> Ujungpandang -> Lille
+10 : Quito -> Columbus -> Shenyeng
+11 : Bamako -> Maputo -> Kaduna -> Kawasaki -> Changwon -> La Paz -> Frankfurt -> Nagpur -> London -> Surat
+12 : Cali -> Kaohsiung -> Providence -> Santa Cruz -> Munich -> Las Vegas -> Austin -> Manaus
+13 : Cologne -> Handan -> Asansol -> Nizhny Novgorod
+14 : Minneapolis -> Zibo -> Kuwait -> Sheffield -> Lupanshui

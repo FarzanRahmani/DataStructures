@@ -1,0 +1,750 @@
+45.712101
+0 : Tampere -> Heihe -> Pirapora -> Tampere -> Seremban -> Peterborough -> Tampere -> Peterborough -> Heihe -> Heihe -> Peterborough -> Pirapora -> Kasama -> Peterborough -> Pirapora -> Kasama -> Heihe -> Peterborough -> Peterborough
+1 : Zhezqazghan -> Swansea -> Quito -> Swansea -> Scarborough -> Zhezqazghan -> Swansea -> Scarborough -> Zhezqazghan
+2 : Sayanogorsk -> Narva -> Saint Augustine -> Saint Augustine -> Sayanogorsk -> Narva -> Encinitas -> Saint Augustine -> Narva -> Oturkpo -> Encinitas -> Oturkpo -> Encinitas -> Saint Augustine -> Encinitas -> Narva
+3 : Huntington Park -> Whangarei -> Whangarei -> Huntington Park -> Whangarei -> Tianjin -> Zima -> Zima -> Tianjin -> Whangarei -> Kitale -> Kitale -> Tianjin
+4 : Washington -> Washington -> Washington -> Annecy -> Waukegan -> Fuxin -> Annecy -> Washington -> Washington -> Annecy -> Waukegan
+5 : Tolyatti -> Al Mafraq -> Ash Shihr -> Al Mafraq -> Ash Shihr -> Al Mafraq -> Tolyatti -> Tolyatti -> Tolyatti -> Tolyatti -> Ash Shihr
+6 : Burien -> Sukabumi -> Burien -> Biysk -> Burien -> Burien -> Burien -> Sukabumi
+7 : Largo -> Vratsa -> Vratsa -> Cuddalore -> Largo -> Novy Urengoy -> Cuddalore -> Largo -> Homestead -> Vratsa -> Novy Urengoy -> Largo -> Largo
+8 : Multan -> Lautoka -> Sangli -> Ad Diwaniyah -> Ad Diwaniyah -> Sangli -> Masvingo -> Venice -> Multan -> Venice -> Venice -> Kolpino -> Kolpino
+9 : Semnan -> Bristol -> Bristol -> Chicoutimi -> Bristol -> Bristol -> Cadiz -> Al Jubayl -> Cadiz -> Bristol -> Chicoutimi -> Nancy -> Nancy -> Nancy -> Bristol -> Cadiz -> Bristol -> Bristol -> Bristol -> Chicoutimi -> Al Jubayl -> Al Jubayl -> Semnan
+10 : Garoua -> Garoua -> Lees Summit -> Garoua -> Bellary -> Bellary -> Durban -> Palmas
+11 : Suzhou -> Colton -> White Plains -> Suzhou -> Maple Grove -> Colton -> Campeche -> Maple Grove -> Suzhou -> Luton -> Haarlem -> Campeche -> Campeche -> Suzhou -> Haarlem -> Luton -> Luton -> Colton -> Suzhou -> Suzhou -> Haarlem -> Haarlem -> White Plains -> White Plains -> Suzhou
+12 : Piura -> Mandurah -> Elbasan -> Kars -> Piura -> Matagalpa -> Kars -> Elbasan -> Kars
+13 : Savannah -> Kissimmee -> Curvelo -> Kissimmee -> Portland -> Portland -> Atyrau -> Curvelo -> Portland -> Curvelo -> Portland -> Portland -> Halmstad -> Portland
+14 : Maladzyechna -> Manhattan -> Sarqan -> Maladzyechna -> Bath -> Tejen -> Lhasa -> Imperatriz -> Sarqan -> Manhattan -> Gulfport -> Tejen -> Manhattan -> Mazabuka -> Maladzyechna -> Margate -> Manhattan -> Bath -> Mazabuka -> Lhasa -> Margate -> Imperatriz -> Manhattan -> Manhattan -> Gulfport -> Margate -> Mazabuka -> Manhattan -> Sarqan -> Gulfport -> Manhattan -> Gulfport -> Lhasa
+15 : Pune -> Safi -> Villa Carlos Paz -> Safi -> Ulyanovsk -> Ulyanovsk -> Safi -> Pune -> Botucatu -> Pune -> Botucatu -> Villa Carlos Paz -> Coventry -> Ulyanovsk -> Ulyanovsk -> Safi -> Botucatu -> Safi -> Botucatu -> Huambo -> Pune -> Pune
+16 : Mount Pleasant
+17 : Prokopyevsk -> Afyon -> Prokopyevsk -> Afyon -> Afyon -> Sivas -> Prokopyevsk -> Arapiraca -> Prokopyevsk -> Afyon -> Afyon -> Afyon -> Zibo -> Kanchipuram -> Zibo -> Sivas
+18 : La Vega -> La Vega -> Laoag -> Laoag -> Salina Cruz -> Laoag -> Salina Cruz -> Batu Pahat -> Hajjah -> Hajjah -> Ganca -> Batu Pahat -> Vaslui -> Batu Pahat -> Salina Cruz -> Salina Cruz
+19 : Jingdezhen -> Sfax -> Baoding -> Sfax -> Timbuktu -> Baoding -> Baoding -> Timbuktu -> Jingdezhen -> Sfax -> Sfax -> Sfax
+20 : Kirovohrad -> Albury -> Albury -> Jhang -> Yining -> Mudangiang -> Beni Suef -> Kirovohrad -> Yining -> Beni Suef -> Albury -> Sittwe -> Mudangiang -> Coronel
+21 : Santiago del Estero -> Louisville -> Constantine -> Santiago del Estero -> Santiago del Estero -> Ipoh -> Constantine -> Fier -> Nantong -> Nantong -> Constantine -> Nantong -> Constantine
+22 : Basankusu -> Manama -> Manama -> Moanda -> Hirosaki -> Hirosaki -> Manama -> Hirosaki -> Hirosaki
+23 : Kumba -> Chirala -> Kumba -> Kumba -> Shizuishan -> Shizuishan -> Shizuishan -> Shizuishan -> Chirala
+24 : Laghouat -> Onitsha -> Oshawa -> Onitsha -> Oshawa -> Oshawa -> Oshawa -> Laghouat
+25 : Nguru -> Sokcho -> Nguru -> Sokcho -> Nguru -> Sokcho -> Sokcho -> Nguru -> Mishan
+26 : Bakersfield -> Putian -> Rampur -> Rampur -> Bakersfield -> Gardena -> Norwalk -> Tiraspol -> Rampur -> Ho -> Gardena -> Putian -> Tiraspol -> Bakersfield -> Zhangzhou -> Ho -> Tiraspol -> Gardena -> Bakersfield -> Norwalk -> Zhangzhou -> Tiraspol -> Putian -> Ho -> Zhangzhou -> Zhangzhou -> Zhangzhou -> Gardena
+27 : Brugge -> Ballarat -> Elmira -> Elmira -> Oceanside -> Brugge -> Elmira -> Guatemala -> Guatemala -> Oceanside -> Ballarat -> Guatemala -> Kyustendil -> Jendouba -> Oceanside -> Bungoma -> Andong -> Ballarat -> Ballarat -> Andong -> Jendouba -> Elmira -> Jiaohe -> Ballarat -> Jiaohe -> Jendouba -> Kyustendil -> Brugge -> Mikhaylovka -> Oceanside -> Brugge -> Mikhaylovka -> Ballarat
+28 : Adana -> Changde -> Adana -> Changde -> Changde -> Iringa -> Changde -> Changde -> Changde
+29 : Hawthorne -> Meiganga -> Osijek -> Al Musayyib -> Hawthorne -> Osijek -> Osijek -> Osijek -> Ciudad Obregon -> Songnam -> Ciudad Obregon -> Ciudad Obregon -> Meiganga -> Al Musayyib -> Osijek -> Al Musayyib -> Anshan -> Anshan -> Ciudad Obregon
+30 : Allanmyo -> Hoffman Estates -> Ovalle -> Ovalle -> Schwerin -> Chula Vista -> Buffalo -> Aurora -> Ovalle -> Chula Vista -> Aurora -> Buffalo -> Schwerin -> Allanmyo -> Allanmyo -> Chula Vista -> Buffalo -> Aurora
+31 : Bethlehem -> Bethlehem -> Murfreesboro -> Bethlehem -> Bethlehem -> Murfreesboro -> Bethlehem
+32 : Zamboanga -> Zamboanga -> Eldoret -> Valdivia -> Valdivia -> Balakhna -> Eldoret -> Eldoret -> Tartus -> Valdivia
+33 : Seattle -> Brisbane -> Seattle -> Novocherkassk -> Novocherkassk -> Novocherkassk -> Hollywood -> Hollywood
+34 : San Francisco -> San Francisco -> Guarapuava -> San Francisco -> Guarapuava -> San Francisco
+35 : Liuzhou -> Barysaw -> Karimnagar -> High Point -> Barysaw -> Liuzhou -> Liuzhou -> Nagasaki -> Virginia Beach -> Virginia Beach -> Karimnagar -> Karimnagar -> Barysaw -> Karimnagar -> Karimnagar
+36 : Banja Luka -> Hua Hin -> Chumphon -> Puzi -> Banja Luka -> Musan -> Guaymas -> Guaymas -> Banja Luka -> Hua Hin -> Guaymas -> Musan -> Guaymas
+37 : Panipat -> Danbury -> Dzerzhinsk -> Danbury -> Danbury -> Guliston -> Pizen -> Pizen -> Abomey -> Kushiro -> Aberdeen -> Panipat -> Cottbus -> Abomey -> Cottbus -> Dzerzhinsk -> Kushiro -> Panipat -> Panipat -> Kushiro -> Aberdeen -> Guliston -> Cottbus -> Kushiro
+38 : Spanish Town -> Allahabad -> Chaman -> Watsonville -> Bhatpara -> Puch'on -> Spanish Town -> Nkongsamba -> Bhatpara -> Chaman -> Spanish Town -> Nkongsamba -> Nkongsamba -> Watsonville -> Palatine -> Watsonville -> Allahabad -> Watsonville -> Palatine -> Allahabad -> Allahabad -> Puch'on -> Bhatpara
+39 : Crotone -> Crotone -> Crotone -> Vancouver -> Las Cruces -> Vancouver -> Seaside -> Seaside -> Crotone -> Zacatecas -> Vancouver -> Tan Tan -> Las Cruces -> Vancouver -> Tan Tan -> Zacatecas -> Seaside -> Salt Lake City -> Salt Lake City -> Zacatecas -> Monastir -> Vancouver -> Tan Tan -> Salt Lake City -> Las Cruces
+40 : Bilaspur -> Temirtau -> Fuyu -> Tehran -> Temirtau -> Gdynia -> Bilaspur -> Gdynia -> Temirtau -> Tsu -> Bilaspur -> Fuyu -> Fuyu -> Tsu -> Tsu
+41 : Sadah -> Tarbes -> Iligan -> Murrieta -> Utrecht -> Iligan -> Utrecht -> Utrecht -> Iligan -> Iligan -> Bukavu -> Bhavnagar -> Utrecht -> Ica -> Ica -> Utrecht -> Bhavnagar -> Yuba City -> Ica -> Sadah -> Iligan -> Tarbes -> Utrecht -> Ica -> Bukavu -> Ica -> Bhavnagar
+42 : Jaboatao -> Bytom
+43 : Bhiwandi -> Palo Alto -> Indore -> Cascavel -> Tezpur -> Indianapolis -> Indianapolis -> Changping -> Indianapolis -> Karaman -> Changping -> Changping -> Tezpur -> Indore -> Palo Alto
+44 : Graaff Reinet -> Qitaihe -> Graaff Reinet -> Nashua -> Qitaihe -> Ponta Delgada -> Nawabshah -> North Port -> Brive -> Qitaihe -> Graaff Reinet -> Ponta Delgada -> Nawabshah -> Nawabshah -> Nashua -> Nawabshah -> Nashua -> Ponta Delgada -> North Port -> North Port -> Graaff Reinet
+45 : Uzhgorod -> General Santos -> Uzhgorod -> Azogues -> Azogues -> Uzhgorod -> Uzhgorod -> General Santos -> General Santos -> Curepipe -> Accra -> Khmelnytskyy -> Markala -> General Santos -> Khmelnytskyy -> Markala -> Markala -> Curepipe
+46 : Korla -> Lubbock -> Lubbock -> Lynchburg -> Kyzyl -> Palm Desert -> Tomakomai -> Tomakomai -> Azare -> Bhairawa -> Kyzyl -> Palm Desert -> Palm Desert -> Willemstad -> Lubbock -> Tomakomai -> Korla -> Azare -> Willemstad
+47 : Lucknow -> Lucknow -> Lucknow -> Lucknow
+48 : Boynton Beach -> Arnhem -> Boynton Beach -> Daegu -> Daegu -> Huanghua -> Daegu -> Boynton Beach -> Huanghua -> Huanghua -> Arnhem -> Huanghua -> Arnhem -> Boynton Beach
+49 : Bongor -> Gurgaon -> Gurgaon -> Qazvin -> Bongor -> Ar Raqqah -> Bintulu -> Bintulu -> Gurgaon -> Bintulu -> Gurgaon -> Bongor -> Ar Raqqah -> Farah -> Ar Raqqah -> Bintulu -> Farah -> Bintulu -> Qazvin -> Farah
+50 : Pontianak -> Pontianak -> Pottstown -> Springdale -> Pottstown -> Springdale -> Springdale -> Iloilo -> Pottstown -> Porto Seguro -> Iloilo -> Porto Seguro -> Springdale -> Pottstown -> Porto Seguro
+51 : Ruse -> Coon Rapids -> Coon Rapids -> Ruse -> Nema -> Frederick -> Nema -> Coon Rapids -> Nema -> Nema -> Chabahar -> Blaine -> Blaine -> Coon Rapids -> Chabahar -> Blaine -> Coon Rapids -> Blaine
+52 : Makurdi -> Shangzhi -> Shangzhi -> Makurdi -> Jiaozuo -> Shangzhi -> Shangzhi -> Vacaria -> Makurdi -> Jiaozuo -> Vacaria -> Vacaria -> Makurdi -> Cedar Park
+53 : Keluang -> Keluang -> Vyska -> Los Teques -> Shuyang -> Los Teques -> Shuyang -> Buckeye -> Vyska
+54 : Quetzaltenango -> Lemosos -> Raurkela -> Southaven -> Linkou -> Southaven -> Raurkela -> Linkou -> Lemosos -> Raurkela -> Raurkela -> Quetzaltenango -> Auburn -> Raurkela -> Auburn -> Quetzaltenango -> Auburn -> Southaven -> Lemosos -> Auburn -> Southaven -> Linkou -> Quetzaltenango -> Auburn
+55 : Jena -> Mannheim -> Mannheim
+56 : Zhanjiang -> Colorado Springs -> Zhanjiang -> Tacloban -> Tacloban -> Zhanjiang -> Colorado Springs -> Tacloban -> Colorado Springs -> Colorado Springs -> Tacloban -> Zhanjiang -> Zhanjiang -> Colorado Springs
+57 : Tuzla -> Staten Island -> Riobamba -> Guangyuan -> Staten Island -> Riobamba -> Engels -> Tuzla -> Jelgava -> Staten Island -> Tuzla -> Riobamba -> Tuzla -> Guangyuan -> Staten Island -> Staten Island -> Guangyuan -> Riobamba -> Bengbu -> Tuzla -> Bengbu -> Jelgava -> Guangyuan -> Bengbu
+58 : Shuangcheng -> Sabha -> Sabha -> Shuangcheng -> Caruaru -> Rajkot -> Sabha -> Caruaru -> Shuangcheng
+59 : Milan -> Milan -> Milan -> Milan -> Milan -> The Hague
+60 : Malden -> Budaun -> Lahore -> Budaun -> Budaun -> Malden -> Lahore
+61 : Kumbo -> Kakinada -> Ipswich -> Ipswich -> Kabul -> Kabul -> Kumbo -> Kakinada -> Boise -> Kabul -> Aveiro -> Aveiro -> Aveiro -> Boise -> Kabul
+62 : Capenda-Camulemba -> Incheon -> Merced -> Capenda-Camulemba -> Kongolo -> Capenda-Camulemba -> Olomouc -> Olomouc -> Olomouc -> Incheon -> Incheon -> Olomouc -> Incheon -> Merced -> Capenda-Camulemba
+63 : Masaya -> Kafr el Sheikh -> Kon Tum -> Fall River -> Kon Tum -> Kafr el Sheikh -> Fall River -> Saint Joseph -> Sorocaba -> Saint Joseph -> Kafr el Sheikh -> Kafr el Sheikh -> Kon Tum -> Kafr el Sheikh -> Fall River
+64 : Huacho -> Yegoryevsk -> Huacho -> Yegoryevsk -> Huacho -> Santa Marta -> Huacho -> Bawku -> Yegoryevsk -> Huacho -> Coari
+65 : Ilorin -> Villahermosa -> Wa -> Harrisburg -> Calbayog -> Reggio di Calabria -> Ilorin -> Villahermosa -> Calbayog -> Ilorin -> Calbayog -> Ilorin -> Villahermosa -> Reggio di Calabria -> Villahermosa
+66 : Chapel Hill -> Posadas -> Yulin -> Jinshi -> Posadas -> Las Heras -> Yulin -> Chapel Hill -> Las Heras -> Chapel Hill -> Chapel Hill -> Yulin -> Alba Lulia -> Warsaw -> Chapel Hill -> Las Heras -> Posadas -> Jinshi -> Yulin -> Jinshi -> Dese -> Jinshi -> Malang -> Posadas
+67 : Debre Birhan -> Daqing -> Changzhi -> Namibe -> Changzhi -> Latacunga -> Latacunga -> Xiantao -> Xiantao -> Daqing -> Debre Birhan -> Namibe
+68 : Brunswick -> Brunswick -> Brunswick -> Singkawang -> Singkawang
+69 : Liaoyang -> Visalia -> Kota -> Visalia -> Bishkek -> Kota -> Visalia -> Kota -> Barranquilla -> Visalia -> Bishkek -> Windsor -> Liaoyang
+70 : El Manaqil -> Porto Velho -> Kalemie -> Hayward -> Biarritz -> El Manaqil -> Kalemie -> Biarritz -> Oradea -> Biarritz -> Hayward -> Kalemie -> El Manaqil -> El Manaqil -> Oradea -> Biarritz -> Oradea
+71 : Bologna -> Bologna -> Bologna -> Miyazaki -> Valera -> Valera -> Miyazaki
+72 : Yakima -> Al Jahra -> Norman -> Kandalaksha -> Dimbokro -> Kandalaksha -> Norman -> Norman -> Dimbokro -> Yakima -> Mengzi -> Mengzi -> Dimbokro -> Dimbokro -> Kandalaksha -> Dimbokro -> Yakima
+73 : Middletown -> Orenburg -> Kuznetsk -> Middletown -> Beloit -> Orenburg -> Orenburg -> Akron -> Westminster -> Krasnoturinsk -> Orenburg -> Ayacucho -> Middletown -> Middletown -> Krasnoturinsk -> Kingston upon Hull -> Akron -> Akron -> Westminster -> Beloit -> Beloit -> Krasnoturinsk -> Akron -> Middletown -> Westminster -> Ayacucho -> Beloit -> Westminster -> Middletown -> Westminster -> Kuznetsk -> Akron -> Ayacucho -> Middletown
+74 : Sousse -> Puerto Vallarta -> Toledo -> Da Lat -> Polokwane -> Toledo -> Bamenda -> Toledo -> Polokwane -> Yasuj -> Da Lat -> Polokwane -> Bamenda -> Da Lat -> Sousse -> Sousse
+75 : Greenville -> Midland -> Greenville -> Midland -> Midland -> Molepolole -> Molepolole -> Molepolole -> Midland -> Greenville -> Greenville -> Greenville -> Greenville -> Midland -> Greenville -> Midland
+76 : Kennewick
+77 : Malakal -> Durham -> Malakal -> Malakal -> Durham -> Longjiang -> Durham -> Durham -> Xiangfan -> Durham -> Xiangfan
+78 : Daphne -> Kelowna -> Sodo -> Sodo -> Kelowna -> Sodo -> Daphne -> Daphne
+79 : Palm Bay -> Palm Bay -> Jamalpur -> Jamalpur -> Daejeon
+80 : Hanzhong -> Hanzhong -> Pematangsiantar -> Hanzhong -> Taizz -> Pematangsiantar -> Taizz -> Pematangsiantar -> Hanzhong
+81 : Dakar -> Medan -> San Fernando de Apure -> Ankara -> Dakar -> Greenwood -> Ankara -> El Giza -> Ankara -> El Giza -> Szombathely -> San Fernando de Apure -> Ankara -> Rundu -> Rundu -> Naltchik -> El Giza -> San Fernando de Apure -> Ankara -> Naltchik -> El Giza
+82 : Kakamega -> Kakamega -> Klerksdorp -> Kiffa -> Cleveland -> Kakamega -> Bethal -> Klerksdorp -> Cleveland -> Cleveland -> Orlando -> Cleveland -> Kiffa -> Cleveland -> Klerksdorp -> Cleveland -> Cleveland
+83 : Embu -> Embu -> Embu -> Xinqing -> Sergiyev Posad -> Pasto -> Pasto -> Xinqing
+84 : Dhanbad -> Maoming -> Hai Duong -> Hai Duong -> Kungur -> Xalapa -> Maoming -> Xalapa -> Glendale -> Hai Duong -> Glendale -> Glendale -> Maoming -> Maoming -> Iwo -> Dhanbad -> Kungur -> Kungur -> Glendale -> Glendale
+85 : Kagoshima -> Machakos -> Machakos -> Xinzhou -> Corum -> Caen -> Xinzhou -> Corum -> Kagoshima -> Caen
+86 : Changwon -> Kaunas -> Lafia -> Gondar -> Asti -> Davis -> Changwon -> Asti -> Asti -> Gondar -> Gondar -> Chiayi -> Chiayi -> Davis -> Abu Dhabi -> Kaunas -> Davis -> Asti -> Shaoxing -> Lafia -> Lafia -> Gondar -> Kaunas
+87 : Hermosillo -> Sanya -> Sanya -> Blue Springs -> Hermosillo -> Hot Springs -> Blue Springs -> Sanya -> Sanya -> Blue Springs -> Blue Springs -> Hermosillo
+88 : Bugulma -> Bugulma -> Tyumen -> Tyumen -> Bugulma -> Long Xuyen -> Bugulma -> Tyumen -> St.-Jerome -> Tyumen -> Long Xuyen
+89 : Taunggyi -> Hancheng -> Dunedin -> Saraburi -> Saraburi -> Dunedin -> Buea -> Patra -> Bandjarmasin -> Saraburi -> Dunedin -> Buea -> Nantou -> Patra -> Hancheng -> Rajapalaiyam -> Buea -> Bandjarmasin -> Saraburi -> Nantou -> Bandjarmasin -> Saraburi -> Buea -> Surigao -> Huaraz -> Nantou -> Saraburi
+90 : Santa Monica -> Mmabatho -> Kuala Lumpur -> Mmabatho -> Santa Monica -> Santa Monica -> Santa Monica -> Kuala Lumpur
+91 : Kontagora -> Kontagora -> Abancay -> Wamba -> Wamba -> Bangor -> Wamba -> Abancay -> Wamba -> Wamba -> Kontagora -> Bangor -> Gagnoa -> Gagnoa -> Abancay
+92 : Beni Mazar -> Beni Mazar -> Laiwu -> Raba -> Raba -> Raba -> Laiwu -> Raba -> Beni Mazar -> Raba
+93 : Turin -> Turin -> Skopje -> Ogden -> Kawagoe -> Zheleznogorsk -> Tacoma -> Kawagoe -> Zheleznogorsk -> Skopje -> Kawagoe -> Andijon -> Andijon -> Zheleznogorsk -> Ogden -> Zheleznogorsk -> Tacoma -> Andijon -> Ogden -> Kawagoe -> Turin -> Ogden -> Andijon -> Kawagoe -> Skopje
+94 : Deltona -> Svobodnyy -> Chelyabinsk -> Chelyabinsk -> Svobodnyy -> Ujungpandang -> Ujungpandang -> Chelyabinsk -> Svobodnyy
+95 : Gainesville -> Campana -> Strasbourg -> Campana -> Gainesville -> Campana -> Gainesville -> Strasbourg -> Strasbourg -> Strasbourg
+96 : Roseville -> Vyazma -> Vyazma -> Roseville -> Roseville -> Necochea -> Kaohsiung -> Vyazma -> Syktyvkar -> Necochea -> Syktyvkar -> Necochea
+97 : Sete Lagoas -> San Juan -> Nanded -> Baoji -> San Juan -> Sete Lagoas -> Nanded -> Sete Lagoas
+98 : Sidi bel Abbes -> San Jose -> Starsy Oskol -> Missoula -> Sidi bel Abbes -> San Jose -> Lake Charles -> Starsy Oskol -> San Jose -> Missoula -> Starsy Oskol -> Missoula -> Lake Charles -> Lake Charles -> Lake Charles -> Sidi bel Abbes -> Missoula
+99 : Novokuznetsk -> Timon -> Zhucheng -> Paterson -> Formiga -> Kolda -> Timon -> Kolda -> Neiva -> Neiva -> Kolda -> Paterson
+100 : Miami -> Luanshya -> Luanshya -> Miami -> Miami -> Luanshya -> Miami -> Miami
+101 : Yilan -> Fort Myers -> Mojokerto -> Peabody -> Yilan -> Al Hillah -> Suwon -> Los Lunas -> Yilan -> Suwon -> Al Hillah -> Los Lunas -> Yilan -> Fort Myers -> Al Hillah -> Peabody -> Peabody -> Fort Myers -> Al Hillah -> Peabody -> Al Hillah -> Peabody -> Suwon
+102 : Likasi -> Likasi -> Foggia -> Foggia -> Likasi -> Hafar al Batin -> Likasi -> Hafar al Batin -> Foggia -> Foggia -> Foggia
+103 : Palma -> Nellore -> Palma -> Nellore -> Palma -> Nellore -> Kigali -> Palma
+104 : Birmingham -> San Luis Obispo -> Birmingham -> Olongapo -> Thimphu -> Olongapo -> Olongapo -> Brookhaven -> Olongapo -> Birmingham -> Brookhaven -> San Luis Obispo -> Thimphu -> Birmingham -> Brookhaven -> Birmingham -> Birmingham -> Birmingham
+105 : Tiruchirappalli -> Cheongju -> Lampang -> Lampang -> Lampang -> Cheongju -> Jieshou -> Adigrat -> Jieshou -> Tiruchirappalli -> Hampton -> Cheongju -> Jieshou -> Cheongju -> Tiruchirappalli -> Cheongju -> Jieshou -> Tiruchirappalli -> Adigrat -> Adigrat -> Jieshou -> San Carlos del Zulia
+106 : Roanne -> Roanne -> Bunia -> Gode -> Gode -> Edmond -> Bunia -> Gode -> Bunia
+107 : Benevento -> Catanzaro -> Sungai Petani -> Tyler -> Mopti -> Redondo Beach -> Sungai Petani -> Alxa Zuoqi -> Benevento -> Alxa Zuoqi -> Tyler -> Catanzaro -> Mopti
+108 : Baltimore -> Alipur Duar -> Alipur Duar -> Mazyr -> Clifton -> Clifton -> Clifton -> Clifton -> Mazyr -> Baltimore -> Mazyr
+109 : Midwest City -> Battambang -> Battambang -> Chenzhou -> Zhangye -> Nanning -> Battambang -> Polatsk -> Zhangye -> Balkanabat -> Midwest City -> Nanning -> Battambang -> Polatsk -> Mankato -> Nanning -> Chenzhou -> Zhangye -> Balkanabat -> Nanning -> Balkanabat -> Zhangye -> Zhangye -> Midwest City -> Zhangye -> Chenzhou -> Zhangye -> Nanning -> Nanning -> Chenzhou
+110 : Normal -> Normal -> Dunhuang -> Dunhuang -> Normal
+111 : Shah Alam -> Yokohama -> Daloa -> Daloa -> Shah Alam -> Shah Alam -> Yokohama -> Shah Alam
+112 : Abuja -> Miami Gardens -> Miami Gardens -> Abuja -> Abuja
+113 : Agen -> Fredericksburg -> Giyon -> Tiruvannamalai -> Giyon -> Giyon -> Kanazawa -> Genoa -> Munich -> Giyon -> Fredericksburg -> Giyon
+114 : Crato -> Crato -> Modena -> Ciudad del Carmen -> Isfahan -> Crato -> Ciudad del Carmen -> Isfahan -> Gorgan
+115 : Manpo -> Kasongo -> Manpo -> Kasongo -> Waltham -> Rabat -> Manpo -> Dundee -> Manpo -> Waltham -> Tauranga -> Kasongo -> Tauranga -> Tauranga -> Tauranga -> Rabat -> Dundee -> Manpo -> Kasongo -> Hoover -> Kasongo -> Hoover -> Sri Jawewardenepura Kotte -> Dundee -> Waltham -> Sri Jawewardenepura Kotte -> Sri Jawewardenepura Kotte -> Sri Jawewardenepura Kotte -> Hoover -> Manpo -> Rabat -> Sri Jawewardenepura Kotte -> Dundee -> Rabat -> Manpo -> Hoover
+116 : Kwekwe -> Nangong -> Langfang -> Port Blair -> Kwekwe -> Nangong -> Langfang -> Tokat -> Tokat -> Kwekwe -> Benha -> Kwekwe -> Nangong
+117 : Delano -> Fengzhen -> Algiers -> Holland -> Delano -> Fengzhen -> Algiers -> Algiers -> Fengzhen
+118 : San Carlos -> Kotlas -> Penza -> Penza -> Santa Maria -> Santa Maria -> Passaic -> Santa Maria -> Passaic -> San Carlos -> San Carlos
+119 : Araguari -> Az Aubayr -> Machala -> Chiniot -> Az Aubayr -> Bareilly -> Bama -> Az Aubayr -> Araguari -> Araguari -> Bareilly -> Bama -> Araguari -> Araguari -> Machala -> Bareilly -> Machala -> Djibouti
+120 : Tra Vinh -> Saint Louis -> Achinsk -> Tra Vinh -> Saint Louis -> Golmud -> Chaozhou -> Wenatchee -> Saint Louis -> Wenatchee -> Golmud -> Saint Louis -> Golmud -> Tra Vinh -> Redlands -> Itu -> Chaozhou -> Redlands -> Itu -> Itu -> Wenatchee -> Chaozhou -> Chaozhou -> Wenatchee -> Achinsk -> Itu -> Tatvan
+121 : Kherson -> Pueblo -> Oakland -> Pueblo -> Ilo -> Oakland -> Pueblo -> Kherson -> Leninsk Kuznetsky -> Chester -> Leninsk Kuznetsky -> Chester -> Leninsk Kuznetsky -> Chester -> Leninsk Kuznetsky -> Leninsk Kuznetsky
+122 : Jian -> Mt. Hagen -> Cairo -> Cairo -> Cairo -> Cairo -> Mt. Hagen -> Kupang -> Cairo -> Jian -> Kupang -> Matadi -> Zouirat
+123 : Pensacola -> Port Harcourt -> Sagar -> Pensacola -> Newark -> Chicopee -> Carson -> Votkinsk -> Newark -> Potiskum -> Carson -> Carson -> Port Harcourt -> Sagar -> Potiskum -> Sagar -> Newark -> Yogyakarta -> Newark -> Newark -> Sagar -> Sagar
+124 : Aguascalientes -> Gharyan -> Gharyan -> Spartanburg -> Gharyan -> Spartanburg -> Gharyan -> Ramla -> Gharyan -> Aguascalientes -> Spartanburg -> Aguascalientes -> Probolinggo -> Gharyan -> Probolinggo
+125 : Lisala -> Lisala -> Sibolga -> Pardubice -> Lisala -> Sibolga -> Lisala -> Al Hufuf -> Pardubice -> Sibolga
+126 : Slidell -> Aden -> Slavonski Brod -> Aden -> Canton -> Slidell -> Canton -> Canton -> Salisbury -> Canton -> Slidell
+127 : Oktyabrskiy -> Oktyabrskiy -> Kolar -> Salta -> Salta -> Belgorod -> Rustenburg -> Oktyabrskiy -> Kolar -> Rustenburg -> Rustenburg -> Rubtsovsk -> Salta -> Belgorod -> Koidu -> Kolar -> Rubtsovsk -> Rustenburg
+128 : Guayaquil -> Sakakah -> Sakakah -> Ajmer -> Ajmer -> Bello -> Moundou -> Szolnok -> Takaoka -> Ajmer -> Takaoka -> Szolnok -> Guayaquil -> Ajmer -> Ajmer
+129 : Awasa -> Awasa -> Luohe -> Awasa -> Awasa
+130 : Kathmandu
+131 : Izhevsk -> Bauchi -> Izhevsk -> Tuymazy
+132 : Barreiras -> Abu Kamal -> Skikda -> Georgievsk -> Kassel -> El Cajon -> Skikda -> Faridabad -> El Cajon -> Kassel -> Skikda -> Barreiras -> Baytown -> Skikda -> Ulaanbaatar -> Georgievsk -> El Cajon -> Kassel -> Baytown -> Cherkasy -> Shihezi -> Bossier City -> Ulaanbaatar -> Barreiras -> Faridabad -> Shihezi
+133 : Kaga Bandoro -> Bowling Green -> Flint -> Kaga Bandoro -> Kaga Bandoro -> Flint -> Bend
+134 : Richardson -> San Salvador -> Richardson -> Udine -> San Salvador -> Richardson -> Stralsund -> Stralsund -> Asela -> Asela -> Barra Mansa
+135 : Sammamish -> Marzuq -> Sammamish -> Marzuq -> Marzuq
+136 : La Habra -> Fengcheng -> Fengcheng -> La Habra -> Kattaqorgon -> Fengcheng -> Kattaqorgon -> Kattaqorgon -> La Habra -> Almaty -> La Habra -> Nyanza -> Fengcheng
+137 : Orland Park -> Chistopol -> Porto Santana -> Shishou -> Hamilton -> Shishou -> Bontang -> Porto Santana -> Chistopol -> Hamilton -> Orland Park -> Orland Park -> Orland Park -> Chistopol -> Hamilton -> Hamilton -> Damascus -> Shishou -> Shishou -> Damascus -> Hamilton -> Oum el Bouaghi -> Hamilton -> Hamilton -> Orland Park
+138 : Celaya -> Mauldin -> Mauldin -> Mauldin -> Celaya -> Subotica -> Mauldin -> Celaya -> Ganzhou -> Townsville
+139 : Greeley -> Vladikavkaz -> Yorba Linda -> Frankfurt -> Greeley -> Greeley -> Aksu -> Frankfurt -> Greeley -> Frankfurt -> Greeley -> Limoges -> Aksu -> Aksu -> Vladikavkaz -> Limoges -> Frankfurt
+140 : Lewiston -> Suez -> Lewiston -> Lewiston -> Sassari -> Suez -> Lewiston -> Sassari -> Lewiston -> Lewiston
+141 : Leshan -> Reconquista -> Buguruslan -> Kabwe -> Leshan -> Irkutsk -> Irkutsk -> Buguruslan -> Leshan -> Reconquista -> Kabwe -> Irkutsk -> Irkutsk -> Buguruslan -> Irkutsk -> Leshan
+142 : Velikiye Luki -> Bonita Springs -> Bonita Springs -> Bonita Springs -> Bonita Springs -> Velikiye Luki
+143 : Cambridge -> Majene -> Turnovo -> Cruzeiro do Sul -> Cambridge -> Cruzeiro do Sul -> Cambridge -> New York -> Cambridge -> Majene -> Turnovo -> Cambridge -> Turnovo -> Moca -> Gueckedou -> Cruzeiro do Sul -> Moca -> New York -> Cruzeiro do Sul
+144 : Palmerston North -> Chusovoy -> Chusovoy -> Chusovoy -> Arad -> Palmerston North -> Chusovoy -> Arad -> Palmerston North
+145 : Hualien -> Ahvaz -> Ahvaz -> Port Louis -> Bam -> Akola -> Ahvaz -> Port Louis -> Port Louis -> Warangal -> Akola -> Napier -> Port Louis -> Napier
+146 : Livorno -> Livorno -> Livorno -> Tecoman -> Livorno -> Tecoman -> Tecoman
+147 : Muncie -> Mangyshlak -> Chongjin -> Balboa -> Chongjin -> Balboa -> Mangyshlak -> Chongjin -> Muncie -> Chongjin -> Casper -> Chongjin -> Casper -> Mangyshlak
+148 : Itumbiara -> Salvador -> Itumbiara -> Salvador -> Yingkow
+149 : Magelang -> Jerusalem -> Magelang -> Magelang
+150 : Wuhan -> Franca -> Placetas -> Saint Petersburg -> Ciudad Guayana -> Franca -> Saint Petersburg -> Saint Petersburg -> Wuhan -> Placetas -> Placetas -> Franca -> East London
+151 : Agra -> Cologne -> Cologne -> El Faiyum -> Apucarana -> El Faiyum -> Bahir Dar -> Saint Peters -> Saint Peters -> Fasa -> Saint Peters -> Apucarana -> Fasa -> Groningen -> Fasa -> Fasa -> Groningen -> Saint Peters -> Apucarana -> Apucarana -> Apucarana
+152 : Lafayette -> Rotorua -> Medford -> Lafayette -> Rotorua -> Medford -> As Salt -> Grand Prairie -> Lafayette -> Nazran -> Cabimas -> Medford -> Medford -> Grand Prairie -> As Salt -> Lafayette -> Lafayette -> Cabimas -> As Salt -> Medford -> Rotorua -> Cabimas -> Medford -> Lafayette -> Lafayette -> Grand Prairie -> Cabimas -> Medford -> Medford
+153 : Kamphaeng Phet -> Kokshetau -> Kamphaeng Phet -> Saidu -> Kokshetau -> Guangzhou -> Burgos -> Veracruz -> Kokshetau -> Kokshetau -> Burgos -> Burgos -> Guangzhou -> Nakhon Pathom -> Guangzhou -> Veracruz -> Yangquan -> Guangzhou -> Kamphaeng Phet -> Nakhon Pathom
+154 : Nanchang -> Essen -> Caratinga -> Essen
+155 : Sunchon -> Sunchon -> Bandundu -> Bandundu -> Bandundu -> Katerini -> Zhuozhou -> Zhaodong -> Campo Grande -> Campo Grande -> Zhaodong -> Sunchon -> Katerini -> Zhaodong -> Magadan -> Zhaodong -> Campo Grande -> Katerini
+156 : Chimbote -> Quelimane -> Jilin -> Chimbote -> Ioanina -> Komsomolsk na Amure -> Mascara -> Mascara -> Quelimane -> Quelimane -> Komsomolsk na Amure -> Komsomolsk na Amure -> Komsomolsk na Amure -> Quelimane -> Chimbote
+157 : Szeged -> Gombe -> Gombe -> Gombe -> Bellevue -> Szeged -> Bellevue -> Szeged -> Bellevue -> Bellevue -> Bellevue -> Mwene-Ditu -> Gombe -> Szeged -> Dublin -> Mwene-Ditu -> Gombe -> Mwene-Ditu -> Szeged -> Dublin -> Szeged -> Szeged -> Bellevue -> Dublin -> Szeged -> Gombe -> Bellevue -> Szeged -> Dublin
+158 : Milwaukee -> Milwaukee -> Naga -> Bagamoyo -> Bagamoyo
+159 : Omaha -> Thessaloniki -> Chengdu -> Kadugli -> Al Ladhiqiyah -> Chengdu -> Petrolina -> Kadugli -> Omaha -> Kadugli -> Kadugli -> Chengdu -> Pemba -> Pemba -> Al Ladhiqiyah -> Thessaloniki -> Petrolina -> Omaha -> Omaha
+160 : Abilene -> Abilene -> Abilene -> West Bend -> West Bend
+161 : Lorca -> Singaraja -> Lorca -> Nusaybin -> Burhanpur -> Lorca -> Mission -> Tepic -> Tepic
+162 : Detroit -> Guiyang -> Lahti -> Grants Pass -> Grants Pass -> Guiyang -> Lahti -> Guiyang -> Ipatinga -> Ipatinga
+163 : Arusha -> Rangpur -> Arusha -> Batatais -> Bairin Zuoqi -> Belgrade -> Batatais -> Batatais -> Rangpur
+164 : Amritsar -> Tirunelveli -> Amritsar
+165 : Cagayan de Oro -> Antofagasta -> Taunton -> Cagayan de Oro -> Rock Hill -> Taunton -> Cagayan de Oro -> Taunton -> Cagayan de Oro -> Taunton -> Taunton -> Antofagasta -> Rock Hill -> Nandyal -> Nandyal -> Taunton -> Nandyal -> Rock Hill -> Longxi -> Juchitan -> Antofagasta -> Taunton -> Antofagasta -> Juchitan -> Juchitan -> Juchitan -> Cagayan de Oro
+166 : Linares -> Tuban -> Linares -> Linares -> Chauk -> Khanty Mansiysk -> Chapayevsk -> Balkh -> Khanty Mansiysk -> Balkh -> Linares -> Syracuse -> Syracuse -> Chauk -> Chauk -> Linares -> Linares
+167 : Bozeman -> Green Bay -> Sarnia -> Bozeman -> Gusau -> Amol -> Sarnia -> Sarnia -> Green Bay -> Amol -> Amol -> Green Bay
+168 : Fredericton
+169 : Naypyidaw -> Pittsfield -> Qingdao -> Naypyidaw -> Yanbu al Bahr -> Qingdao -> Pittsfield -> Pittsfield -> Pittsfield -> Qingdao
+170 : Guadalajara -> Guadalajara -> Leticia -> Tulare -> Leticia -> Leticia -> Mahalapye -> Guadalajara -> Leticia -> Guadalajara -> Mahalapye -> Guadalajara -> Guadalajara
+171 : Dhamar -> Suva -> Perugia -> Turpan -> Coral Springs -> Coral Springs -> Dhamar -> Coral Springs -> Dhamar -> Dhamar -> Dhamar -> Suva -> Perugia -> Perugia -> Stavropol
+172 : Dubai -> Dubai -> Arvada -> Chongju -> Arvada -> Dothan -> Dothan -> Bannu -> Jizan -> York -> Chongju -> York -> Bannu -> Arvada -> York -> Samarra -> York -> Samarra -> Arvada -> Arvada
+173 : Racine -> Ilam -> Fairbanks -> Fairbanks -> Wuzhou -> Ilam -> Ilam -> Wuzhou -> Fairbanks -> Youngstown -> Wuzhou -> Racine -> Fairbanks -> Wuzhou -> Fairbanks -> Kiel
+174 : Mbarara -> Stockholm -> Anchorage -> Mbarara -> Stockholm -> Cherbourg -> Anchorage -> Anchorage -> Cheyenne -> Cherbourg -> Anchorage -> Kandy -> Cheyenne -> Stockholm -> Stockholm -> Mbarara -> Cherbourg
+175 : Sudbury -> Rochester -> Toliara -> Keffi -> Rochester -> Atlanta -> Rochester -> Toliara -> Toliara -> Atlanta -> Rochester -> Sudbury -> Rochester -> Toliara -> Atlanta
+176 : Khaskovo -> Valdosta -> Khaskovo -> Valdosta -> Yamoussoukro -> Yamoussoukro -> Yamoussoukro -> Sonipat -> Valdosta -> Yamoussoukro -> Valdosta -> Xinyang -> Valdosta -> Xinyang
+177 : Iskitim -> Iskitim -> Iskitim -> Iskitim
+178 : Iguala -> Iguala -> Harare -> Les Cayes -> San Pedro -> Nyagan -> Jinja -> Les Cayes -> Merida -> Iguala -> Jinja -> Nyagan -> Nyagan -> San Pedro -> Iguala -> Jinja -> San Pedro -> Harare -> Les Cayes -> Jinja
+179 : Colima -> Colima -> Novokuybishevsk -> Norwich -> Suihua -> Norwich -> Kayes -> Norwich -> Colima -> Alicante -> Novokuybishevsk -> Norwich -> Norwich -> Norwich -> Suihua -> Kayes -> Kayes -> Norwich -> Colima -> Lubumbashi -> Norwich -> Alicante -> Novokuybishevsk -> Colima -> Alicante -> Zhoukou
+180 : Saltillo -> Gadsden -> Tall Afar -> Temple -> San-Pedro -> Tall Afar -> Gadsden -> Saltillo -> Saltillo -> San-Pedro
+181 : Bolu -> Oak Lawn -> Council Bluffs -> Ruhengeri -> Guanare -> Guanare -> Bolu -> Huancayo -> Bolu -> Ruhengeri -> Bolu -> Sanford -> Sanford -> Council Bluffs -> Sanford -> Guanare -> Huancayo -> Hathras -> Hathras -> Ruhengeri -> Hathras
+182 : Hannover -> Khujayli -> Hannover -> San Miguel -> Khujayli -> Maracay -> Huaiyin -> Hannover -> Hannover -> Maracay
+183 : Yamagata -> Parma -> Yamagata -> Maina -> Yamagata -> Wuwei -> Wuwei -> Lanzhou -> Parma -> Banda Aceh -> Severomorsk -> Parma -> Banda Aceh -> Budapest -> Konotop -> Konotop -> Parma -> Wuwei -> Banda Aceh -> Maina -> Parma
+184 : Maribor -> Keren -> Keren -> Maribor -> Kroonstad -> Maribor -> Paarl -> Pali -> Paarl -> Lahat -> Nakhon Ratchasima -> Paarl -> Pali -> Pali -> Kroonstad -> Pali -> Pali -> Nakhon Ratchasima -> Paarl -> Maribor
+185 : Lahij -> Arlington -> Dearborn -> Volzhskiy -> Arlington -> Arlington -> Nizhenvartovsk -> Lahij -> Nizhenvartovsk -> Lahij -> Volzhskiy -> Dearborn -> Nizhenvartovsk
+186 : Arapongas -> Vyshnniy Volochek -> Vyshnniy Volochek -> Tallinn -> Tallinn -> Quzhou -> Heze -> Arapongas -> Arapongas -> Heze
+187 : Nanaimo -> Kashgar -> Phetchabun -> Phetchabun -> Phetchabun
+188 : Divo -> Iquique -> Shinyanga -> Cuenca -> Shinyanga -> Divo -> Divo -> Cuenca
+189 : Limbe -> Jodhpur -> Limbe -> Natitingou -> Natitingou -> Biel -> Natitingou -> Biel -> Jodhpur -> Natitingou -> Limbe
+190 : Taoyuan -> Pa-an -> Beni -> Taoyuan -> Pa-an -> Hulan Ergi -> Pa-an -> Taoyuan -> Pa-an -> Taoyuan -> Taoyuan -> Beni -> Hulan Ergi
+191 : Shillong -> Takamatsu -> Savannakhet -> Ciudad Valles -> Takamatsu -> Savannakhet -> Shillong -> Ciudad Valles -> Savannakhet -> Takamatsu -> Savannakhet
+192 : Ormac -> Anderson -> Sibay -> Anderson -> Maykop -> Lorain -> Anderson -> Sibay -> Ormac -> Maykop -> Lorain -> Beledweyne
+193 : Berlin -> Berlin -> St.-Denis -> Berlin -> Wum -> St.-Denis -> Yopal -> Yopal -> St.-Denis -> Wum -> Berlin -> Wum -> St.-Denis
+194 : Guwahati -> San Cristobal de Las Casas -> Lappeenranta -> San Cristobal de Las Casas -> Kalyan -> San Cristobal de Las Casas
+195 : Saywun -> Rio Claro -> Singapore -> Campobasso -> Rio Claro -> Singapore -> Owo -> West New York -> Sungaipenuh -> West New York -> Owo -> Bizerte -> Bangkok -> West New York -> Campobasso -> Saywun -> Bangkok -> Khiwa -> Bizerte -> Singapore -> Rio Claro -> Bangkok -> Owo -> West New York -> Garden Grove -> Campobasso -> Rio Claro -> Rio Claro
+196 : Nairobi -> La Serena -> Taipei -> Leipzig -> Leipzig -> La Serena -> Nairobi
+197 : Lobatse -> Rostock -> Rostock -> Lobatse -> Rostock -> Francistown -> Lobatse -> Livermore -> Francistown
+198 : Monrovia -> Karakol -> Karakol -> Monrovia -> Monrovia -> Dallas -> Dallas -> Monrovia
+199 : Pingxiang -> Gilbert -> South Gate -> Yuma -> Ivano-Frankivsk -> Gilbert -> Taungoo -> Yuma -> Barrancabermeja -> Taungoo -> Yuma -> Yuma -> Ivano-Frankivsk -> Kramatorsk -> South Gate -> Taungoo -> Taungoo -> Taungoo -> Pingxiang -> Klagenfurt -> Kramatorsk -> South Gate
+200 : Narathiwat -> Narathiwat -> Nowra -> Si Racha -> Bukittinggi -> Narathiwat -> Zanzibar -> Bukittinggi -> Nowra -> Bukittinggi -> Bukittinggi -> Si Racha -> Si Racha -> Bukittinggi
+201 : Mirzapur -> Vladimir -> Vladimir -> Arak -> Morristown -> Azul -> Arak -> Mirzapur -> Morristown -> Velikiy Novgorod -> Mirzapur
+202 : Bratislava -> Bratislava -> Prague
+203 : Uitenhage -> Uitenhage -> Tieling -> Tieling -> Tieling -> Siirt -> Uitenhage
+204 : Huntington -> Opole -> Troitsk -> Troitsk -> Huntington -> Opole -> Asbest -> Yibin
+205 : Shaoguan -> Shaoguan -> Shaoguan -> Shaoguan
+206 : Jambi -> Hailun -> Guilin -> Hailun -> Wichita -> Hailun -> Wichita -> Wichita -> Guilin -> Guilin -> Jambi -> Jambi -> Guilin
+207 : Nelson -> Asmara -> Montero -> Asmara -> Asmara -> Nelson -> Montero
+208 : Canberra -> Canberra -> Changchun -> Canberra -> Agua Prieta -> Canberra -> Tours -> Pasco -> Pasco -> Amiens -> Tours -> Saint John -> Pasco -> Saint John -> Pasco -> Changchun -> Tours -> Canberra -> Singida
+209 : Iraklio -> Iraklio -> Iraklio -> Uroteppa -> Iraklio -> Uroteppa -> Iraklio -> Uroteppa -> Bowie -> Etawah -> Iraklio
+210 : Winchester -> Beaverton -> Winchester -> Beaverton -> Sendai
+211 : Manisa -> Misratah -> Musoma -> Vaasa -> Garland -> Garland -> Topeka -> Topeka -> Mutare -> Topeka -> Garland -> Garland -> Kirov -> Mutare -> Gejiu -> Manisa -> Mutare -> Musoma -> Mutare -> Gejiu -> Musoma -> Vaasa -> Musoma -> Kirov -> Musoma -> Kirov
+212 : Xiamen -> Xiamen -> Pati -> Dalton -> Xiamen -> Angoche -> Pati -> Xiamen -> Livonia
+213 : Binga -> Dali -> Riverside -> Binga -> Hania -> Riverside -> Dali -> Riverside -> Hania -> Hania -> Dali -> Hania -> Dali -> Riverside -> Dali -> Hania
+214 : Fukushima -> Hechi -> Shanghai -> San Marcos -> Hinthada -> San Marcos -> Moreno Valley -> San Marcos -> Fukushima -> Shanghai -> Hechi -> Hechi -> Kamina -> Hinthada -> Moreno Valley -> San Marcos -> San Marcos -> Hechi -> Hechi -> Hinthada -> Boulder -> Montpellier -> Bremerton -> Moreno Valley -> Lorient -> Shanghai -> Bremerton -> Boulder -> Hechi
+215 : Chilpancingo -> Kragujevac -> Kragujevac -> Chilpancingo -> Port-of-Spain -> Buenaventura -> Cabanatuan -> Chilpancingo -> Buenaventura -> Chilpancingo -> Port-of-Spain -> Buenaventura
+216 : Suileng -> Mombasa -> Maizuru -> Yakeshi -> Suileng -> Calais -> Suileng -> Grand Bassam -> Pyongyang -> Calais -> Yakeshi -> Grand Bassam -> Maizuru -> Calais -> Yakeshi
+217 : Burlington -> Burlington -> Burlington -> Burlington -> Feira de Santana -> Feira de Santana -> Burlington -> Warri -> Burlington -> Burlington -> Turkistan -> Warri -> Burlington -> Feira de Santana -> Warri
+218 : Caxias do Sul -> Owerri -> Owerri -> Sumter -> Owerri -> Zhuanghe -> Caxias do Sul -> Mesquite -> Voronezh -> Caxias do Sul -> Caxias do Sul -> Sumter -> Mesquite -> Voronezh -> Mesquite -> Bose -> Reynosa -> Zhuanghe -> Sumter -> Reynosa -> Zhuanghe -> Sumter -> Bose
+219 : Porto -> Sapporo -> Porto -> Juigalpa -> Reims -> Reims -> Juigalpa -> Mulhouse -> Ende -> Porto -> Ende -> Mulhouse
+220 : Palm Beach Gardens -> Palm Beach Gardens -> Wilmington -> Wilmington -> Byumba -> Palm Beach Gardens -> Xichang -> Xichang -> Wilmington -> Tikhvin -> Ankang -> Xichang -> Karachi -> Wilmington -> Byumba -> Tikhvin -> Xichang
+221 : Simao -> Kanchanaburi -> Mbalmayo -> Kanchanaburi -> Eindhoven -> Simao -> Simao -> Kanchanaburi -> Eindhoven -> Qurghonteppa -> Kanchanaburi -> Simao -> Simao -> Eindhoven -> Eindhoven
+222 : Irapuato -> Salima -> Olsztyn -> Salima -> Governador Valadares -> Governador Valadares -> Olsztyn -> Port Shepstone -> Irapuato -> Olsztyn -> Port Shepstone -> Governador Valadares
+223 : Okayama -> Al Hudaydah -> Okayama -> Okayama -> Los Andes -> Los Andes -> Los Andes -> Los Andes
+224 : Nabatiye et Tahta -> Larissa -> Noginsk -> Taza -> Larissa -> Nabatiye et Tahta -> Nabatiye et Tahta -> Taza -> Larissa -> Noginsk -> Taza -> Larissa -> Roxas -> Noginsk -> Roxas -> Huzhou
+225 : Gera -> Al Kharj -> Kovrov -> Standerton -> Bundaberg -> Salem -> Kovrov -> Salem -> Standerton -> Al Kharj -> Kovrov -> Dingzhou -> Salem -> Salem -> Standerton -> Gera -> Salem -> Salem -> Standerton -> Salem -> Haiphong
+226 : Harrisonburg -> Chimaltenango -> Sherman -> Iskandar -> Iskandar -> Iskandar -> Kielce -> Chimaltenango -> El Banco -> Wenshan -> Iskandar -> El Banco -> Harrisonburg -> Sherman -> Iskandar -> Harrisonburg -> Wenshan -> El Banco
+227 : 's-Hertogenbosch -> Zhaoqing -> Zhaoqing -> 's-Hertogenbosch -> Zhaoqing -> Zhaoqing
+228 : Anaheim -> Abbottabad -> Pskov -> Ancona -> El Oued -> Ayr -> Ayr -> Pskov -> Pskov -> Pskov -> Abbottabad -> Kirkuk -> Pskov -> El Oued -> El Oued -> El Oued -> Pskov -> Suining -> Ancona -> Kirkuk -> El Oued -> Suining -> Ancona -> Ancona -> Ayr -> Anaheim -> Abbottabad -> Kirkuk
+229 : Sibiu -> Kristiansand -> Kristiansand -> Sibiu -> Puerto Barrios -> Kristiansand -> Novosibirsk -> Sibiu -> Sibiu -> Malayer -> Sibiu -> Sibiu -> Kristiansand -> Novosibirsk -> Staunton -> Malayer -> Kristiansand
+230 : Shuya -> Al Amarah -> Tokar -> Cupertino -> Cupertino -> Tokar -> Shuya -> Tokar -> Shuya -> Cupertino
+231 : Itapeva -> Saharanpur -> Ambala -> Saharanpur -> Ambala -> Ambala -> Ambala -> Abadan -> Abadan -> Saharanpur -> Abadan -> Abadan
+232 : Tuxpam -> Tuxpam -> Suhar -> Suhar -> Lynwood -> Tuxpam -> Madurai -> Lynwood -> Chetumal -> Tuxpam -> Garissa -> Suhar -> Garissa -> Sumbawanga -> Lynwood -> Chetumal
+233 : Pasadena -> Pasadena -> Bulandshahr -> Bulandshahr -> Cajamarca -> Pasadena -> Cajamarca -> Pabna -> Bulandshahr -> Bulandshahr -> Kremenchuk -> Pasadena -> Pabna -> Cajamarca
+234 : Ciudad del Este -> Harlingen -> Harlingen -> Ciudad del Este -> Ciudad del Este -> Nizhnekamsk -> Ciudad del Este -> Nizhnekamsk -> Niyala -> Nizhnekamsk -> Harlingen -> Niyala
+235 : Lynn -> Rashid -> Rashid -> Rashid -> Mexicali -> Lynn -> Lynn -> Rancagua -> Omdurman -> Mexicali -> Rancagua -> Mexicali
+236 : As Sulaymaniyah -> Ponta Grossa -> Fujin -> Tula -> Fujin -> Fujin -> As Sulaymaniyah
+237 : Langsa -> Baotou -> Overland Park -> Langsa -> Langsa -> Baotou -> Overland Park -> Baotou -> Mysore -> Baotou -> Baotou -> Mysore -> Mysore -> Baotou -> Overland Park -> Langsa
+238 : Solnechnogorsk -> Launceston -> Antsiranana -> Abaetetuba -> Johns Creek -> Launceston -> Karlovac -> Abaetetuba -> Johns Creek -> Karlovac -> Antsiranana -> Launceston -> General Pico -> Karlovac -> Abaetetuba -> Solnechnogorsk -> Hotan -> Prince George -> Johns Creek -> Solnechnogorsk -> Johns Creek -> Prince George -> Solnechnogorsk
+239 : Bandar-e-Abbas -> Itaituba -> Bujumbura -> Itaituba -> Bujumbura -> Coeur d'Alene -> Huaibei -> Sogamoso -> Sogamoso -> Bujumbura -> Bandar-e-Abbas -> Bujumbura -> Coeur d'Alene -> Huaibei -> Sogamoso
+240 : Pula -> Cerritos -> Kavala -> Kavala -> Lodja -> Lodja -> Kentwood -> Pula -> Kavala -> Pula -> Bogota -> Cerritos -> Kavala
+241 : Chinhoyi -> Andkhvoy -> Esbjerg -> Chinhoyi -> Usti Nad Labem -> Usti Nad Labem -> Esbjerg -> Bojnurd -> Esbjerg -> Esbjerg -> Andkhvoy -> Bojnurd -> Bojnurd -> Matehuala -> Bojnurd -> Bojnurd -> Usti Nad Labem
+242 : Meriden -> Meriden -> Vejle -> Port-Gentil -> Wellington -> Meriden -> Meriden -> Meriden -> Meriden -> Port-Gentil
+243 : Los Angeles -> Waterloo -> Madang -> Shadrinsk -> Los Angeles -> Waterloo -> Los Angeles -> Madang -> Trento -> Gyumri -> Shadrinsk -> Gyumri -> Waterloo -> Armenia
+244 : Dezhou -> Navoi -> Cairns -> Korosten -> Dezhou -> Navoi -> Erzurum -> Erzurum -> Caracas -> Blantyre -> Navoi
+245 : Uyo -> Hegang -> Ushuaia -> Hegang -> Hegang -> Apple Valley -> Hegang -> Ushuaia -> Ushuaia -> Apple Valley -> Apple Valley -> Hegang -> Siem Reap -> Apple Valley -> Apple Valley -> Sapele
+246 : Bogor -> Canoas -> Kendari -> London -> Vizianagaram -> Kendari -> Canoas -> Jiexiu -> Dibrugarh -> Bogor -> London -> Kendari -> London -> Bogor -> Vizianagaram -> London -> Bogor -> Canoas -> London -> Vizianagaram
+247 : Duitama -> Duitama -> Praia -> Praia
+248 : Novorossiysk -> Rio Branco -> Rio Branco -> Novorossiysk -> Karlstad -> Novorossiysk -> Amman -> Rio Branco -> Tamazunchale -> Karlstad -> Karlstad -> Novorossiysk
+249 : Liaocheng -> Urgut -> Slobozia -> Beaumont -> Tulsa -> Slobozia -> Beaumont -> Slobozia -> Beaumont -> Liaocheng -> Tulsa
+250 : Gary -> Marrakesh -> Gary -> Marrakesh -> Marrakesh -> Gary
+251 : Marseille -> Pittsburg -> Saidpur -> Marseille -> Pittsburg -> Dover -> Mariupol -> Tampico -> Compton -> Dover -> Tampico -> Compton -> Saidpur -> Marseille -> Marseille -> Pittsburg -> Marseille -> Saidpur -> Marseille -> Dover -> Saidpur -> Dover -> Pittsburg -> Marseille
+252 : Porlamar -> Cagliari -> Lipetsk -> Nevinnomyssk -> Padangsidempuan -> Lishui -> Bratsk -> Nevinnomyssk -> Cagliari -> Bratsk -> Padangsidempuan -> Cagliari -> Lipetsk
+253 : Trieste -> Elizabeth -> Bitola -> Bitola -> Gonbad-e Kavus -> Bitola -> Gonbad-e Kavus -> Zonguldak -> Elizabeth -> Elizabeth -> Bonn -> Gonbad-e Kavus -> Homyel -> Zonguldak -> Trieste -> Bonn -> Trieste -> Chilliwack -> Chilliwack -> Elizabeth
+254 : Mbale -> Changsha -> Port Arthur -> Redmond -> Redmond -> Redmond -> Wheaton -> Mbale -> Wheaton
+255 : El Centro -> Karbala -> San Bernardino -> El Centro -> Linz -> El Centro -> Karbala -> San Bernardino
+256 : Beirut -> Bondoukou -> Chiang Rai -> Idah -> St. Petersburg -> Chiang Rai -> Chiang Rai -> Ariquemes -> Ariquemes -> Ariquemes -> Beirut -> St. Petersburg -> Bekasi -> St. Petersburg -> Idah -> St. Petersburg -> Beirut -> St. Petersburg -> Beirut -> Bondoukou -> Beirut -> Beirut
+257 : Piraeus -> Okara -> Okara -> Okara -> Piraeus -> Piraeus
+258 : Vigo -> Zwolle -> Vigo -> Asheville -> Asheville -> Asheville -> Tema -> Zwolle -> Zwolle -> Vigo -> Durango -> Trinidad -> Tema -> Asheville -> Durango -> Tema -> Zwolle -> Durango
+259 : Olmaliq -> Medinipur -> Medinipur -> Olmaliq -> Baishan -> Medinipur -> Medinipur -> Nottingham -> Medinipur -> Baishan -> Baishan -> Albuquerque -> Albuquerque -> Medinipur -> Nottingham
+260 : Mogadishu -> Frisco -> Frisco -> Mogadishu -> Kilis -> Mogadishu -> Frisco -> Sirsa -> Luzern -> Frisco -> Sirsa -> Luzern -> Luzern -> Frisco
+261 : Emden -> Emden -> Emden -> Lima -> Lima
+262 : Tijuana -> Bursa -> Guajara-Miram -> Pompano Beach -> Guajara-Miram -> Tijuana -> Miramar -> Phan Rang -> Phan Rang -> Pompano Beach -> Pompano Beach -> Miramar -> Bursa -> Bo -> Tijuana
+263 : Escuintla -> Escuintla -> Escuintla -> Escuintla -> Escuintla -> Escuintla -> Escuintla
+264 : Freiburg -> Matola -> Atlantic City -> Matola -> Freiburg -> Kinshasa -> Atlantic City -> Atlantic City -> Koblenz -> Koblenz -> Sofia -> Zhongli -> Matola -> Koblenz -> Sofia
+265 : Benguela -> Umuahia -> Tidore -> Benguela -> Benguela -> Benguela -> Benguela -> Sunnyvale -> Woodbury -> Umuahia -> Tidore -> Mangochi -> Sakata -> Texas City -> Sakata -> Tidore -> Sakata -> Sakata -> Umuahia
+266 : Chernogorsk -> Paramaribo -> Grand Rapids -> Yala -> Yala -> Perth -> Paramaribo -> Karlsruhe -> Chernogorsk -> Karlsruhe -> Yala -> Grand Rapids -> Yala
+267 : Leesburg -> Cork -> Formosa -> Leesburg -> Braga -> Maroua -> Leesburg -> Parepare -> Braga -> Formosa -> Formosa -> Formosa -> Braga -> Leesburg -> Parepare -> Dushanbe -> Maroua -> Troy -> Basel -> Formosa -> Cork -> Cork -> Leesburg -> Troy -> Troy -> Leesburg -> Parepare -> Cork -> Leesburg
+268 : New Britain -> Proddatur -> Middelburg -> Middelburg -> Pokhara -> Middelburg -> Middelburg -> Proddatur -> San Carlos de Bariloche -> Raleigh -> Pokhara -> Raleigh -> Muskegon -> Pokhara -> San Carlos de Bariloche -> Muskegon -> Raleigh -> Proddatur
+269 : Chulucanas -> Koszalin -> Keshan -> Chulucanas -> Chulucanas -> Piatra-Neamt -> Koszalin -> Chulucanas
+270 : Lavras -> Gogrial -> Gogrial -> Tebingtinggi -> Barcelona -> Barcelona -> Barcelona -> Tebingtinggi -> Upington -> Barcelona -> Gogrial -> Iksan -> Barcelona -> Tebingtinggi -> Gogrial -> Upington -> Upington
+271 : Shakhty -> Wiener Neustadt -> Wiener Neustadt -> Shakhty -> Linhares -> Evanston -> Hendersonville -> Evanston -> Shijianzhuang -> Wiener Neustadt -> Shijianzhuang -> Bronx -> Shakhty -> Shakhty -> Shakhty -> Shijianzhuang -> Meymaneh -> Hendersonville -> Wiener Neustadt -> Bronx -> Meymaneh -> Hendersonville
+272 : Tadmur -> Tadmur -> Johor Bahru -> Tadmur -> Johor Bahru
+273 : Trondheim -> Portoviejo -> Al Fujayrah -> Fontana -> Fontana -> Chongqing -> Portoviejo -> Siliguri -> Seres -> Charikar -> Fontana -> Fontana -> Al Fujayrah -> Chongqing -> Tarma -> Chongqing -> Trondheim -> Tarma -> Bolgatanga -> Siliguri -> Charikar -> Chongqing
+274 : Ongole -> Gilroy -> Oxnard -> Gilroy -> Oxnard -> Ongole -> Oxnard -> Pakokku -> Kelang -> Oxnard -> Ongole -> Oxnard
+275 : Jupiter -> Phan Thiet -> Jupiter -> Jupiter -> Murcia -> Murcia
+276 : Drobeta-Turnu Severin -> Lansing -> Aba -> Perris -> Perris -> Dera Ismail Khan -> Aba -> Drobeta-Turnu Severin -> Lansing -> Lansing
+277 : Gent -> San Nicolas -> San Nicolas -> Jincheng -> Jincheng -> Kentau -> San Nicolas -> Jincheng -> Jincheng -> Kentau
+278 : Monroe -> Mianyang -> Miri -> Mianyang -> Huntington Beach -> Huntington Beach -> Monroe -> Arsenyev -> Arsenyev -> Kamloops -> Miri -> Monroe -> Kamloops -> An Nasiriyah -> Kamloops -> Monroe -> Miri -> Monroe -> An Nasiriyah -> Kamloops -> Huntington Beach
+279 : Bergamo -> Armavir -> Winston-Salem -> Qui Nhon -> Winston-Salem -> Half Way Tree -> Bergamo -> Winston-Salem -> Vilhena -> Qui Nhon -> Xinyu -> Winston-Salem -> Bergamo
+280 : West Valley City -> Porirua -> Lincoln -> Lincoln -> Qaraghandy -> West Valley City -> Salzburg -> Aurangabad -> Qaraghandy -> Qaraghandy -> Porirua -> Aurangabad -> Aurangabad -> West Valley City -> Qaraghandy -> West Valley City
+281 : Hisar -> Hisar -> Hisar -> Hisar
+282 : Pangkalpinang -> Pangkalpinang -> Brovary -> Makeni -> George -> Surat -> Benoni -> Sargodha -> Ishim -> Brovary -> George -> George -> Ishim -> Brovary -> Makeni -> Sargodha -> Benoni -> George
+283 : Apopka -> Hindupur -> Jiujiang -> Newport Beach -> Skien -> Tarragona -> Khvoy -> Tarragona -> Apopka -> Khvoy -> Jiujiang -> Wuhai -> Newport Beach
+284 : Watampone -> Fort-de-France -> Eger -> Kamensk Shakhtinskiy -> Eger -> Stoke -> Matamoros -> Eger -> Eger -> Eger -> Matamoros -> Kamensk Shakhtinskiy -> Kamensk Shakhtinskiy
+285 : Commerce City -> Mocambique -> Commerce City -> Mocambique -> Nakhon Phanom -> Commerce City -> La Plata -> Nakhon Phanom -> La Plata -> Lao Chi -> Meridian
+286 : Victoria -> Bertoua -> Bertoua -> Mobile -> Thunder Bay -> Sikasso -> Bertoua -> Victoria -> Thunder Bay -> Sikasso -> Charlottesville -> Sikasso -> Mobile -> Ibarra -> Bertoua -> Ibarra -> Ibarra -> Nassau -> Mobile -> Sikasso -> Bertoua -> Bertoua -> Victoria -> Ibarra -> Charlottesville -> Miskolc -> Thunder Bay -> Jaffna -> Bertoua -> Jaffna -> Thunder Bay -> Rocky Mount -> Mobile -> Victoria
+287 : Ust-Ulimsk -> Ust-Ulimsk -> Fukuoka -> Ust-Ulimsk -> Ust-Ulimsk -> Ust-Ulimsk
+288 : Nagoya -> Birganj -> Severodvinsk -> Passau -> Hamamatsu -> Hamamatsu -> Huntsville -> Severodvinsk -> Birganj -> Nagoya -> Huntsville -> Birganj -> Hamamatsu -> Hamamatsu
+289 : Hengshui -> Livingstone -> Livingstone
+290 : Erie -> Bafra -> Erie -> Tel Aviv-Yafo -> Tel Aviv-Yafo -> Legazpi -> Legazpi -> Erie -> Tel Aviv-Yafo -> Erie -> Erie -> Legazpi -> Bafra -> Volgodonsk -> Isparta -> Isparta
+291 : Passo Fundo -> Gaalkacyo -> Shulan -> Sherbrooke -> Sherbrooke -> Madiun -> Sarh -> Passo Fundo -> Kurgan -> Piracicaba -> Gaalkacyo -> Sarh -> Shulan -> Sarh -> Kurgan -> Shulan -> Shulan -> Sarh -> Kurgan -> Kurgan
+292 : Pescara -> Asahikawa -> Asahikawa
+293 : Ruteng -> Samarqand -> Tambacounda -> Zhuhai -> Pingdu -> Pingdu -> Zhuhai -> Pingdu -> Samarqand -> Zhuhai -> Zhuhai -> Djougou -> Zhuhai -> Tambacounda -> Jalal Abad -> Ruteng -> Zhuhai -> Pingdu -> Samarqand -> Tambacounda -> Djougou -> Pingdu -> Ruteng
+294 : Kismaayo -> Latur -> Latur -> Puerto Plata -> Kismaayo -> Kismaayo -> Puerto Plata -> Puerto Plata -> Kismaayo -> Kismaayo -> Marietta -> Puerto Plata -> Puerto Plata -> Kismaayo
+295 : Campo Murao -> Santa Clara -> Santa Clara -> Campo Murao -> Oral -> Oral -> Campo Murao -> Changting -> Tbilisi -> Changting -> Gangneung -> Yanji -> Santa Clara -> Gangneung -> Gangneung -> Changting -> Santa Clara
+296 : Solikamsk -> Red Deer -> Saint Charles -> Solikamsk -> Saint Charles -> Red Deer
+297 : Zephyrhills -> Zephyrhills -> Castanhal -> Jawhar -> Zephyrhills -> Long Beach -> Uruguaiana -> Castanhal -> Long Beach
+298 : Kerman -> Vladivostok -> Maracaibo -> Los Mochis -> Kerman -> Vladivostok -> Nashville -> Kerman
+299 : Santa Cruz de Tenerife -> Doha -> Bay City -> Louga -> Santa Cruz de Tenerife -> Bay City -> Iseyin -> Santa Cruz de Tenerife -> Iseyin -> Louga -> Rancho Cordova -> Louga -> Vista -> Rancho Cordova -> Santa Cruz de Tenerife -> Vista -> Louga -> Iseyin -> Bay City
+300 : Jackson -> Jackson -> Kostroma -> Lower Hutt -> Lower Hutt -> Jiutai -> Jackson -> Chattanooga -> Jiutai -> Providence -> Jackson -> Chattanooga -> Lower Hutt -> Lower Hutt -> Jackson -> Malanje -> Jackson -> Trujillo -> Chattanooga -> Jackson -> Providence -> Chattanooga -> Jackson -> Jackson -> Jackson -> Jackson
+301 : Ibb -> Fuyang -> Fuyang -> Flagstaff -> Ibb -> Coimbra -> Fuyang -> Baranavichy -> Ibb -> Coimbra -> Ibb -> Baranavichy -> Baranavichy -> Fuyang -> Fuyang
+302 : Kimberley -> Kalamazoo -> Porterville -> Porterville -> Kalamazoo -> Kimberley -> Heyuan -> Porterville
+303 : Queens -> Huehuetenango -> Gafsa -> Biratnagar -> Biratnagar -> Gafsa -> Queens -> Krasnokamensk -> Bhopal -> Queens -> Queens -> Bhopal -> Krasnokamensk -> Biratnagar
+304 : Mount Vernon -> Stamford -> Stamford -> Cuttack -> Cuttack -> Mount Vernon -> Hanoi -> Al Khums -> Mount Vernon -> Quillacollo -> Hanoi -> Stamford -> Quillacollo -> Quillacollo -> Mount Vernon -> Cuttack -> Birobidzhan -> Hanoi -> Quillacollo -> Birobidzhan -> Gresham -> Huangshi -> Mount Vernon
+305 : Acapulco -> Acapulco -> Bucaramanga -> Bucaramanga -> May Pen -> Kashmar -> May Pen -> Sekondi -> Kashmar -> Bucaramanga -> Kashmar -> Birni Nkonni -> Rocklin -> Rocklin -> Birni Nkonni -> Bucaramanga -> Ordu -> Acapulco -> Bucaramanga -> Birni Nkonni -> Ordu -> May Pen -> Rocklin -> Birni Nkonni -> Ordu
+306 : Pori -> Woodland -> Idlib -> Idlib -> Pori -> Idlib -> Pori -> Castle Rock -> Idlib -> Az Zarqa -> New Brunswick -> Woodland -> Woodland -> Castle Rock -> Az Zarqa
+307 : Saint George -> Winnipeg -> San Fernando -> Ratlam -> Ratlam -> Saint George -> San Fernando -> San Fernando -> Siracusa -> La Romana -> Ratlam -> Saint George -> Winnipeg -> Saint George -> Winnipeg -> Aqtobe -> Aqtobe -> San Fernando -> Siracusa -> Aqtobe -> San Fernando -> Winnipeg -> Aqtobe
+308 : Luhansk -> Zicheng -> Kampot -> Nyeri -> Zicheng -> Comilla -> Zicheng -> Nyeri -> Kampot -> Londonderry -> Comilla -> Kampot -> Nuevitas -> Londonderry -> Punta del Este -> Zicheng -> Nacala -> Zicheng -> Zicheng -> Luhansk
+309 : Uvira -> Kenitra -> Rajshahi -> Rajshahi -> Jiamusi -> Shaowu -> Jiamusi -> Uvira -> Uvira -> Uvira -> Jiamusi
+310 : Moncton -> Santee -> Santee -> Villavicencio -> Baguio City -> Kuqa -> Santee -> Turlock -> Kuqa -> Zadar -> Moncton -> Moncton -> Zadar -> Villavicencio -> Sari -> Baguio City -> Baguio City -> Villavicencio -> Santee -> Santee -> Villavicencio -> Villavicencio -> Turlock -> Moncton
+311 : Boca Raton -> Boca Raton -> Surt -> Passos -> Hami
+312 : Morogoro -> Nawabganj -> Maxixe -> Morogoro -> Morogoro -> Maxixe -> Maxixe -> Morogoro -> Morogoro -> Kericho -> Rajahmundry -> Nawabganj -> Kericho -> Eugene -> Nawabganj -> Nawabganj -> Rajahmundry -> Apex
+313 : Lhokseumawe -> Lhokseumawe -> Lhokseumawe
+314 : Zomba -> Leicester -> Campos -> Leicester -> Zomba -> Cayenne -> Campos -> Zomba -> Dar es Salaam -> Sisophon -> Valletta -> Valletta -> Campos -> Valletta
+315 : Santo Domingo -> Bani Walid -> Bidar -> Burbank -> Cedar Rapids -> Santo Domingo -> Shoreline -> Shoreline -> Santo Domingo -> Shoreline -> Bani Walid -> Cedar Rapids -> Bani Walid -> Burbank -> Des Moines -> Shoreline -> Cedar Rapids -> Des Moines -> Santo Domingo -> Santo Domingo -> Santo Domingo
+316 : Port Elizabeth -> Matsue -> Matsue -> Matsue -> Port Elizabeth -> Port Elizabeth -> Matsue -> Abidjan -> Dengzhou -> Matsue -> Port Elizabeth -> Abidjan -> Dengzhou -> Abidjan -> Abidjan
+317 : Delray Beach -> Chimoio -> Chimoio -> Changzhou -> Beian -> Otaru -> Changzhou -> Angeles -> Changzhou -> Changzhou -> Angeles -> Beian -> Otaru -> Otaru -> Delray Beach -> Angeles -> Chimoio -> Beian
+318 : Wiesbaden -> Kastamonu -> Shymkent -> Wiesbaden -> Kastamonu -> Shymkent -> Shymkent -> Malatya -> Shymkent -> Malatya -> Kastamonu
+319 : Corpus Christi -> Huinan -> Agboville -> Agboville -> Reno -> Huinan -> Agboville -> Corpus Christi -> Reno -> Zigong -> Huinan -> Corpus Christi -> Saint Clair Shores -> Saint Clair Shores -> Saint Clair Shores
+320 : Dera Ghazi Khan -> Bhisho -> Lecce -> Shiraz -> Salalah -> Bhisho -> Shiraz -> Shiraz -> Dera Ghazi Khan -> Salatiga -> Salalah -> Salatiga -> Salatiga -> Dera Ghazi Khan
+321 : Pharr -> Koktokay -> Balikpapan -> Diamond Bar -> Pharr -> El Fasher -> Diamond Bar -> Balikpapan -> Balikpapan -> El Fasher -> Diamond Bar -> Pharr -> Pharr
+322 : Sanaa -> Sundsvall -> Concord -> Concord -> Sundsvall -> Kipushi -> Londrina -> Concord -> Sundsvall -> Sanaa -> Mary -> Sanaa -> Grand Junction -> Sanaa -> Sundsvall -> Kipushi -> Grand Junction -> Grand Junction
+323 : Carson City -> Kati -> Mudon -> Xian -> Carson City -> Xian -> Carson City -> Xian -> Sumqayt -> Sumqayt -> Knysna -> Mudon -> Kati
+324 : Madinat ath Thawrah -> Madinat ath Thawrah -> Shahjahanpur -> Helong -> Catania -> Catania -> Catania -> Helong -> Uvinza -> Mwanza -> Madinat ath Thawrah -> Helong -> Mwanza -> Helong -> Uvinza -> Mwanza -> Shahjahanpur
+325 : Alton -> Alton -> Southampton
+326 : Plano -> Malabo -> Plano -> Madison -> Malabo -> Plano -> Madison -> San Pedro de las Colonias -> San Pedro de las Colonias -> Madison
+327 : Bradford -> Biskra -> Shanxian -> Haora -> Kolomna -> Bradford -> Haora -> Pathein -> Haora -> Waco -> Texarkana -> Shanxian -> Pathein -> Zahedan -> Duisburg -> Duisburg -> Waco -> Pathein -> Pathein -> Bradford -> Haora -> Texarkana -> Biskra -> Waco -> Shanxian -> Shanxian
+328 : Palmdale -> Bern -> Bern
+329 : Borisoglebsk -> Rafha -> Rafha -> Borisoglebsk -> Rafha -> Samara -> Liepaga
+330 : Sucre -> Mahabad -> Kollam -> Kollam -> Kollam -> El Tigre -> Kollam -> Sucre -> Az Zahran -> Az Zahran -> Az Zahran
+331 : Minneapolis -> Gandhinagar -> Pathankot -> Pathankot -> Minneapolis -> Pathankot -> Pathankot -> Minneapolis
+332 : Choluteca -> Salavat -> Petrozavodsk -> Kolkata -> Choluteca -> Meizhou -> Meizhou -> En Nuhud -> Salavat
+333 : Tartu -> Tartu -> Oran
+334 : Arar -> Sanandaj -> Battle Creek -> Battle Creek -> Arar -> Arar -> Arar -> Sanandaj
+335 : Silchar -> Al Karak -> Goulimine -> Goulimine -> Goulimine -> Burnsville -> Goulimine -> Goulimine -> Silchar -> Al Karak
+336 : Santiago -> Santiago -> Bremerhaven -> Arlington Heights -> Santiago -> Arlington Heights -> Bremerhaven -> Arlington Heights -> Bremerhaven -> Santiago -> Da Nang -> Santiago -> Santiago
+337 : Mbanza-Congo -> Mbanza-Congo -> Mbanza-Congo -> Kropotkin -> Kropotkin -> Kropotkin
+338 : Tsuruoka -> Chifeng -> Port-au-Prince -> Tororo -> Port-au-Prince -> Tsuruoka -> Madera -> Tororo -> Chifeng -> Madera -> Tsuruoka -> Tororo -> Chifeng -> Madera -> Chifeng -> Tongliao
+339 : City of Milford (balance) -> Makiyivka -> Monywa -> Ulsan -> Monywa -> Wafangdian -> Ulsan -> Ulsan -> Makiyivka -> Monywa -> Wafangdian -> City of Milford (balance) -> City of Milford (balance) -> Provo -> Ulsan -> Monywa -> Provo -> City of Milford (balance)
+340 : Supham Buri -> Supham Buri -> Wau -> Wau -> Tartagal -> Baia Mare -> Supham Buri -> Montevideo -> Tartagal -> Supham Buri -> Montevideo -> Debre Markos -> Supham Buri -> Montevideo -> Wau -> Pursat -> Wau -> Supham Buri -> Gatchina -> Las Tunas -> Olympia -> Pursat -> Olympia -> Baia Mare -> Supham Buri -> Martapura -> Olympia -> Las Tunas -> Gatchina -> Martapura -> Baia Mare -> Martapura -> Martapura
+341 : McAllen -> Kisangani -> Hangu -> Melilla -> Jiaojing -> Melilla -> Guider -> Santa Cruz -> Weston -> Santa Cruz -> Puyang -> Jiaojing -> Weston -> Jiaojing -> Santa Cruz -> Weston -> Jiaojing -> Weston -> Guider -> Weston -> Kettering -> Jiaojing -> Puyang -> Melilla -> Guider -> Jiaojing -> Santa Cruz -> Weston -> Melilla -> Weston
+342 : Poitier -> Kalasin -> Caserta -> Poitier -> Poitier -> Poitier -> Kalasin -> Guntur -> Walnut Creek -> Guntur -> Caserta -> Walnut Creek -> Guntur -> Kalasin -> Kalasin -> Caserta -> Guntur
+343 : Riga -> Hobart -> Aketi
+344 : Bonao -> Nizamabad -> Liverpool -> Utica -> Liverpool -> Taranto -> Utica -> Liverpool -> Fishers -> Bonao -> Taranto -> Taranto -> Liverpool -> Nizamabad -> Taranto
+345 : Itapipoca -> Rockford -> Mardin -> Mardin -> Mardin -> Rockford -> Manzanillo -> Yishui -> Manzanillo -> Manzanillo -> Yishui -> Myitkyina -> Rockford -> Myitkyina -> Yishui -> Glazov -> Mardin -> Mardin
+346 : Sambalpur -> Orsk -> Carora -> Sambalpur -> Sambalpur -> Orsk -> Orsk -> Carora -> Amsterdam -> Elkhart -> Carora -> Sambalpur -> Elkhart
+347 : Twin Falls -> Ndola -> Perabumulih -> Nepalganj -> Perabumulih -> Al Fallujah -> Pakalongan -> Pakalongan -> Pakalongan -> Ndola -> Lake Havasu City -> Pakalongan -> Lake Havasu City -> Ndola -> Lake Havasu City -> Nepalganj -> Ndola -> Pakalongan
+348 : Tunja -> Panaji -> Trablous -> Trablous -> Panaji -> Panaji -> Itanhaem -> Itanhaem
+349 : Pelotas -> Patna -> Tulun -> Patna -> Tulun -> Tulun -> Pelotas -> Pelotas -> Pelotas -> Patna -> Shimonoseki -> Pelotas -> Zabol -> Shimonoseki
+350 : Kumertau -> Taylorsville -> Taylorsville -> Taylorsville -> Quillota -> Dayton -> Kumertau -> Kimchaek -> Qom -> Taylorsville -> Quillota -> Dayton
+351 : Kitchener -> Nakhon Si Thammarat -> Palm Coast -> Abakan -> Kediri -> Kitchener -> Abakan -> Abakan -> Ar Ramadi
+352 : Nizhnyaya Tura -> Nizhnyaya Tura -> Jeju -> Jeju -> Nalut -> Jeju -> Kandahar -> Yangjiang -> Jamshedpur -> Magnitogorsk -> Magnitogorsk -> Nalut -> Yangjiang -> Kandahar -> Kaduna -> Nizhnyaya Tura -> Jeju -> Yangjiang -> Kandahar -> Tacna -> Nalut -> Allentown -> Nalut -> Kandahar -> Kandahar
+353 : Fountain Valley -> Fountain Valley -> Austin -> Austin -> Austin
+354 : Ljubljana -> Serov -> Ljubljana -> Miaoli -> San Bernardo -> Mainz -> San Bernardo -> Miaoli -> Miaoli -> Miaoli -> Serov -> Richland -> Richland -> Miaoli -> Richland
+355 : Murmansk -> Porto-Novo -> Joliet -> Joliet -> Drohobych -> Joliet -> Porto-Novo -> Murmansk -> Porto-Novo -> Murmansk -> Joliet -> Pontiac -> Joliet -> Pontiac -> Murmansk
+356 : Lvov -> Asansol -> Lvov -> Lobito -> Asansol -> Lvov -> Loveland -> Lvov -> Presidente Prudente -> Lobito -> Asansol
+357 : Parbhani -> Arlit -> Matsumoto -> Matsumoto -> Cicero -> Parbhani -> Cicero -> Parbhani -> Goldsboro -> Parbhani -> Goldsboro -> Cicero -> Arlit -> Goldsboro -> Cicero -> Cicero
+358 : Xinxiang -> Hemet -> Gaithersburg -> Kosti -> Yichang -> Lawrence -> Barletta -> Yichang -> Gaithersburg -> Yichang -> Hemet -> Gaithersburg -> Yichang -> Lawrence -> Barletta -> Barletta
+359 : Bataysk -> Linhai -> Linhai -> Bataysk -> Bataysk -> Bataysk
+360 : Can Tho -> Plovdiv -> Lebanon -> Nonthaburi -> Tokyo -> Lebanon -> Can Tho -> Kupyansk -> Toamasina -> Tokyo -> Houston -> Plovdiv -> Tokyo -> Arcoverde -> Toamasina -> Lebanon -> Arcoverde -> Can Tho -> Toamasina -> Barisal -> Kupyansk
+361 :
+362 : Ceuta -> Ostrava -> Ituiutaba -> Bijar -> Ostrava -> Stavanger -> Stavanger -> Ostrava -> Valladolid -> Kaliningrad
+363 : Elk Grove -> Jember -> Oaxaca -> Saratov -> Jember -> Milagro -> Milagro -> Oaxaca -> Kumasi -> Milagro -> Elk Grove -> Elk Grove -> Elk Grove -> Jember -> Geelong -> Kumasi -> Las Palmas -> Milagro -> Jember -> Kumasi -> Elk Grove -> Elk Grove -> Geelong -> Oaxaca -> Oaxaca -> Las Palmas -> Saratov
+364 : Hialeah -> Hialeah -> Jinotega -> Hialeah -> Hialeah -> Hialeah
+365 : Tucupita -> Buzuluk -> Vellore -> Kingston -> Shahrisabz -> Tucupita -> Tumkur -> Tucupita -> Cheremkhovo -> Kingston -> Daan -> Tumkur -> Bielefeld -> Cluj-Napoca -> Shahrisabz -> Bielefeld -> Cluj-Napoca -> Kingston -> Vellore -> Daan -> Cheremkhovo -> Kingston -> Tumkur -> Cluj-Napoca -> Kingston -> Daan -> Kingston -> Buzuluk -> Cheremkhovo -> Kingston -> Tucupita -> Cluj-Napoca
+366 : Spokane -> Spokane -> Toyama -> Toyama -> Gweru -> Gweru -> Dabou -> Toyama -> Gweru -> Gweru -> Gweru
+367 : Treviso -> Pindamonhangaba -> La Mesa -> Wuxi -> Wuxi -> Wuxi -> Sullana -> Dire Dawa -> Wuxi -> Sullana -> Rogers -> Dire Dawa -> Wuxi -> La Mesa -> Guanajuato -> Pindamonhangaba -> La Mesa -> Sullana -> Treviso
+368 : Oskemen -> Yevlax -> Samalut -> Yevlax -> Sonsonate -> Sonsonate -> Johnson City -> Oskemen -> Sonsonate -> Derbent -> Johnson City -> Sonsonate -> Derbent -> Samalut -> Derbent -> Yevlax
+369 : Batumi -> Gold Coast -> Saint Cloud -> Saint Cloud -> Saint Cloud -> Saint Cloud -> Gold Coast -> Gold Coast -> Montes Claros -> Brownsville -> Gold Coast -> Batumi -> Brownsville -> Gold Coast
+370 : Xianyang -> Ludhiana -> Louangphrabang -> Louangphrabang -> Abengourou -> Talca -> Ludhiana -> Abengourou -> Abengourou -> Jijiga -> Abengourou -> Talca -> Louangphrabang -> Louangphrabang -> Jijiga -> Abengourou -> Jijiga -> Jijiga -> Talca -> Xianyang
+371 : Rennes -> Novato -> Jessore -> Kenema -> Bloemfontein -> Banes -> Novato -> Trang -> Shwebo -> Kenema -> Banes -> Kenema -> Bloemfontein -> Rennes -> Trang -> Bloemfontein -> Banes -> Novato -> Novato -> Trang -> Shwebo -> Novato -> Shwebo -> Bloemfontein -> Rennes
+372 : Volos -> Vineland -> Volos -> Munchon -> Munchon -> Vineland -> Schenectady -> Galway -> Schenectady -> Vineland -> Port Moresby -> Vineland -> Port Moresby -> Schenectady -> Port Moresby -> Vineland
+373 : Manzhouli -> Manzhouli -> Manzhouli -> Jalalabad -> Manzhouli -> Ras al Khaymah -> Ras al Khaymah -> Manzhouli
+374 : Kumbakonam -> Patos -> Tapachula -> Kumbakonam
+375 : Hubli -> Hubli -> Hubli
+376 : Campina Grande -> Aligarh -> Aligarh -> Monclova -> Monclova -> Aligarh -> Campina Grande -> Monclova
+377 : Tarakan -> Sharjah -> Annaba -> Manta -> Manta -> Sharjah -> Purnia -> Purnia -> Annaba -> Tarakan -> Annaba -> Manta -> Purnia -> Annaba -> Manta -> Chosica
+378 : Kawasaki -> Moore -> Bacabal -> Bacabal -> Foshan -> Bacabal -> Foshan -> Foshan
+379 : Girga -> Yeosu -> Uttaradit -> Uttaradit -> Uttaradit -> Yeosu -> Gaborone -> Yeosu -> Yeosu -> Girga -> Uttaradit -> Girga
+380 : Touggourt -> Yei -> Touggourt -> Gorakhpur -> Gorakhpur
+381 : Scottsdale -> Goya -> Rio de Janeiro -> Mafetang -> Chittagong -> Mafetang -> Shiyan -> Goya -> Chittagong -> Goya -> Rio de Janeiro -> Chittagong -> Mafetang -> Mafetang
+382 : Fortaleza -> Pasay City -> Iquitos -> Fortaleza -> Pasay City -> Arauca -> Pasay City -> Fortaleza -> Arauca -> Iquitos -> Pasay City -> Fortaleza -> Iquitos -> Iquitos -> Arauca
+383 : Simla -> Cachoeiro de Itapemirim -> Simla -> Chernihiv -> Simla -> Bryansk -> Bryansk -> Cachoeiro de Itapemirim -> Chernihiv
+384 : Sahiwal -> Kolwezi -> Campinas -> Sahiwal -> Campinas
+385 : Rize -> Rize -> Rize -> Minnetonka -> Minnetonka -> Arqalyq -> Minnetonka -> Arqalyq -> Minnetonka -> Arqalyq -> Rize -> Minnetonka -> Arqalyq -> Arqalyq
+386 : Douma -> Juazeiro do Norte -> Xuanhua -> Serpukhov -> Cerro de Pasco -> Cerro de Pasco -> Douma -> Gujrat -> Juazeiro do Norte
+387 : Puebla -> Puebla -> Huizhou -> Huizhou -> Hidalgo del Parral -> Puebla -> Nova Friburgo
+388 : Oruro -> Oruro -> Atlixco -> Oruro -> Oruro -> Saskatoon -> Atlixco -> Atlixco -> Quetta -> Saskatoon -> Quetta -> Saskatoon
+389 : Maastricht -> Dourados -> Dourados -> Guasave -> Denpasar -> Dourados -> Ghardaia -> Denpasar -> Dourados -> Denpasar -> Kozhikode -> Dourados -> Daly City -> Belogorsk -> Daly City
+390 : Muscat -> Rudny -> Parintins -> Muscat -> Parintins -> Belize City -> Rudny
+391 : Clearwater -> Khartoum -> Chililabombwe -> Chililabombwe -> Caldwell -> Khartoum -> Clearwater -> Caldwell -> Caldwell
+392 : Wyoming -> Wyoming -> Wyoming -> Moroni -> Najran -> Najran -> Najran
+393 : Salto -> Hamburg -> Laredo -> Hamburg -> Hamburg -> Nicosia -> Salto -> Niamey -> Nicosia -> Matanzas -> Mubi -> Salto -> Mubi -> Laredo -> Laredo -> Nicosia -> Matanzas
+394 : Aliso Viejo -> South San Francisco -> Masaka -> Kota Kinabalu -> Dar'a -> Masaka -> Aliso Viejo -> South San Francisco -> Madrid -> Masaka -> Dar'a -> Dar'a -> South San Francisco -> Masaka -> Kota Kinabalu
+395 : Dearborn Heights -> Porbandar -> Naha -> Porbandar -> Porbandar -> Antioch -> Dearborn Heights -> Dearborn Heights -> Linyi -> Ilebo -> Naha -> Porbandar -> Coffs Harbour -> Naha -> Porbandar -> Antioch -> Porbandar -> Antioch -> Coffs Harbour -> Naha
+396 : Yaounde -> Nueva San Salvador -> Nueva San Salvador -> Yaounde -> Tinley Park -> Yaounde -> Jamaame -> Nueva San Salvador
+397 : Itacoatiara -> Catanduva -> Nouadhibou -> Itacoatiara -> Colombo -> Catanduva -> Itacoatiara -> Colombo -> Krasnokamsk -> Catanduva -> Catanduva -> Krasnokamsk -> Colombo
+398 : Adrar -> Sonbong -> Idaho Falls -> Mandeville -> Qingyuan -> Mandeville -> Qingyuan -> Mandeville -> Sonbong -> Idaho Falls -> Bago -> Elgin -> Nagaoka -> Bago -> Nagaoka -> Sonbong -> Qingyuan -> Qingyuan -> Mandeville -> Adrar -> Qingyuan
+399 : Manado -> Gwadar -> Pedro Juan Caballero -> Oulu -> Hangzhou -> Pedro Juan Caballero -> Cabinda -> Manado -> Hangzhou -> Petropavlovsk Kamchatskiy -> Gwadar -> Gwadar -> Petropavlovsk Kamchatskiy -> Pedro Juan Caballero -> Hangzhou -> Cangzhou -> Pernik -> Pernik -> Cabinda
+400 : Batticaloa -> Qunghirot -> Batticaloa -> Qunghirot -> Qunghirot -> Qunghirot -> Nukus -> Batticaloa
+401 : Play Ku -> West Allis -> Melo -> Springfield -> Springfield -> Play Ku -> Play Ku -> Brits -> Rzhev -> Kahemba -> Rzhev -> Melo -> Groznyy -> Rzhev -> Brits -> Play Ku -> Springfield -> West Allis -> Springfield -> West Allis -> Kahemba -> Springfield -> Kahemba -> Play Ku
+402 : Glendora -> Wuhu -> Beer Sheva -> Beer Sheva -> Beer Sheva -> Wuhu -> Beer Sheva -> Wuhu -> Wuhu -> Wuhu -> Wuhu -> Glendora
+403 : Melun -> Melun -> Cienfuegos -> Amravati -> Melun -> Eagan -> Amravati -> Eagan
+404 : Albacete -> San Rafael -> Osorno -> Osorno -> San Rafael -> San Rafael -> Apatity -> Malegaon -> Apatity -> San Rafael -> San Rafael -> Albacete -> Malegaon -> San Rafael -> San Rafael -> San Rafael -> Osorno -> Apatity -> Osorno -> Malegaon -> San Rafael -> San Rafael
+405 : Pearland -> Pearland -> Zhubei -> Pretoria -> Pearland -> Pearland -> Prescott Valley -> Pretoria -> Noyabrsk -> Umm Ruwaba -> Ferrara -> Ferrara -> Umm Ruwaba -> Zhubei -> Pearland -> Volsk -> Noyabrsk -> Noyabrsk -> Pearland -> Prescott Valley -> Pearland -> Ferrara -> Umm Ruwaba -> Ferrara
+406 : Kent -> Tobolsk -> Taraz -> Dayr az Zawr -> Taraz -> Dayr az Zawr -> Beaufort -> Kent -> College Station -> Dayr az Zawr -> Kent -> Dayr az Zawr -> College Station
+407 : Mito -> Ghazni -> Jos -> Mito -> Quincy -> Jos -> Quincy -> Quincy -> Jos -> Mito -> Jos -> Jos -> Mito -> Ghazni
+408 : Shimoga -> Khulna -> Khulna -> Khulna -> Blackpool -> Blackpool -> Makkah -> Khulna -> Shimoga -> Chicago
+409 : La Paz -> Pasuruan -> Bendigo -> Pasuruan -> La Paz -> Minsk -> Istanbul -> Istanbul -> Bendigo -> Baramula -> Blitar -> La Paz -> Union City -> Istanbul -> Union City -> Puerto Montt -> Union City -> La Paz -> Pasuruan -> Pasuruan -> La Paz -> Blitar -> Baramula -> Puerto Montt -> Baramula -> La Paz -> Union City -> Union City -> Union City -> Blitar
+410 : Jeddah -> Waukesha -> Kaesong -> Waukesha -> Kanpur -> Waukesha -> Kanpur -> Kaesong -> Kanpur -> Kaesong -> Chernivtsi -> Chernivtsi -> Kanpur
+411 : Melitopol -> Bridgeport -> Bridgeport -> Honiara -> Honiara -> Melitopol -> Honiara -> Man -> Bridgeport -> Man -> Melitopol -> Man -> Collierville -> Man -> Melitopol -> Melitopol -> Collierville -> Honiara -> Collierville -> Kohima
+412 : Erzincan -> Metz -> Ye -> Ye -> Erzincan -> Metz -> Ye -> Ye
+413 : Edmonton -> Chanthaburi -> Salamanca -> Thongwa -> Bambari -> Salamanca -> Chanthaburi -> Chanthaburi -> Bambari -> Chanthaburi -> Mesa -> Mount Prospect -> Mesa -> Edmonton -> Barrie -> Barrie -> Maputo -> Thongwa -> Bambari -> Barrie -> Mesa -> Miass -> Maputo -> Miass -> Mount Prospect -> Salamanca -> Thongwa -> Salamanca -> Mount Prospect -> Salamanca
+414 : Kissidougou -> Erfurt -> Umtata -> Kissidougou -> Haeju -> Haeju -> Haeju -> Kissidougou -> Kissidougou -> Neijiang -> Jianmen -> Mardan -> Umtata -> Redwood City -> Kissidougou -> Mardan -> Umtata -> Redwood City -> Haeju
+415 : Zelenodolsk -> Appleton -> Qinzhou -> Huelva -> Huelva -> Katsina -> Appleton -> Hazleton -> Zelenodolsk -> Hazleton -> Qinzhou -> Huelva -> Hazleton -> Lille -> Appleton -> Lille -> Katsina -> Huelva
+416 : Tulcea -> East Stroudsburg -> Sarapul -> Tulcea -> Kindu -> Sarapul -> East Stroudsburg
+417 : Rodos -> Bulawayo -> Lugano -> Grenoble -> General Roca -> Rodos -> Rodos -> Lugano -> General Roca -> General Roca -> Grenoble -> Bulawayo -> Hungnam -> Hungnam -> Irbil
+418 : Ningbo -> Gifu -> Chalkida -> Sterling Heights -> Sterling Heights -> Gifu -> Gifu -> Chalkida -> Sterling Heights -> Sterling Heights
+419 : Zakho -> Grand Island -> Valledupar -> Valledupar -> Greensboro -> Grand Island -> Chaiyaphum -> Grand Island -> Hof -> Charlotte -> Gurupi -> Chino Hills -> Chaiyaphum -> Chaiyaphum -> Charlotte -> Valledupar -> Chaiyaphum -> Gurupi -> Charlotte -> Zakho -> Charlotte -> Chaiyaphum -> Grand Island -> Valledupar -> Charlotte -> Jingmen
+420 : Kaolack -> Novotroitsk -> Mar del Plata -> Kaolack -> El Mansura -> Kaolack -> Mar del Plata -> Matara -> Mar del Plata -> Cochabamba -> Matara
+421 : Kochi -> Eagle Pass -> West Covina -> Suceava -> West Covina -> West Covina -> Kochi -> West Covina -> West Covina -> Belgaum -> Eagle Pass
+422 : Medenine -> Albany -> Hilton Head Island -> Albany -> Albany -> Hilton Head Island -> Medenine -> Hilton Head Island -> Albany -> Albany -> Simi Valley -> Medenine -> Barddhaman -> Albany -> Simi Valley -> Hilton Head Island -> Carmel -> Barddhaman -> Southend-on-Sea -> Albany -> Albany -> Hilton Head Island -> Albany
+423 : Kazan -> Samut Sakhon -> Sialkote -> Samut Sakhon -> Samut Sakhon -> Sialkote -> Kazan -> Olinda
+424 : Almetyevsk -> Punta Alta -> Almetyevsk -> Corvallis -> Almetyevsk -> Punta Alta -> Corvallis -> El Jadida -> Antananarivo -> Ontario -> Antananarivo
+425 : Nehe -> Nehe -> Nehe -> Nehe
+426 : Natal -> Kaifeng -> Natal -> Algeciras -> Evansville -> Evansville -> Evansville
+427 : Van -> Van -> Reading -> Van -> Van -> Reading -> Mbabane -> Doral -> Reading -> Sochi -> Petaluma -> Mbabane -> Reading
+428 : Naples -> Naples -> Dindigul -> Lodi -> Naples -> Dindigul -> Pohang -> Lodi
+429 : Sennar -> Pondicherry -> Zhaotang -> Zhaotang -> Sennar -> Rouen -> Rouen -> Sennar -> Toluca -> Zhaotang -> Pondicherry
+430 : Burdur -> Viedma -> Rustavi -> Nuevo Casas Grandes -> Rustavi -> Viedma -> Pirassununga -> Abha -> Ife -> Burdur -> Viedma -> Viedma -> Sabanalarga -> Rustavi -> Ife -> Sabanalarga -> Burdur -> Viedma -> Rustavi -> Nuevo Casas Grandes -> Funtua -> Funtua -> Yantai -> Funtua -> Burdur -> Pirassununga -> Abha -> Ife -> Ciudad Mante -> Abha -> Burdur -> Pirassununga -> Pirassununga -> Yantai
+431 : Indio -> Manacapuru -> Bombo -> Manacapuru -> Indio -> Bayonne -> Bayonne -> Sarasota -> Bayonne -> Indio -> Sarasota -> Bombo -> Bombo -> Sarasota
+432 : Quchan -> Millcreek -> Santa Barbara -> Rawalpindi -> Gao -> Rawalpindi -> Gao -> Quchan -> Gao -> Rawalpindi -> Millcreek -> Quchan -> Rawalpindi
+433 : Erdenet -> Rizhao -> Nakuru -> Jaltipan -> Erdenet -> Rizhao -> Jaltipan -> Jaltipan -> Nakuru -> Balqash -> Balqash -> Rizhao -> Balqash -> Nakuru
+434 : Aalborg -> Qairouan -> Lusaka -> Koutiala -> Lusaka -> Lusaka -> Lusaka -> Qairouan -> Aalborg -> Ryazan -> Koutiala -> Aalborg -> Koutiala -> Ryazan -> Koutiala -> Qairouan -> Aalborg -> Qairouan
+435 : Dagupan -> Handan -> Quezon City -> Quezon City -> Handan -> Quezon City -> Santiago de Cuba -> Dagupan -> Dagupan -> Piedras Negras -> Piedras Negras -> Dagupan -> Chipata -> Tianshui -> Buenos Aires -> Chipata -> Santiago de Cuba -> Montgomery -> Handan -> Chipata -> Quezon City -> Chipata -> Santiago de Cuba -> Piedras Negras -> Buenos Aires -> Santiago de Cuba
+436 : Al Kut -> Hartford -> Hartford -> Nenjiang -> Hartford -> Al Kut -> Al Kut
+437 : Lehi -> Agrinio -> Varna -> Lehi -> Agrinio -> Berdyansk -> Varna -> Varna -> Roslavl -> Varna -> Berdyansk -> Varna -> Agrinio -> Berdyansk -> Lida -> Lehi -> Arequipa -> Lida -> Lehi -> Berdyansk
+438 : West Des Moines -> Pisco -> Keelung -> West Des Moines -> West Des Moines -> Pisco -> Keelung
+439 : Bhagalpur -> Darhan -> Gunsan -> Al-Qatif -> Al-Qatif -> Gunsan -> Darhan -> Nanjing -> Gunsan -> Nanjing -> Kenner -> Kenner -> Kenner -> Kenner -> Bhagalpur -> Darhan -> Gunsan -> Kenner
+440 : Tucson -> Tucson -> Arzamas -> Muzaffarnagar -> Tangier -> Manokwari -> Manokwari -> Muzaffarnagar -> Arzamas -> Muzaffarnagar -> Surprise -> Tucson -> Lalitpur -> Tucson -> Tangier -> Muzaffarnagar
+441 : Geneina -> Tashkent -> Mendefera -> Mendefera -> Mendefera -> Tashkent -> Mendefera -> Tashkent -> Geneina
+442 : Balakovo -> Garanhuns -> Tegal -> Garanhuns -> Garanhuns -> Balakovo -> Tayshet -> Garanhuns -> Phyarpon -> Phyarpon
+443 : Al Mukalla -> Ingolstadt -> Ingolstadt -> Conselheiro Lafaiete -> Edinburgh -> Riyadh -> Ingolstadt -> Riyadh -> Edinburgh -> Conselheiro Lafaiete -> Riyadh -> Riyadh -> Edinburgh -> Edinburgh -> Ingolstadt -> Al Mukalla -> Pittsburgh -> Pittsburgh -> Riyadh -> Riyadh -> Al Mukalla -> Pittsburgh -> Edinburgh
+444 : Sariwon -> Sitapur -> Altay -> Altay -> Southfield -> Altay -> Sitapur -> Sariwon -> Sariwon -> Southfield -> Sariwon -> Altay
+445 : Tver -> Tver -> Tver -> Tver -> Comayagua -> Tver -> Warren -> Warren -> Comayagua -> Registro -> Registro -> Tver -> Tver -> Warren
+446 : Yangmei -> Yelets -> Volta Redonda -> Talara -> Thika -> Rialto -> Yelets -> Volta Redonda -> Rialto -> Talara -> Thika -> Talara
+447 : Nha Trang -> Nha Trang -> Gardiz -> Serang -> Serang -> Taiping -> Nha Trang -> Serang -> Nha Trang
+448 : Balashov -> Azua -> Balashov -> Xapeco -> Dimitrovgrad -> Pekanbaru -> Pekanbaru -> Zaragoza -> Napa -> Dimitrovgrad -> Pekanbaru -> Pekanbaru -> Zaragoza -> Xapeco
+449 : Poughkeepsie -> Poughkeepsie -> Surabaya -> Surabaya -> Poughkeepsie -> Surabaya -> Sinuiju -> Sinuiju -> Surabaya
+450 : Arba Minch -> Nova Lima -> Bilbao -> Bilbao -> Nova Lima -> Bilbao -> Nova Lima -> Jaipur -> Jaipur
+451 : Geneva -> Lancaster -> Lancaster -> Geneva -> Lancaster -> Jammu -> Jammu -> Jammu -> Cirebon -> Zinder -> Lancaster -> Cirebon -> Lancaster
+452 : Jayapura -> Atbara -> Jayapura -> Jayapura -> Linxia -> Tengchong -> Ongjin -> Ongjin -> Ongjin -> Rijeka -> Jayapura -> Linxia -> New Bedford -> Linxia
+453 : Shuangyashan -> Chincha Alta -> Peshawar -> Hiroshima -> Peshawar -> Hiroshima -> Hiroshima -> Chincha Alta -> Moquegua
+454 : Jinxi -> Farmington -> Kankan -> Phnom Penh -> Jinxi -> Phnom Penh -> Phnom Penh -> Koforidua -> Farmington -> Jinxi -> Koforidua -> Farmington -> Koforidua
+455 : Hong Gai -> Tambov -> Hong Gai -> Inglewood -> Inglewood -> Jonesboro -> Jonesboro -> Gemena -> Tambov -> Inglewood -> Gemena -> Jonesboro -> Tambov -> Hong Gai -> Jonesboro -> Hong Gai
+456 : Fairfield -> Sibu -> Wichita Falls -> Sibu -> Wichita Falls -> Sibu -> Sibu -> Fairfield -> Wichita Falls
+457 : Tangshan -> Panzhihua -> Tangshan -> Panzhihua -> Panzhihua -> Tangshan
+458 : Brooklyn Park -> Kampong Cham -> Brooklyn Park -> Brooklyn Park -> Al Hasakah -> Kangar -> Kampong Cham -> Kampong Cham -> Al Hasakah
+459 : Zhanyi -> Kyshtym -> Kompong Chhnang -> Shahrud -> Zhanyi -> Kompong Chhnang -> Zhob -> Shahrud -> Juiz de Fora -> Zhanyi -> Kompong Chhnang -> Kyshtym -> Juiz de Fora -> Zhanyi -> Zhob -> Kompong Chhnang -> Juiz de Fora -> Juiz de Fora
+460 : Alexandria -> Ciudad Madero -> Alexandria -> Alexandria -> Alexandria -> Alexandria -> Ciudad Madero -> Alexandria -> Ciudad Madero -> Alexandria -> Alexandria -> Linjiang
+461 : Zalaegerszeg -> Stonecrest -> Pinar del Rio -> Zalaegerszeg -> Pinar del Rio -> Pinar del Rio -> Pinar del Rio
+462 : Vinnytsya -> Vinnytsya -> Brahmapur -> Brahmapur -> Mocuba -> Aleksin -> Trelew -> Aleksin -> Vinnytsya -> Vinnytsya -> Trelew
+463 : Ho Chi Minh City -> Ho Chi Minh City
+464 : Clarksville -> Boston -> Turbat -> Boston -> Boston -> Boston -> Clarksville -> Turbat -> Boston -> Boston -> Clarksville -> Boston
+465 : Taxco -> Taxco -> Donetsk -> Taxco -> Donetsk -> Gulbarga -> Kom Ombo -> Taxco
+466 : Taonan -> Labinsk -> Avondale -> Taonan -> Avondale -> Upata -> Upata -> Luxor -> Upata -> Labinsk -> Labinsk -> Taonan -> Fez -> Fez -> Luxor -> Fez
+467 : Hailar -> Tuguegarao -> Tuguegarao -> Tuguegarao -> Addis Ababa -> Tuguegarao
+468 : Phuket -> Joplin -> Myeik -> Hamhung -> Phuket -> Joplin -> Hamhung -> Hamhung -> Hamhung
+469 :
+470 :
+471 : Pergamino -> Tzaneen -> Vacaville -> Obihiro -> Samarinda -> Buena Park -> Vacaville -> Pingliang -> Buena Park -> Mawlamyine -> Mawlamyine -> Tzaneen -> North Richland Hills -> Samarinda -> Fort Lauderdale -> Samarinda -> Samarinda -> Vacaville -> Fort Lauderdale -> Mawlamyine -> Pergamino -> Tzaneen -> Davangere -> Fort Lauderdale -> Mawlamyine -> North Richland Hills -> Pingliang -> Obihiro -> Saint Paul -> Mawlamyine -> North Richland Hills -> North Richland Hills -> Drummondville -> Vacaville -> Buena Park -> Mawlamyine
+472 : Kitami -> Kitami -> Kitami -> Leeuwarden -> Jorhat -> Kitami -> Tabora -> Chlef -> Leeuwarden -> Jorhat -> Jorhat -> Tabora -> Chlef -> Nagercoil
+473 : Thornton -> Thornton -> Darnah -> Xiangtan -> Xiangtan -> Bradenton -> Thornton -> Bradenton -> Darnah -> Bradenton -> Darnah -> Xiangtan -> Sheboygan -> Thornton -> Xiangtan -> Sheboygan
+474 : Bafoussam -> Namur -> Bafoussam -> Namur -> Bafoussam -> Krishnanagar -> Bafoussam -> Krishnanagar -> Krishnanagar -> Krishnanagar
+475 : Arjona -> Khujand -> Khujand -> Khujand -> Arjona -> Arjona -> Arjona -> Khujand
+476 : Haldia -> Chaoyang -> Ashgabat -> Haldia -> Le Havre -> Ashgabat -> Le Havre -> Chaoyang -> Toowoomba -> Coatzacoalcos -> Haldia -> Chaoyang -> Coatzacoalcos
+477 : Soyo -> Tataouine -> Tataouine -> Soyo -> Tataouine -> Tataouine -> Tataouine -> Soyo -> Oklahoma City
+478 : Tuticorin -> Lichinga -> Costa Mesa -> Mons -> Turbo -> Costa Mesa -> Costa Mesa -> Costa Mesa -> Turbo -> Mons -> Lichinga -> Hillsboro -> Lichinga -> Turbo -> Hillsboro
+479 : Jinzhou -> Monterey Park -> Monterey Park -> Jinzhou -> Warner Robins -> Damaturu -> At Taif -> Jinzhou -> Jinzhou -> Damaturu -> Damaturu -> Moratuwa -> El Obeid -> At Taif -> Moratuwa -> Des Plaines -> Monterey Park -> Des Plaines -> At Taif -> Damaturu -> Damaturu -> Des Plaines -> El Obeid -> Moratuwa -> Moratuwa -> El Obeid -> Damaturu -> Jinzhou -> Monterey Park
+480 : Lakewood -> Lakewood -> Vitsyebsk -> Montego Bay -> Lakewood -> Montego Bay -> Qarshi -> Lakewood -> George Town -> Cape Girardeau -> Montego Bay -> George Town -> George Town -> Cape Girardeau -> Lakewood -> Lakewood -> Lakewood -> Lakewood -> Vitsyebsk -> Lakewood -> Vitsyebsk -> Lakewood -> Lakewood
+481 : Pathum Thani -> Zlatoust -> Pathum Thani -> San Antonio -> Tan An -> Juliaca -> Johannesburg -> Tan An -> Zlatoust -> Poway -> San Antonio -> San Antonio -> San Antonio -> Juliaca -> Juliaca -> Chandrapur -> Johannesburg -> San Antonio -> Zlatoust -> Zlatoust -> Johannesburg -> Juliaca
+482 : Fond du Lac -> Hefei -> Bur Said -> Honolulu
+483 : Fort Collins -> Brooklyn
+484 : Thousand Oaks -> Thousand Oaks -> Tanta -> Dobrich -> Bandar Lampung -> Thousand Oaks -> Navajoa -> Agadir -> Thousand Oaks -> Dobrich -> Bandar Lampung -> Abohar -> Bandar Lampung -> Dobrich -> Abohar -> Dobrich
+485 : Nancha -> Makhachkala -> Makhachkala -> Owensboro -> Torbat-e Jam -> Owensboro -> New Plymouth -> New Plymouth -> Owensboro -> Torbat-e Jam
+486 : Pleven -> Pakxe -> Pakxe -> Pleven -> Bengkulu -> Bengkulu
+487 : Changhua -> Malacca -> Changhua -> Malacca -> Changhua -> Changhua
+488 : Versailles -> San Felipe -> Kadoma -> Beira -> San Felipe -> Versailles -> San Felipe -> San Felipe
+489 : Citrus Heights -> Citrus Heights -> Gliwice -> Gliwice
+490 : Chivilcoy -> Bitlis -> Chon Buri -> Bitlis -> Chon Buri -> Chivilcoy -> Chivilcoy
+491 : Pol-e Khomri -> Federal Way -> Perm -> Oxford -> Clermont-Ferrand -> Perm -> Clermont-Ferrand -> Clermont-Ferrand -> Federal Way -> Clermont-Ferrand -> Seville -> Perm -> Federal Way -> Perm -> Oxford -> Ukhta
+492 : Pyongsan -> Tamale -> Laguna Niguel -> Medina -> Debrecen -> Westland -> Pyongsan -> Laguna Niguel -> Debrecen -> Debrecen -> Hue -> Laguna Niguel -> Tamale -> Debrecen -> Jiaxing -> Hue -> Hue -> Salerno -> Medina -> Salerno -> Tamale -> Tanga -> Jiaxing
+493 : Cherepovets -> Yekaterinburg -> Waitakere -> Islamabad -> Dehra Dun -> Loubomo -> Loubomo -> New Bern -> Loubomo -> Loubomo -> New Bern -> Oviedo -> Yekaterinburg -> Cherepovets -> Dehra Dun -> Harar -> Waitakere -> Cherepovets -> Yekaterinburg -> New Bern -> Oviedo -> Harar
+494 : Sokoto -> Paulo Afonso -> Qingan -> Qingan -> Sokoto -> Paulo Afonso -> Lingyuan -> Lingyuan -> Lingyuan -> Paulo Afonso -> San Diego -> Mahajanga
+495 : Plainfield -> Yangzhou -> Yaan -> Yangzhou -> Yangzhou -> Yaan
+496 : Nezahualcoyotl -> Nezahualcoyotl -> Vanadzor -> Vanadzor -> Nezahualcoyotl -> Cebu -> Cebu -> Cebu
+497 : Wonsan -> Wonsan -> Wonsan -> Chemnitz -> Chemnitz -> Fukui -> Chemnitz -> Chemnitz
+498 : Chukai -> Everett -> Chandler -> Chukai -> Everett -> Chukai -> Little Rock -> Little Rock -> Little Rock -> Stepanakert
+499 : Naperville -> Macau -> Naperville -> Ijebu Ode -> Drammen -> Naperville -> Vologda -> Bharatpur -> Bharatpur -> Vologda -> Vologda -> Naperville -> Naperville
+500 : Ahmednagar -> Lankaran -> Cotabato -> Lankaran -> Coburg -> Pinsk -> Cotabato -> Luzhou -> Cotabato -> Pinsk
+501 : Chino -> Chino -> Brussels -> Brussels -> Brussels -> Tokmak
+502 : Meknes -> Fayetteville -> Parkersburg -> Fayetteville -> Paita -> Fayetteville -> Meknes -> Parkersburg -> Fayetteville -> Paita -> Fayetteville
+503 : As Samawah -> Longyan -> Kitgum -> Rio Largo -> Troyes -> As Samawah -> Harbin -> Rio Largo -> Anlu -> Tripoli -> Kitgum -> Tripoli -> As Samawah -> St. John's -> Tripoli -> Harbin -> Tripoli -> Harbin -> Harbin -> Longyan -> Anlu -> Anlu -> Troyes -> Harbin -> Anlu -> Longyan
+504 : Al Ahmadi -> Al Ahmadi -> Mendoza -> Al Ahmadi -> Tikrit -> Al Ahmadi -> Mendoza -> Al Ahmadi -> Chuncheon
+505 : Trabzon -> Messina -> Great Falls -> Trabzon -> Trabzon
+506 : Independence -> Chita -> San Luis -> San Pablo -> San Luis -> San Luis -> Chita -> San Luis -> San Pablo
+507 : Dresden -> Dresden -> Dresden -> Helena -> Helena -> Brno -> Helena -> Dresden
+508 : Highland -> Kemerovo -> Innsbruck -> Dezful -> Kemerovo -> Dezful -> Innsbruck -> Kemerovo -> Highland -> Kemerovo
+509 : Waterbury -> Eastvale -> Eastvale -> Eastvale -> Waterbury
+510 : Grahamstown -> Ufa -> San Angelo -> Paracatu -> Grahamstown -> Paracatu -> San Angelo -> San Mateo -> Ufa -> Grahamstown
+511 : Udon Thani -> Puerto Cabello -> Butare -> Udon Thani -> Udon Thani -> Deerfield Beach -> Puerto Cabello -> Denow -> Udon Thani -> Butare
+512 : Batna -> Sandy Springs -> Hetauda -> Bijapur -> Hetauda -> Batna -> Banyuwangi -> Hetauda -> Banyuwangi -> Gannan -> Sandy Springs -> Batna -> Banyuwangi -> Gannan -> Gannan -> Gannan -> Hetauda -> Bijapur -> Sandy Springs -> Hetauda -> Batna
+513 : Muzaffarpur -> Mazar-e Sharif -> Dawei -> Lublin -> Lublin -> Gyeongju -> Lublin -> Mazar-e Sharif -> Lublin -> Mazar-e Sharif -> Khammam -> Dawei -> Dawei -> Mazar-e Sharif -> Gyeongju -> Gyeongju -> Dawei -> Muzaffarpur
+514 : Dalian -> Agadez -> Tasikmalaya -> Agadez -> Tasikmalaya -> Agadez -> Dalian -> Qomsheh -> Johnstown -> Tasikmalaya -> Qomsheh -> West Haven -> Johnstown -> Qomsheh
+515 : Tabuk -> Kuantan -> Tabuk -> Tabuk -> Zamora -> Tabuk -> Nong Khai -> Zamora -> Zamora -> Nong Khai
+516 : Mercedes -> Mercedes -> Mercedes -> Vitoria -> Vitoria
+517 : Kovel -> Isna -> New Braunfels -> Jefferson City -> Saginaw -> Jefferson City -> Bangui -> Khon Kaen -> Americana -> Kovel -> Tangail -> Saginaw -> Saginaw -> Cachoeira do Sul -> Tangail -> Kovel -> Khon Kaen -> San Leandro -> New Haven -> Kovel -> Cachoeira do Sul -> Khon Kaen -> New Braunfels -> Isna -> Khon Kaen -> Americana -> Kovel -> New Braunfels -> Isna
+518 : Baicheng -> Jinchang -> Baicheng -> Baicheng -> Jinchang
+519 : Gitarama -> Lake Forest -> Lake Forest -> Slatina -> Lake Forest
+520 : Rasht -> Roswell -> Delhi -> DeSoto -> Rio Negro -> Roswell -> Rasht -> Delhi -> Roswell -> Alpharetta -> Alpharetta -> League City -> Roswell -> Alpharetta -> Rio Negro -> Rasht -> Alpharetta
+521 : Marv Dasht -> Noblesville -> Noblesville -> Pervouralsk -> Pervouralsk -> Noblesville -> Marv Dasht
+522 : Kilchu -> Berkeley -> Dnipro -> Nampa -> Dnipro -> Ipiales -> Kilchu -> Ubon Ratchathani -> Nampa -> Ubon Ratchathani -> Nampa -> Ipiales -> Berkeley -> Berkeley -> Nampa -> Dnipro -> Ubon Ratchathani -> Ubon Ratchathani -> Kilchu -> Ubon Ratchathani -> Kilchu
+523 : Kayseri -> El Bayadh -> Jining -> Jining -> El Bayadh -> Jining -> Kayseri -> Cali -> Jining -> Cali -> Cali -> Zhengzhou
+524 : Jima -> Kenosha -> Kenosha -> Kenosha -> Faizabad -> Jima -> Kenosha -> Kenosha
+525 : Shantou -> Yuci -> Yuci -> Yuci -> Yuci -> Myrtle Beach -> Olathe -> Olathe -> Arica -> Myrtle Beach -> Arica -> Yuci -> Shantou -> Myrtle Beach -> Arica -> Olathe -> Olathe -> Olathe -> Shantou
+526 : Mandya -> Nikopol -> Osh -> Cincinnati -> Pleasanton -> Cincinnati -> Nikopol -> Qinggang -> Cincinnati -> Pleasanton -> Qinggang -> Cincinnati -> Pleasanton -> Pleasanton -> Pleasanton
+527 : Champaign -> Naxcivan -> Oostanay -> As Suwayda -> Oostanay -> Oostanay -> Gedaref
+528 : Yinchuan -> Siguiri -> Yinchuan -> Siguiri -> Akure -> Akure -> Akure -> Yinchuan
+529 : Lake Elsinore -> Coral Gables -> Karaj -> Karaj -> Bhuj -> Bhuj -> Coral Gables -> Bhuj -> Christchurch -> Karaj -> Bhuj -> Lake Elsinore
+530 : Bandar Seri Begawan -> Bandar Seri Begawan -> Bandar Seri Begawan
+531 : Banfora -> Norilsk -> Luoyang -> Norilsk -> Norilsk -> Bahawalpur -> Puri -> Norilsk -> Oshogbo -> Puri -> Norilsk -> Puri -> Puri -> Banfora -> Bahawalpur -> Machilipatnam -> Bahawalpur -> Puri
+532 : Craiova -> Paragominas -> Zhangjiakou -> Machiques -> Zhangjiakou -> Craiova -> Shuozhou -> Zhangjiakou -> Paragominas -> Bamako -> Bamako -> Machiques -> Zhangjiakou -> Paragominas -> Bamako -> Shuozhou
+533 : Sydney -> West Palm Beach -> Temuco -> Temuco -> Saida -> Zalantun -> Worcester -> Temuco -> Sydney -> Nazareth -> Worcester -> Nazareth -> Nazareth -> Tonk -> West Palm Beach -> Zalantun -> Worcester -> Saida -> Saida -> West Palm Beach -> Saida
+534 : Bossangoa -> Newcastle -> Lubango -> Ambato -> Bossangoa -> Newcastle -> Newcastle -> Ambato -> Lubango
+535 : Macheng -> Macheng -> Lagos -> Macheng -> Vientiane -> Vientiane
+536 : Elizabethtown -> Kure -> Kure -> Kure -> Allen -> Kure -> Zhenjiang -> Barnaul -> Kure -> Como -> Zhenjiang -> Zhenjiang -> Barnaul -> Allen -> Como -> Elizabethtown -> Tigard -> Tigard
+537 : Jabalpur -> Billings -> Jizzax -> St.-Brieuc -> Jizzax -> Jizzax -> St.-Brieuc -> Jabalpur -> St.-Brieuc -> St.-Brieuc -> Jizzax -> St.-Brieuc
+538 : Arroyo Grande -> Busan -> Barretos -> Round Rock -> Busan -> Busan -> Peoria -> Masjed Soleyman -> Round Rock -> North Las Vegas -> North Las Vegas -> Sagua la Grande -> Busan -> Semey -> Round Rock -> Peoria -> Sagua la Grande -> North Las Vegas -> Sagua la Grande -> North Las Vegas
+539 : Huainan -> Huainan
+540 : Rivera -> Omsk -> Hyderabad -> Omsk -> Hyderabad -> Heidelberg -> Hyderabad -> Hyderabad -> Rivera -> Omsk -> Hyderabad -> Hyderabad -> Hyderabad
+541 : Cartago -> Larache -> Putrajaya -> Gulu -> Gulu -> Rimnicu Vilcea -> Gulu -> Putrajaya -> Putrajaya -> Rimnicu Vilcea -> Cartago -> Cartago -> Rimnicu Vilcea -> Gulu -> Cartago -> Cartago -> Larache -> Gulu -> Larache
+542 : Bryan -> Bryan -> Richmond -> Sefra -> Bryan -> Sefra -> Wanzhou -> Wanzhou -> Wanzhou -> Sefra -> Sefra -> Bryan -> Wanzhou -> Wanzhou -> Richmond -> Sefra
+543 : Stara Zagora -> Uppsala -> Kanggye -> Kanggye -> Kaspiysk -> Stara Zagora -> Stara Zagora -> Kaspiysk -> Kanggye -> Uppsala -> Mweka -> Kuching -> Stara Zagora -> Kuching -> Mweka -> Mweka -> Stara Zagora -> Kanggye -> Stara Zagora
+544 : Huanren -> Siena -> Siena -> Corrientes -> Fresno -> Venado Tuerto -> Huanren -> Huanren -> Siena -> Brusque -> Arrecife -> Arrecife -> Siena -> Huanren -> Yozgat -> Brusque -> Brusque -> Fresno
+545 : Bordeaux -> Bordeaux -> Karamay -> Bordeaux -> Bordeaux
+546 : Kikwit -> Tetovo -> Sandakan -> Tetovo -> Dondo -> Tetovo -> Kikwit -> Kikwit -> Dondo -> Tetovo -> Mexico City -> Mexico City -> Vallejo -> Tetovo -> Kanoya -> Vallejo -> Tetovo
+547 : Recife -> Banghazi -> Banghazi -> Nanchong -> Recife -> Nanchong -> Panama City -> Konibodom -> Panama City -> Konibodom
+548 : Huntersville -> Palermo -> Huntersville -> Palermo -> Huntersville -> Jinan -> Coquimbo -> Huntersville -> Palermo -> Huntersville
+549 : Vilnius -> Brikama -> Murom -> Higuey -> Uman -> Higuey -> Ithaca -> Vilnius -> Higuey -> Brikama -> Higuey -> East Orange -> Ithaca -> Vilnius -> Vilnius -> Vilnius -> Higuey -> East Orange
+550 : Altamira -> Bolzano -> Bolzano -> Bahraich
+551 : Carlsbad -> Camden -> Camden -> Queenstown -> Queenstown -> Carlsbad -> Queenstown -> Carlsbad -> Comodoro Rivadavia -> Camden -> Carlsbad
+552 : Carpina -> Qiqihar -> Goiana -> Goiana -> Carpina -> Qiqihar -> Qiqihar -> Qiqihar
+553 : Palu -> Hamadan -> Hamadan -> Hamadan -> Hamadan -> Presidencia Roque Saenz Pena -> Palu -> Presidencia Roque Saenz Pena -> Presidencia Roque Saenz Pena -> Presidencia Roque Saenz Pena -> Palu -> Presidencia Roque Saenz Pena -> Palu -> Tallahassee
+554 : Joinville -> San Clemente -> Perth Amboy -> San Clemente -> Perth Amboy -> Perth Amboy
+555 : Manaus -> Burgas -> Manaus -> Picos -> Manaus -> Bumba -> Bumba -> Bumba -> Manaus -> Picos -> Bumba -> Bumba -> Manaus
+556 : Pointe-Noire -> Pointe-Noire -> Kogon -> Kogon -> Bila Tserkva -> Pointe-Noire -> Denizli -> Bhiwani -> Entebbe -> Kogon -> Bila Tserkva -> Niigata -> Pointe-Noire -> Bhiwani -> Bila Tserkva -> Pietermaritzburg -> Pointe-Noire -> Denizli -> Pietermaritzburg -> Pietermaritzburg -> Bila Tserkva
+557 : Yichun -> Kitwe -> Yichun -> Duluth -> Duluth -> Kitwe -> Yichun -> Kitwe -> Kitwe -> Yichun
+558 : Parakou -> Ma'an -> Parakou -> Ma'an -> Pavlodar -> Parakou -> Pavlodar -> Ma'an
+559 : Krasnoyarsk -> Djelfa -> Nizhny Novgorod -> Mtwara -> Djelfa -> Zaozhuang -> Djelfa -> Mtwara -> Krasnoyarsk -> Mtwara -> Rafaela -> Nizhny Novgorod -> Nizhny Novgorod -> Krasnoyarsk -> Blacksburg -> Djelfa
+560 : Horlivka -> Santa Fe -> Casablanca -> Tehuacan -> Tehuacan -> Casablanca -> Casablanca -> Tehuacan -> Tehuacan -> Casablanca -> Tehuacan
+561 : Yola -> Calabar -> Lop Buri -> Calabar -> Lop Buri -> Yola -> Ottawa -> Fremont -> Jakarta -> Uruapan -> Yola -> Yola -> Fremont -> Jakarta -> Jakarta -> Calabar -> Fremont -> Lop Buri -> Calabar -> Calabar -> Uruapan -> Boli -> Boli
+562 : Inhambane -> Lenexa -> Flower Mound -> Lenexa -> North Bay -> As Sib -> Lenexa -> Inhambane -> Inhambane -> As Sib -> As Sib -> Flower Mound -> Lenexa -> Salinas -> Inhambane -> Flower Mound
+563 : Juba -> Tizi-Ouzou -> Tizi-Ouzou
+564 : Mumbai -> Mumbai -> Bafang -> Bafang -> Mumbai -> Bafang -> Mumbai
+565 : Ahar -> Smyrna -> Barahona -> Potchefstroom -> Nkawkaw -> Potchefstroom -> Smyrna -> Barahona -> Smyrna -> Ahar -> Sugar Land -> Sugar Land -> Ahar
+566 : Muyinga -> Ndjamena -> Shawnee -> Gwangju -> Manukau -> Muyinga -> Shawnee -> Muyinga -> Manukau -> Gwangju -> Ndjamena -> Manukau -> Ndjamena -> Shawnee -> Ndjamena -> Shawnee -> Manukau -> Shawnee -> Manukau -> Gwangju -> Manukau
+567 : Vinh -> Vinh -> Wangqing -> Wangqing -> Fort Wayne -> Vinh -> Vinh -> Vinh
+568 : Bikaner -> Split -> Bikaner -> Ratchaburi -> Split -> Split -> Bikaner -> Split -> Ratchaburi -> Bikaner -> Cathedral City -> Cathedral City -> Split -> Mallawi -> Split
+569 : Orel -> Nogales -> Orel -> Tamanrasset -> Irbid -> Chamdo -> Irbid -> Chamdo -> Irbid -> Nogales -> Irbid -> Chamdo -> Nogales -> Chamdo -> Chamdo
+570 : Borovichi -> Anqing -> Scranton -> Scranton -> Anqing -> Borovichi -> Scranton -> Borovichi -> Santana do Livramento
+571 : Coimbatore -> Moshi -> Coimbatore -> Chirchiq -> Coimbatore -> Moshi -> Coimbatore -> Coimbatore -> Moshi -> Qena -> Coimbatore -> Chirchiq -> Chirchiq -> Qena -> Qena
+572 : Esmeraldas -> Ali Bayramli -> Esmeraldas -> Alappuzha -> Cape Town -> Ali Bayramli -> Navsari -> Manizales -> Navsari -> Ali Bayramli -> Alappuzha -> Ali Bayramli
+573 : Butembo -> Alagoinhas -> Zhijiang -> Zhijiang -> Butembo -> Alagoinhas -> Alagoinhas -> Zhijiang -> Alagoinhas -> Zhijiang -> Alagoinhas -> Oslo -> Oslo -> Alagoinhas
+574 : Xigaze -> Dahuk -> Xigaze -> Neyshabur -> Neyshabur -> Yoshkar Ola -> Broken Arrow -> Xigaze -> Dahuk -> Dahuk -> Broken Arrow -> Broken Arrow -> Xigaze -> Yoshkar Ola -> Kumamoto -> Yoshkar Ola
+575 : Prijedor -> Zhytomyr -> Zhytomyr -> Wagga Wagga -> Prijedor -> Quanzhou -> Gelendzhik -> Polevskoy -> Zhytomyr -> Prijedor -> Wagga Wagga -> Prijedor -> Wagga Wagga
+576 : Monterrey -> Monterrey -> Georgetown -> Lilongwe -> Lilongwe -> Monterrey -> Georgetown -> Tuapse -> Tuapse
+577 : Decatur -> Ujjain -> Gaziantep -> Gaziantep -> Ames -> Ujjain -> Ujjain -> Cartagena -> Decatur -> Ujjain -> Cartagena -> Gaziantep -> Decatur -> Cartagena -> Cartagena -> Gaziantep -> Gaziantep -> Cartagena
+578 : Zenica -> Zenica -> Seoul -> Kirovo-Chepetsk -> Zenica -> Hail -> Hail -> Zenica -> Zenica -> Seoul
+579 : Kirkland -> Saratoga Springs -> Kirkland -> Saratoga Springs -> Jinhua -> Jinhua -> Titusville -> Jinhua -> Titusville -> Kirkland -> Jinhua -> Kirkland -> Kirkland -> Titusville -> Kirkland
+580 : Novi -> Sasebo -> Enugu -> Enugu -> Edinburg -> Mbeya -> Enugu -> Enugu -> Novi -> Edinburg
+581 : Shangrao -> Kilosa -> Kilosa -> Shangrao -> Kilosa -> Kunming -> Shangrao -> Kunming -> Kunming -> Cusco
+582 : Stuttgart -> Ulanhot -> Anzhero Sudzhensk -> Ulanhot -> Ulanhot -> Lajes -> Tiarat -> Tiarat -> Rio Grande -> Lajes -> Lajes -> Anzhero Sudzhensk -> Lajes -> Lajes -> Rio Grande
+583 :
+584 : Conakry -> Baydhabo -> Conakry -> Baydhabo -> Nakhon Sawan -> Baydhabo -> Conakry -> San Salvador de Jujuy -> Baydhabo -> Conakry -> San Salvador de Jujuy -> San Salvador de Jujuy -> Nakhon Sawan -> Baydhabo -> San Salvador de Jujuy
+585 : Tuscaloosa -> Ravenna -> Ravenna -> Chitungwiza -> Tuscaloosa -> Kermanshah -> Kuwait -> Chitungwiza -> Ravenna -> Kuwait
+586 : Pyay -> Sanming -> Windhoek -> Pyay -> Sanming -> Luanda -> Sanming -> Pyay -> Windhoek -> Luanda -> Sanming -> Pyay -> Korhogo -> Korhogo
+587 : Santa Cruz do Sul -> Potenza -> Kuopio -> Lausanne -> Lausanne -> Mission Viejo -> Mission Viejo -> Caborca -> Mission Viejo -> Santa Cruz do Sul -> Santa Cruz do Sul -> Kuopio -> Potenza
+588 : Papeete -> Goma -> Bydgoszcz -> Havana -> Goma -> Panshi -> Kashan -> Kashan -> Manbij -> Manbij -> Mountain View -> Orem -> Orem -> Mountain View -> Blumenau -> Herat -> Panshi
+589 : Saint Gallen -> Saint Gallen -> Saint Gallen -> Daytona Beach -> Farmington Hills -> Farmington Hills -> South Lyon -> Saint Gallen -> South Lyon -> Saint Gallen -> Sebring
+590 : Obuasi -> Brest -> Wukari -> Obuasi -> Obuasi -> Wukari -> Obuasi -> Obuasi -> Brest -> Wukari -> Ivanovo -> Brest -> Wukari -> Ivanovo
+591 : Michigan City -> Bissau -> Euless -> Euless -> Archangel -> Bissau -> Bissau -> Michigan City -> Michigan City -> Kokomo
+592 : Altoona -> Minna -> Jixi -> Minxian -> Bata -> Jixi -> Minna -> Minna
+593 : Hospet -> Jiangmen -> Khabarovsk -> Nanping -> Nanping -> Jiangmen -> Khabarovsk -> Hospet -> Nanping -> Nanping
+594 : Sparks -> Hebi -> Hebi -> Hebi -> Hebi -> Sparks
+595 : Kigoma -> Ocala -> South Bend -> Cheboksary -> Anuradhapura -> Ocala -> Anuradhapura -> Anuradhapura -> Kigoma -> South Bend -> Anuradhapura -> Ocala -> Cheboksary
+596 : Surat Thani -> Conway -> Vijayawada -> Rangoon -> Puerto Maldonado -> Bacolod -> Surat Thani -> Paramount -> South Jordan -> Conway -> Conway -> Maseru -> Puerto Maldonado -> South Jordan -> Maseru -> South Jordan -> South Jordan -> Puerto Maldonado -> Surat Thani -> Puerto Maldonado -> Maseru -> South Jordan -> Bacolod -> Maseru -> Puerto Maldonado
+597 : Iguatu -> Loja -> Mansehra -> Oranjestad -> Iguatu -> Loja -> Edina -> Letpadan -> Letpadan -> Letpadan -> Mansehra -> Edina -> Oranjestad -> Mansehra -> Iwaki -> Loja -> Mansehra -> Oranjestad -> Edina -> Edina -> Iguatu -> Edina -> Mansehra -> Edina -> Iguatu
+598 : Charleston -> Charleston -> Charleston
+599 :
+600 : Mahilyow -> Kota Baharu -> Shostka -> Shostka -> Mahilyow -> Shostka
+601 : Baghlan -> Baghlan -> Nantes -> Ajdabiya -> Baqubah -> Sumy -> Bade -> Nantes -> Baqubah -> Baghlan -> Sumy -> Sumy -> Sumy -> Sumy -> Sumy -> Bade -> Bade -> Baqubah -> Baqubah -> Nantes -> Ajdabiya -> Baqubah
+602 : Mzuzu -> Mzuzu -> Lianxian -> Mzuzu -> Mzuzu -> Mzuzu -> Lianxian -> Poltava -> Mzuzu -> Poltava
+603 : Ridder -> Ridder -> Ridder -> Ridder -> Yakutsk
+604 : El Minya -> El Minya -> Vorkuta -> Hammond -> Hammond -> Hammond -> Gujranwala -> Hammond -> Calama -> Srinagar -> Chengde -> Chengde -> Calama -> Chengde -> Vorkuta -> Srinagar -> Gujranwala -> Gujranwala -> Hammond -> Hammond -> Srinagar
+605 : Jiayuguan -> Jiayuguan -> Kisumu -> Kisumu -> Taichung -> Jiayuguan
+606 : Krasnodar -> Angren -> Xiangtai -> Krasnodar -> Xiangtai -> Cardiff -> Gashua -> Er Rachidia -> Gashua -> Gashua -> Sawahlunto -> Ebolowa -> Xiangtai -> Ebolowa -> Er Rachidia -> Sawahlunto -> Er Rachidia -> Krasnodar -> Xiangtai -> Er Rachidia -> Xiangtai -> Xiangtai
+607 : Kiselevsk -> Alameda -> Kiselevsk -> Goodyear -> Alameda -> Ourense -> Arras -> Ourense -> Ourense -> Goodyear
+608 : Tiruppur -> Leeds -> Leeds -> Cabo Frio -> Bucharest -> Leeds -> Tiruppur -> Cabo Frio -> Cabo Frio -> Bucharest -> Saki
+609 : Ouahigouya -> Barinas -> Sioux City -> Eden Prairie -> Kryvyy Rih -> Odessa -> Tlimcen -> Ouahigouya -> Ouahigouya -> Barinas -> Odessa -> Tlimcen -> Barinas -> Sioux City -> Odessa -> Eden Prairie -> Odessa -> Tlimcen -> Ouahigouya -> Ouahigouya -> Odessa -> Sioux City -> Ad Damman -> Ouahigouya -> Ouahigouya -> Barinas
+610 : Corona -> La Rochelle -> Corona -> Corona -> Henderson -> Corona -> Corona -> La Rochelle -> Marbella
+611 : Redding -> Redding -> Ocumare del Tuy -> Ocumare del Tuy -> Qinhuangdao -> Qinhuangdao -> Otradnyy -> Ocumare del Tuy -> Otradnyy -> Ocumare del Tuy -> Otradnyy -> Ocumare del Tuy -> Otradnyy -> Ocumare del Tuy -> Otradnyy -> Redding -> Qinhuangdao -> Redding
+612 : Tottori -> Tottori -> Tottori -> Kansas City -> Iowa City -> Agartala -> Chambersburg -> Agartala -> Agartala -> Ouidah -> Iowa City -> Kansas City -> Kansas City -> Kansas City -> Kansas City -> Kansas City -> Agartala -> Tottori -> Kansas City -> Ouidah -> Kansas City -> Agartala -> Tottori
+613 : Shangqiu -> Shangqiu -> Shangqiu -> Shangqiu -> Shangqiu -> Puerto Ayacucho
+614 : Castello -> Tongren -> Castello -> Rome
+615 : Beihai -> Tailai -> Tailai -> Maumere -> Tailai -> Haikou -> Maumere -> Trnava -> Trnava -> Tailai -> Haikou -> Tailai -> Beihai
+616 : Thu Dau Mot -> Thu Dau Mot -> Eau Claire -> Eau Claire
+617 : Weinan -> Sincelejo -> Sincelejo -> Kuito -> Casa Grande -> Weinan -> Weinan -> Casa Grande -> Barquisimeto -> Barquisimeto -> Greenock -> Barquisimeto -> Sincelejo -> Casa Grande -> Sincelejo -> Barquisimeto -> Greenock -> Kuito
+618 : Mangalore -> Novoshakhtinsk -> Jhansi -> Novoshakhtinsk -> Ensenada -> San Ramon -> Ghaziabad -> Berwyn -> Xanthi -> Bukoba -> Cary -> Mangalore -> Xanthi -> Ensenada -> Berwyn -> Ghaziabad -> Ghaziabad -> Jhansi -> Xanthi -> Xanthi -> Ensenada -> Jhansi -> Ensenada -> Bukoba
+619 : Kandi -> Utsunomiya -> Port Huron -> Dumyat -> Kandi -> Tarija -> Nongan -> Kandi -> Sheberghan -> Salsk -> Utsunomiya -> Sheberghan -> Hengyang -> Dumyat -> Salsk -> Hengyang -> Utsunomiya -> Hengyang
+620 : Tahoua -> Tahoua -> Tahoua -> Tahoua -> Tahoua -> Manteca
+621 : Sylhet -> Santiago de Compostela -> Santiago de Compostela -> Santiago de Compostela -> Sylhet -> Santiago de Compostela -> Davao -> Sylhet -> Rapid City
+622 : Valle de la Pascua -> Watertown -> Watertown -> Karnal -> Isiro -> Sheffield -> Watertown -> Karnal -> Valle de la Pascua -> Karnal -> Sheffield -> Valle de la Pascua -> Watertown
+623 : Astrakhan -> Blida -> Trincomalee -> Trincomalee -> Kananga -> Trincomalee -> Kananga -> Astrakhan -> Trincomalee -> Astrakhan -> Astrakhan
+624 : Schaumburg -> Mindelo -> Schaumburg -> Manchester -> Mindelo -> Schaumburg -> Mindelo -> Manchester -> Manchester -> Manchester -> Mindelo -> Schaumburg -> Manchester -> Schaumburg
+625 : Deva -> Yunxian -> Deva -> Yunxian -> Hickory -> Hickory -> Hickory -> Deva -> Deva
+626 : Taganrog -> Broomfield -> Taganrog -> Taganrog -> Taganrog -> Taganrog
+627 : Awka -> Arcadia -> Awka -> Arcadia -> Awka -> Arcadia -> Arcadia
+628 : Fuan -> Orekhovo-Zuevo -> Fuan -> Orekhovo-Zuevo
+629 : Freetown -> Kasur -> Biu -> Kasur -> Freetown -> Freetown -> Freetown -> Biu -> Kasur -> Biu -> Freetown
+630 : Tumaco -> Chingola -> Dhule -> Chingola -> Tumaco -> Tumaco -> Tubruq -> Tubruq -> Chingola -> Yurga -> Dhule -> Dhule
+631 : Pereira -> Nekemte -> Pereira -> Pereira -> Pereira -> Nekemte -> Pereira -> Davenport -> Moradabad -> Fort Worth -> Nekemte -> Nekemte
+632 : Phetchaburi -> Darwin -> Phetchaburi -> West Sacramento -> Matruh -> West Sacramento -> Mazatenango -> Matruh -> Matruh -> Darwin -> Phetchaburi
+633 : Haifa -> Assis -> Kingsport -> Kingsport -> Assis -> Haifa -> Kingsport -> Kingsport -> Kingsport -> Kingsport -> Haifa
+634 : Angers -> Angers -> Angers -> Newton -> Fargo -> Tustin
+635 : Shizuoka -> Royal Oak -> Aracaju -> Shizuoka -> Royal Oak -> Royal Oak -> Syzran -> Santa Ana -> Shizuoka -> Santa Ana -> Royal Oak -> Syzran -> Shizuoka -> Santa Ana -> Syzran -> Santa Ana -> Aracaju -> Royal Oak -> Santa Ana -> Santa Ana
+636 : Lira -> Oldenburg -> Urgentch -> Lira -> Mykolayiv -> Lira -> Lira -> Mykolayiv -> Birnin Kebbi -> Urgentch -> Lira -> Birnin Kebbi -> Lira -> Nampo -> Birnin Kebbi -> Urgentch -> Nampo
+637 : Valparai -> Malindi -> Zarafshon -> Zarafshon -> Zarafshon -> Malindi -> Lorica -> Plantation -> Plantation -> Buynaksk -> Buynaksk -> Lorica -> Malindi -> Zarafshon -> Lorica -> Malindi -> Valparai
+638 : Perpignan -> Perpignan -> Perpignan -> Nefteyugansk -> Nuevo Laredo -> Perpignan -> Nasik -> Nuevo Laredo -> Ibadan -> Nefteyugansk -> Nasik -> Ibadan
+639 : Settat -> Montepuez -> Maha Sarakham -> Montepuez -> Maldonado -> Maldonado -> Montepuez -> Nizhny Tagil -> Methuen -> Settat -> Maha Sarakham -> Cranbourne -> Maldonado -> Maldonado -> Mirput Khas -> Cranbourne -> Maldonado -> Montepuez -> Maldonado -> Methuen
+640 : Mymensingh -> Taldyqorghan -> Mymensingh
+641 : Teluk Intan -> Truc Giang -> Truc Giang -> Teluk Intan -> Fullerton -> Truc Giang -> Fullerton -> Truc Giang -> Orizaba -> Truc Giang -> Rockhampton -> Rockhampton -> Longmont -> Rockhampton -> Orizaba -> Longmont -> Rockhampton -> Truc Giang -> Truc Giang -> Teluk Intan
+642 : Lake Jackson -> Leominster -> Lake Jackson -> Leominster -> Ambon
+643 : Terre Haute -> Punta Arenas -> Guanambi -> Punta Arenas -> Punta Arenas -> Terre Haute -> Punta Arenas -> Terre Haute -> Punta Arenas
+644 : Toulon -> Lethbridge -> Stockton -> Lethbridge -> Yonkers -> Killeen -> Stockton
+645 : Kassala -> Giurgiu -> Trenton -> Larkana -> Trenton -> Kassala -> Giurgiu -> Alhambra -> Giurgiu -> Giurgiu -> Davie
+646 : Cotonou -> Andorra -> Torrance -> Dandong -> Foumban -> Foumban -> Andorra
+647 : O'Fallon -> Tongling -> Samsun -> Samsun -> O'Fallon -> O'Fallon -> Tongling -> Samsun -> O'Fallon -> Nagano -> Tongling -> O'Fallon
+648 : Lupanshui -> Cartersville -> Ternopil -> Ternopil -> Anda -> Tiznit -> Xinyi -> Ternopil -> Xinyi -> Lupanshui -> Tiznit -> Cartersville -> Cartersville -> Xinyi -> Mufulira -> Cartersville -> Cartersville -> Anda -> Xinyi -> Mufulira -> Anda -> Lupanshui -> Ternopil -> Xinyi -> Cartersville -> Anda
+649 : El Paso -> El Paso -> Ternate -> Ternate -> Ternate -> Ternate -> Ternate -> Fuzhou -> Fuzhou -> Ternate
+650 : Bloomington -> Benxi -> Bloomington -> Hinesville -> Qyzylorda -> Bloomington -> Hinesville -> Qyzylorda -> Hinesville -> Boma -> Bloomington -> Bloomington -> Benxi -> Bloomington -> Bloomington -> Sterlitamak -> Boma -> Qyzylorda -> Bloomington -> Bloomington -> Bloomington -> Bloomington -> Boma
+651 : Fatehpur -> Fatehpur -> Fatehpur -> Florence -> Fatehpur -> Florence -> Florence -> Florence -> Florence
+652 : Ouargla -> Ouargla -> Maiduguri -> Maiduguri -> Talcahuano -> Maiduguri
+653 : Porto Alegre -> Nice -> Folsom -> Porto Alegre -> Folsom -> Nice -> Dongguan -> Porto Alegre
+654 : Bellflower -> Tracy -> Yongzhou -> Rosario -> Numan -> Sheikhu Pura -> Numan -> Numan -> Bellflower -> Tracy
+655 : North Little Rock -> Linchuan -> Lashkar Gah -> Kampala -> Muroran -> Phoenix -> Lashkar Gah -> Plymouth -> Catamarca -> Plymouth -> Plymouth -> Plymouth -> Tegucigalpa -> Catamarca -> Plymouth -> Tegucigalpa -> North Little Rock -> Catamarca -> Lashkar Gah -> Linchuan
+656 : Yerevan -> Mathura -> Mathura -> Bolingbrook -> Cabo de Santo Agostinho -> Yerevan -> Cabo de Santo Agostinho -> Yerevan -> Cabo de Santo Agostinho -> Bolingbrook -> Yerevan -> Mathura -> Batman
+657 : Delicias -> Chesapeake -> Delicias -> Chesapeake -> Lokossa -> Chesapeake -> Chesapeake -> Vereeniging -> Vereeniging -> Jullundur -> Chesapeake -> Vereeniging
+658 : Cilacap -> North Charleston -> Flensburg -> Flensburg -> North Charleston -> Raichur -> North Charleston -> Hattiesburg -> Hattiesburg -> Cilacap -> Raichur -> Hattiesburg
+659 : Memphis -> Tirupati -> Tirupati -> Memphis -> Az Zawiyah -> Memphis -> Badajoz -> Wausau -> Middlesbrough -> Wausau -> Middlesbrough -> Badajoz -> Az Zawiyah -> Memphis -> Middlesbrough -> Middlesbrough -> Badajoz -> Wausau
+660 : Williamsport -> Pucallpa -> Lutsk -> Pucallpa -> Naryn -> Lutsk -> Lutsk -> Baton Rouge -> Palangkaraya -> Alor Setar -> Alor Setar -> Baton Rouge -> Magong -> Kineshma -> Magong -> Kineshma -> Magong -> Kineshma -> Palangkaraya -> Baton Rouge -> Palangkaraya -> Alor Setar -> Pucallpa
+661 : Jutiapa -> Oujda -> Lanxi -> Tandil -> Lanxi -> Oujda -> Gibraltar -> Jutiapa -> Gibraltar -> Tandil -> State College -> Tandil
+662 : Phitsanulok -> Hrodna -> Kursk -> Marsala -> Paris -> Zuwarah -> Mokpo -> Bida -> Zuwarah -> San Lorenzo -> Hrodna -> Bida -> Kursk -> Mekele -> San Lorenzo -> Marsala -> Kursk -> Bida -> Mekele -> Qal at Bishah -> Marsala -> Phitsanulok -> Orsha -> Mokpo -> Qal at Bishah -> Orsha -> Zuwarah -> Zuwarah -> Phitsanulok -> Marsala -> Hrodna -> Mokpo
+663 : Qoqon -> Brazzaville -> Qoqon -> Braunschweig -> Neftekamsk -> Braunschweig -> Ekibastuz
+664 : Placentia -> Cahul -> Placentia -> Carbondale -> Oyo -> Sopore -> Gorontalo -> Sopore -> Shenzhen -> Shenzhen -> Ouezzane -> Cahul -> Shenzhen -> Placentia -> Shenzhen -> Behbehan -> Oyo -> Behbehan -> Oyo -> Shenzhen -> Carbondale -> Ouezzane -> David -> Taitung -> Behbehan -> Oyo -> Placentia -> Taitung -> Sopore -> Carbondale -> Sopore -> Oyo -> Behbehan -> Gorontalo
+665 : Coronel Oviedo -> Sunrise -> Mongu -> Chuxiong -> L'Ariana -> Beijing -> Mongu -> Yumen -> Chuxiong -> Chuxiong -> L'Ariana -> Beijing -> Chinandega -> Chinandega -> Yumen -> Coronel Oviedo -> Beijing
+666 : Narayanganj -> Lianyungang -> Narayanganj -> Narayanganj -> Lianyungang -> Lianyungang -> Narayanganj -> Gangtok -> Lianyungang -> Narayanganj
+667 : Wonju -> Ayutthaya -> Naberezhnyye Chelny -> Wonju -> Naberezhnyye Chelny -> Ayutthaya -> Naberezhnyye Chelny
+668 : Mostaganem -> Hempstead -> Danjiangkou -> Cuamba -> Cuamba -> Cuamba -> Hempstead -> Cuamba -> Cuamba -> Hempstead
+669 : Yancheng -> Akita -> Zagazig -> Sagaing -> La Crosse -> Akita -> La Crosse -> Sagaing -> Sagaing -> La Crosse -> Zagazig -> Zagazig
+670 : Vryheid -> Vryheid
+671 : Mamou -> Thohoyandou -> Las Vegas -> Beipiao -> Sadiqabad -> Sadiqabad -> Thohoyandou -> Sadiqabad -> Thohoyandou -> Ondo -> Mamou -> Sadiqabad -> Monessen -> Monessen -> Las Vegas -> Las Vegas -> Sadiqabad
+672 : Leninogorsk -> Tamarac -> Andradina -> Leninogorsk -> Tamarac -> Leninogorsk -> Andradina
+673 : Barbacena -> Sirjan -> Rohtak -> Oshkosh -> Rohtak -> Barbacena -> Managua -> Rohtak -> Sirjan -> Managua -> Sirjan -> Carazinho -> Managua -> Sirjan -> Oshkosh -> Rohtak -> Oshkosh -> Managua
+674 : Gbadolite -> Teresina -> Wheeling -> Gbadolite -> Gbadolite -> Gbadolite -> Teresina -> Wheeling -> Wheeling -> Wheeling -> Gbadolite
+675 : Yiyang -> Yiyang -> Novi Sad
+676 : Mashhad -> Janesville -> Lokoja -> Escondido -> Janesville -> Lokoja -> Janesville -> Bukhara -> Janesville -> Lokoja -> Houma -> Bukhara -> Mashhad -> Houma -> Lokoja
+677 : Dodoma -> Downey -> Downey -> Goyang -> Downey -> Qasserine -> Abeokuta -> Abeokuta -> Goyang -> Dodoma -> Fianarantsoa -> Abeokuta -> Goyang -> Fianarantsoa -> Qasserine
+678 : Babruysk -> Babruysk -> Babruysk -> Butterworth -> Baghdad -> Baghdad -> Butterworth -> Baghdad
+679 : Fresnillo -> Mbuji-Mayi -> Layton -> Layton -> Layton -> Mbuji-Mayi -> Yucaipa -> Belo Horizonte -> Yucaipa -> Yucaipa
+680 : Assab -> Kalamata -> Kano -> Aswan -> Aswan -> Kano -> Kalamata -> Cam Ranh -> Assab -> Assab -> Kano -> Le Mans -> Le Mans -> Aswan
+681 : Port Orange -> Xining -> Pisa -> Giresun -> Brindisi -> Port Orange -> Sabzewar -> Pisa -> Suffolk -> Pisa -> Suffolk -> Giresun -> Brindisi -> Toronto -> Giresun -> Xining -> Toronto -> Pisa -> Port Orange -> Tanjungpinang -> Brindisi -> Pisa
+682 : Erechim -> Douliou -> Erechim -> Douliou -> Douliou -> Douliou
+683 : La Rioja -> Palembang -> La Rioja -> Cape Coral -> Cape Coral -> Cape Coral -> Bari -> Cape Coral -> La Rioja -> La Rioja -> Cape Coral -> La Rioja -> Cape Coral -> Ksar El Kebir -> Bari -> Palembang
+684 : Berezniki -> Babahoyo -> Linqing -> Berezniki -> Berezniki -> Linqing
+685 : Nizwa -> Juazeiro -> Juazeiro -> Sumenep -> Juazeiro -> Ziguinchor -> Juazeiro -> Sumenep -> Ziguinchor -> Nizwa -> Nizwa -> Sumenep -> Sumenep -> Sumenep -> Sumenep
+686 : Sarajevo -> Matsuyama -> Matsuyama -> Sarajevo -> Itapetinga -> Itapetinga -> Matsuyama -> Itapetinga -> Rahim Yar Khan -> Itapetinga -> Sarajevo -> Sarajevo
+687 : Florencia -> Helsingborg -> Helsingborg -> Sikar -> Antsirabe -> Antsirabe -> Antsirabe -> Florencia -> Helsingborg -> Antsirabe -> Helsingborg
+688 : Pingyi -> Rotterdam -> Pingyi -> Rotterdam -> Rotterdam
+689 : Spokane Valley -> Spokane Valley -> Lesosibirsk -> Ash Shatrah -> Lesosibirsk -> Ash Shatrah -> Spokane Valley -> Ash Shatrah -> Lesosibirsk -> Lesosibirsk -> Lesosibirsk -> Ash Shatrah -> Spokane Valley
+690 : Anaco -> Anaco -> Nouakchott -> Al Marj -> Binjai -> Al Marj -> Al Marj -> Anaco -> Binjai
+691 : Vila Velha -> Ussuriysk -> Feyzabad -> Ussuriysk -> Feyzabad -> Vila Velha -> Vila Velha -> Sioux Falls -> Lysychansk -> Feyzabad -> Lysychansk -> Vila Velha -> Lysychansk -> Sioux Falls -> San Juan De Los Morros -> Vila Velha -> San Juan De Los Morros
+692 : Antalya -> Antalya -> Exeter -> Exeter -> Antalya -> Coconut Creek -> Exeter -> Lexington -> Antalya -> Coconut Creek -> Lexington
+693 : Jacksonville -> Hamah -> Weirton -> Tawau -> Weirton -> Smolensk -> Tawau -> Smolensk -> Jacksonville -> Weirton -> Jacksonville -> Aleppo -> Jacksonville -> Jacksonville -> Jacksonville -> Jacksonville -> Smolensk -> Weirton -> Tawau
+694 : Nakhodka -> Laiyang -> Ourinhos -> Laiyang -> Mataram -> Baiquan -> Nakhodka -> Baiquan -> Laiyang -> Nakhodka -> Nakhodka -> Nakhodka -> Al Aqabah -> Mataram -> Abbotsford
+695 : Santander -> Pingzhen -> Guelma -> Hims -> Ann Arbor -> Guelma -> Santander -> Guelma -> Ann Arbor -> Santander -> Pingzhen -> Guelma -> Hims -> Sotik
+696 : Valencia -> Moscow -> Valencia -> Borujerd -> Borujerd -> Kyoto -> Kyoto -> Kyoto -> Borujerd -> Moscow
+697 : Itapetininga -> Batangas -> Batangas -> Itapetininga -> Hoa Binh -> Kasese -> Zagreb -> Zagreb
+698 : Firozabad -> Biak -> Portsmouth -> Portsmouth -> Portsmouth -> Portsmouth -> Portsmouth -> Shumen -> Illichivsk -> Firozabad -> Boa Vista -> Boa Vista -> Shumen
+699 : Ciudad Hidalgo -> Hsinchu -> Obninsk -> Carrollton -> Carrollton -> Poza Rica de Hidalgo -> Miami Beach -> Obninsk -> Miami Beach -> Hsinchu -> Lyon -> Carrollton -> Poza Rica de Hidalgo -> Carrollton -> Concordia -> Carrollton -> Hsinchu -> Ciudad Hidalgo -> Concordia -> Lyon -> Lyon -> Miami Beach -> Obninsk -> Lyon -> Poza Rica de Hidalgo -> Poza Rica de Hidalgo -> Miami Beach
+700 : Tongchuan -> Kaluga
+701 : Columbia -> Klin -> Columbia -> Klin -> Klin -> Ikare -> Columbia -> Ikare -> Columbia -> Klin
+702 : Kara Balta -> Punto Fijo -> Kara Balta -> Parachinar -> Punto Fijo -> Hoboken -> Parachinar -> Nabeul -> Nabeul -> Punto Fijo -> Punto Fijo -> Kara Balta -> Nagpur
+703 : Luan -> Kondoz -> Luan -> Anniston -> Kondoz -> Kamyshin -> Zarzis -> Anniston -> Kamyshin -> Kankakee -> Anniston -> Kamyshin -> Kamyshin -> Zarzis -> Luan -> Kamyshin -> Kankakee -> Anniston -> Kamyshin -> Kamyshin
+704 : Nazret -> Elista -> Surakarta -> Elista -> Surakarta -> Mackay -> Elista -> Mackay -> Mackay -> Nazret -> Hong Kong -> Elista -> Mackay -> Mackay -> Surakarta -> Nazret -> Surakarta -> Tempe -> Tempe -> Tempe -> Hong Kong -> Elista
+705 : Benin City -> Bandar-e Bushehr -> Jalingo -> Jalingo -> Jalingo -> Liberec -> Liberec -> Bandar-e Bushehr
+706 : Ranchi -> Toulouse -> L'Aquila -> Toulouse -> Ranchi -> Wollongong -> Ranchi -> Ranchi -> L'Aquila
+707 : Nkhotakota -> Nkhotakota -> Podolsk -> Podolsk -> Oudtshoorn -> Oudtshoorn -> Nkhotakota -> Podolsk -> Podolsk -> Oudtshoorn -> Tshikapa -> Nkhotakota -> Yuzhno Sakhalinsk -> Yuzhno Sakhalinsk -> Yuzhno Sakhalinsk -> Oudtshoorn -> Yuzhno Sakhalinsk -> Nkhotakota
+708 : Zhuzhou -> Missouri City -> Zhuzhou -> Ciudad Guzman -> Logan -> Logan -> Bhusawal -> Ciudad Guzman -> New Rochelle -> Neryungri -> Zhuzhou -> Logan -> Missouri City -> New Rochelle -> Linfen -> Rockville -> Bhusawal -> New Rochelle -> Ciudad Guzman -> Logan -> Missouri City -> New Rochelle -> Bhusawal -> Logan -> Zhuzhou -> Linfen -> Rockville -> Missouri City -> Neryungri
+709 : Montebello -> Chiclayo -> Chiclayo -> Hoshiarpur -> Hoshiarpur -> Tieli -> Chiclayo -> Tieli -> Chiclayo
+710 : Kilifi -> Athens -> Fort Smith -> Athens -> Kilifi -> Xuchang -> Kilifi -> Fort Smith -> Athens -> Ozamis -> El Arish -> Ozamis -> Athens -> Kilifi -> Kilifi -> Xuchang -> El Arish
+711 : Upland -> Sohag -> Taylor -> Buraydah -> El Progreso -> Taylor -> Rongzhag -> Rongzhag -> Korogwe -> Sohag -> Menifee -> Korogwe -> Shreveport -> Sohag -> Menifee -> Taylor -> Menifee -> Menifee -> Rongzhag -> Shreveport -> Shreveport -> Shreveport -> El Progreso -> Korogwe -> Rongzhag -> Shreveport
+712 : Milpitas -> Rivne -> Imphal -> Imphal -> Milpitas -> Rivne -> Amasya -> Bismarck -> Milpitas -> Nanyang -> Imphal -> Nanyang -> Amasya -> Huangyan -> Imphal -> Milpitas -> Huangyan
+713 : Tanjungpandan -> Fargona -> Fargona -> Jeonju -> Jeonju -> Lae -> Fargona -> Tanjungpandan -> Lae -> Jeonju -> Lae
+714 : Shar e Kord -> Ahmedabad -> North Miami -> Galle -> Bellingham -> Shendi -> Puerto Princesa -> Puerto Princesa -> Aizawl -> New Delhi -> Shendi -> Ahmedabad -> Glasgow -> Shar e Kord -> Glasgow -> Sierra Vista -> Shar e Kord -> Chiang Mai -> Novomoskovsk -> Glasgow -> Galle -> Aizawl -> Sierra Vista -> Novomoskovsk -> Ahmedabad -> New Delhi -> Sierra Vista -> North Miami -> Shendi -> Shendi -> Glasgow -> Ahmedabad -> Novomoskovsk -> Aizawl -> Aizawl
+715 : Bafia -> Bafia -> Bafia -> Parker -> Binghamton -> Binghamton -> Bafia -> Parker -> Bafia -> Binghamton -> Binghamton
+716 : Charleroi -> Charleroi -> Charleroi -> Charleroi
+717 : Anyang -> Alexandroupoli -> Alexandroupoli -> Anyang -> Belebey -> Rio Verde -> Anyang -> Thakhek -> Turku -> Anyang -> Turku -> Alexandroupoli -> Thakhek -> Norfolk -> Belebey -> Rio Verde -> Norfolk -> Norfolk
+718 : Kislovodsk -> Kislovodsk -> Novoaltaysk -> Round Lake Beach -> Kislovodsk -> Apia -> Petropavlovsk -> Novoaltaysk -> Novoaltaysk -> Apia -> Konya
+719 : An Najaf -> An Najaf -> Lompoc -> An Najaf -> Lompoc -> Lompoc
+720 : Shenyeng -> Daugavpils -> Daugavpils -> Daugavpils -> Daugavpils -> Mansfield -> Shenyeng -> Modesto -> Modesto -> Daugavpils -> Sunderland -> Mansfield -> Mansfield -> Mansfield -> Buon Me Thuot -> Daugavpils -> Mansfield -> Modesto -> Vishakhapatnam -> Sunderland -> Shenyeng
+721 : Fushun -> Cape Coast -> Cape Coast -> Birjand -> Melbourne -> Melbourne -> Fushun -> Birjand -> Birjand -> Cape Coast -> Fushun -> Cape Coast -> Melbourne -> Melbourne -> Birjand
+722 : Lakeland -> Yeysk -> Lakeland -> Bourges -> Lakeland -> Koudougou -> Yeysk -> Koudougou -> Cranston -> Koudougou -> Lakeland -> Yeysk -> Puerto la Cruz -> Cranston
+723 : Tampa -> Kohat -> Kohat -> Hosaina -> Hanford -> Kohat -> Hosaina -> Hanford
+724 : Raipur -> Liuhe -> Funchal -> Wenzhou -> Liuhe -> Rowlett -> Udaipur -> Funchal -> Raipur -> Funchal -> Funchal
+725 : Weifang -> Karur -> Souk Ahras -> Weifang -> Souk Ahras -> Weifang
+726 : Conroe -> Nsukka -> Prey Veng -> Nsukka -> Dubuque -> Blagoveshchensk -> Sampit -> Blagoveshchensk -> Kansk -> Prey Veng -> Muar -> Orange -> Prey Veng -> Dubuque -> Dubuque -> Orange -> Conroe -> Prey Veng -> Hagerstown
+727 : Manila -> Manila -> Douala -> Manila -> Pingtung -> Manila -> Zaria -> Myingyan -> Myingyan -> Manila -> Pingtung -> Hasselt -> Hasselt -> Hasselt -> Manila
+728 : Xilinhot -> Kilinochchi -> Kilinochchi -> Alajuela -> Xilinhot
+729 : Anshun -> Taiyuan -> Bandung -> Ragusa -> Vyborg -> Ragusa -> Denton -> Anshun -> Ragusa -> Taiyuan -> Bandung -> Anshun -> Bandung -> Bandung -> Vyborg -> Vyborg -> Ragusa -> Kamensk Uralskiy -> Anshun -> Anshun -> Taiyuan -> Vyborg -> Ragusa -> Taiyuan
+730 : Sfintu-Gheorghe -> Dijon -> Calgary -> Dijon -> Rochester Hills -> Rochester Hills -> Rochester Hills -> Bridgetown -> Rochester Hills -> Bridgetown -> Sfintu-Gheorghe -> Rochester Hills -> Bridgetown
+731 : Manzini -> Centennial -> Centennial -> Manzini -> Centennial -> Manzini -> Centennial -> Manzini -> Hanover -> Manzini
+732 : Longview -> Bassar -> Longview -> Dhaka -> Longview -> Zumpango -> Dhaka -> Zumpango -> Longview -> Dhaka -> Kiev -> Longview -> Longview -> Bassar -> Longview -> Zumpango -> Longview -> Dhaka -> Dhaka
+733 : Wakayama -> Zrenjanin -> Zrenjanin -> Cuernavaca -> Zrenjanin -> Wakayama -> Cuernavaca -> Guangshui -> Wakayama -> Wakayama -> Hat Yai -> Cuernavaca -> Zrenjanin -> Zrenjanin -> Zrenjanin
+734 : Kindia -> Tirgu Mures -> Taloqan -> Podgorica -> Kindia -> Taloqan -> Podgorica -> Mosul -> Podgorica -> Mosul -> Tirgu Mures -> Taloqan -> Tirgu Mures -> Tirgu Mures -> Tirgu Mures -> Podgorica
+735 : Solwezi -> Temecula -> Sunyani -> Pflugerville -> Sunyani -> Temecula -> Puerto Madryn -> Puerto Madryn -> Puerto Madryn -> Puerto Madryn -> Sunyani -> Pflugerville -> Solwezi
+736 : DeKalb -> DeKalb -> DeKalb -> Bremen -> Bremen
+737 : Hohhot -> Hohhot -> Beckley -> San Pedro Sula -> Meerut -> Beckley -> Beckley -> Meerut -> Palma Soriano -> Namangan -> Beckley -> Hohhot -> Beckley -> Palma Soriano -> San Pedro Sula
+738 : Xingyi -> Shache -> Xingyi -> Shache -> Riohacha
+739 : Columbus -> Columbus -> Santos -> Chihuahua -> Santos -> Chihuahua -> Santos -> Columbus -> Columbus -> Columbus -> Santos -> Columbus -> Columbus
+740 : Artemisa -> Bloomsburg -> Artemisa -> Artemisa -> Vadodara
+741 : Termiz -> Odense -> Odense -> Termiz -> Grand Forks -> Termiz -> Odense
+742 : Sukkur -> Varanasi -> Sukkur -> Santa Clarita -> Varanasi -> Luxembourg -> Luxembourg -> Buizhou -> Sukkur -> Buizhou -> Luxembourg -> Sukkur -> Varanasi -> Luxembourg -> Varanasi -> Santa Clarita -> Sukkur
+743 : Khomeini Shahr -> Kimry -> Shchekino -> Auckland -> Kendu Bay -> Kimry -> Kendu Bay -> Khomeini Shahr
+744 : Philadelphia -> Thiruvananthapuram -> Thiruvananthapuram -> Clovis -> Jijel -> Jijel -> Philadelphia -> Jijel -> Clovis -> Philadelphia -> Jijel -> Hakodate
+745 : Michurinsk -> Antwerpen -> Ed Dueim -> Ed Dueim -> Ed Dueim -> Michurinsk -> Antwerpen -> Michurinsk -> Michurinsk -> Ed Dueim -> Ed Dueim -> Michurinsk
+746 : Shibin el Kom -> Nan -> Samut Prakan -> Samut Prakan -> Santa Rosa -> Skokie -> Nan -> Sobral -> Nan -> Santa Rosa -> Belfast -> Santa Rosa -> Nan -> Tarlac -> Nan -> Santa Rosa -> Santa Rosa -> Santa Rosa -> Samut Prakan -> Santa Rosa -> Santa Rosa -> Belfast -> Santa Rosa -> Belfast -> Belfast -> Samut Prakan
+747 : Kabinda -> Pamplona -> Xuanzhou -> Pamplona -> Tokushima -> Kabinda -> Pamplona -> Xuanzhou -> Trindade -> Xuanzhou -> Trindade -> Kabinda -> Tokushima -> Xuanzhou -> Tokushima -> Tokushima
+748 : Puntarenas -> Warwick -> Puntarenas -> Warwick -> Puntarenas -> Puntarenas -> Warwick -> Volgograd

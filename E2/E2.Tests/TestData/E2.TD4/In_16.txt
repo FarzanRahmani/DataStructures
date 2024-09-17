@@ -1,0 +1,101 @@
+100 4
+Porto Alegre
+Baku
+Huainan
+Changsha
+Jinan
+Hiroshima
+Huambo
+Phnom Penh
+Vishakhapatnam
+Zhangzhou
+Washington
+Rawalpindi
+Miami
+Jining
+Kyoto
+Hefei
+Tianshui
+Qom
+Khartoum
+Hechi
+Huaiyin
+Kaohsiung
+Jianmen
+Kampala
+Santos
+Bucharest
+Odessa
+Hyderabad
+Philadelphia
+Wenzhou
+Isfahan
+Taian
+Fortaleza
+Dushanbe
+Denver
+Chifeng
+Shiraz
+Belgrade
+Vienna
+Hong Kong
+Prague
+Ho Chi Minh City
+Bekasi
+Bogota
+Stuttgart
+Maanshan
+Campinas
+Nanchong
+Ufa
+Tokyo
+Nairobi
+Yaounde
+Fuzhou
+Jakarta
+Zigong
+Madrid
+Ningbo
+Kiev
+Nashville
+Melbourne
+Milwaukee
+Madurai
+Xuzhou
+Vila Velha
+Charlotte
+Addis Ababa
+Beijing
+Marseille
+Guadalajara
+La Paz
+Maputo
+Busan
+New Orleans
+Singapore
+Kazan
+Guangzhou
+Abidjan
+Warsaw
+Surabaya
+Fushun
+Jixi
+Naples
+Rajkot
+Khulna
+Natal
+Almaty
+Hohhot
+San Francisco
+Maoming
+Xianyang
+Munich
+Sapporo
+Varanasi
+Gwalior
+Ndjamena
+Yokohama
+Wuxi
+Manhattan
+Salt Lake City
+Dakar

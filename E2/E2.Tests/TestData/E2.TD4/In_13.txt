@@ -1,0 +1,11 @@
+10 2
+Guangzhou
+Bangkok
+Hong Kong
+Bangalore
+Rio de Janeiro
+Dhaka
+Taipei
+Tianjin
+Seoul
+Tehran

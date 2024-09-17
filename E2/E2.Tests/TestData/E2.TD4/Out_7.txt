@@ -1,0 +1,4 @@
+2.333333
+0 :
+1 : Tokyo -> Paris
+2 : Chicago -> Shanghai -> New York

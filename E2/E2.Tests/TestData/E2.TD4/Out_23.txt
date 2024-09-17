@@ -1,0 +1,17 @@
+4.066667
+0 : Kinshasa -> Vereeniging -> Kumasi -> Bogota -> Cilacap
+1 : Jinan -> Addis Ababa -> Natal -> Xiantao
+2 : Sholapur -> Hamamatsu -> Lucknow -> Medina
+3 : Chengdu -> Beijing -> Raleigh -> Zhengzhou -> Mannheim -> Peshawar
+4 : Florence -> Tel Aviv-Yafo -> Kawasaki -> Volgograd -> Birmingham -> Conakry -> Frankfurt
+5 : Varanasi -> Dar es Salaam -> Yinchuan -> Shenyeng -> Nanyang
+6 : Columbus -> Qinhuangdao -> Budapest -> Karaj -> Bhopal -> Louisville
+7 : Kochi -> Boston -> Zhangzhou -> Jabalpur -> Benin City
+8 : Brisbane -> Yangquan -> Karachi -> Toluca -> Hanoi -> Cincinnati
+9 : Newcastle -> Tokyo -> Jerusalem -> Rotterdam -> New Orleans
+10 : Haora -> Heze -> Geneva -> Tabriz -> Guadalajara -> Gwalior -> Zigong -> Nanchang -> Prague -> Zibo -> Changchun
+11 : Mexico City -> Chandigarh -> Zhanjiang -> San Francisco
+12 : Ludhiana -> Abuja -> Baotou -> Fez -> Dublin -> Manchester -> Austin
+13 : Dallas -> Port Elizabeth -> Pyongyang -> Las Vegas -> Faridabad -> Riyadh -> Anshan -> Leshan -> Fortaleza
+14 : Guatemala -> Atlanta -> Pune -> Maracaibo -> Zhongli -> Rosario -> Novosibirsk -> Can Tho -> Sydney
+15 : Charlotte -> Joinville -> Aleppo -> Makkah -> Suwon -> Milwaukee -> Changde

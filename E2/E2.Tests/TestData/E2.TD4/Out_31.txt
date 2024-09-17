@@ -1,0 +1,26 @@
+3.916667
+0 : Shangqiu -> Cincinnati -> Hyderabad
+1 : Quanzhou -> Nanning -> Sendai -> Zigong
+2 : Vila Velha -> Minsk -> Raleigh
+3 : Yokohama -> Shanghai -> Mogadishu -> Houston -> Lucknow -> Baku -> Ningbo
+4 : Joinville -> Shenzhen -> Hohhot
+5 : Hiroshima -> Toluca -> Hechi
+6 : Changwon -> Istanbul -> Yulin -> Kaduna -> Dhanbad -> Qiqihar -> Vijayawada -> Milwaukee
+7 : Da Nang -> Kaohsiung -> Auckland -> Austin -> Santiago -> Palembang
+8 :
+9 : Charlotte -> Coimbatore -> Shijianzhuang -> Guangzhou
+10 : Xuzhou -> Madrid -> Benxi
+11 : Neijiang -> Jinxi -> Jaipur -> Sholapur -> Baoshan -> Baltimore
+12 : Agra
+13 : Can Tho -> Jacksonville -> Zhucheng -> Incheon -> Ikare -> Kanpur -> Huambo -> Xiangfan
+14 : Lanzhou -> Tokyo -> Yekaterinburg
+15 : Huzhou -> Gaziantep -> Kalyan -> Ranchi -> Kunming
+16 : Tijuana -> Port Elizabeth -> Salvador
+17 : San Jose -> Manaus -> Taiyuan
+18 : Tampa -> Gwalior -> Louisville -> Alexandria -> Yaounde
+19 : Dallas -> New Orleans
+20 : Gwangju -> Yongzhou -> Columbus
+21 : Stuttgart -> Nagpur -> Vancouver -> Hangzhou
+22 : Marseille -> Lima -> Qom
+23 : Stockholm -> Handan -> Nairobi -> Pune -> Jabalpur -> Ankang
+24 : Harbin -> Mianyang -> Ghaziabad -> Kuwait

@@ -1,0 +1,3 @@
+2.000000
+0 : Manila -> Los Angeles -> Bogota -> Buenos Aires -> Ho Chi Minh City -> Kolkata
+1 : Mumbai -> Guangzhou -> Jakarta -> Chongqing

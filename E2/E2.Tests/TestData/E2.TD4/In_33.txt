@@ -1,0 +1,101 @@
+100 20
+Bhilai
+Puebla
+Taian
+Luzhou
+Tbilisi
+Jakarta
+Agra
+Port Elizabeth
+London
+Karaj
+Birmingham
+Kyoto
+Jeddah
+Saidu
+Cleveland
+Kazan
+Manila
+Valencia
+Datong
+Zaozhuang
+Frankfurt
+Nagoya
+Ufa
+Panama City
+Daejeon
+Changde
+Minneapolis
+Jodhpur
+Sendai
+Manhattan
+Caracas
+Khulna
+Duisburg
+Rostov
+Port Harcourt
+New Orleans
+Kaohsiung
+Jinhua
+Benxi
+Budapest
+Ndjamena
+Ho Chi Minh City
+Jinan
+Orlando
+Ad Damman
+Chittagong
+Houston
+Raleigh
+El Giza
+Rosario
+Benin City
+Kawasaki
+Gujranwala
+Riverside
+Taichung
+Makkah
+Santiago
+Jilin
+Bogota
+Louisville
+Dalian
+Taipei
+Samara
+Chengdu
+Lyon
+Amritsar
+Ottawa
+Virginia Beach
+Tabriz
+Hims
+Kumasi
+Nanning
+Lille
+Auckland
+Salvador
+Vancouver
+Rome
+Lagos
+Huzhou
+Ahmedabad
+Maoming
+Xianyang
+Charlotte
+Vila Velha
+Mumbai
+Portland
+Addis Ababa
+Algiers
+Chennai
+Rawalpindi
+Riyadh
+Chandigarh
+Isfahan
+Jixi
+Natal
+Shanghai
+Fukuoka
+Haikou
+Barquisimeto
+Ibadan

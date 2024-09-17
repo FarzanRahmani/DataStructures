@@ -1,0 +1,109 @@
+12.081689
+0 : Delray Beach -> Beihai -> Freiburg -> Cranston -> Perugia -> Zomba -> Shaoguan
+1 : Novara -> Euless -> Moncton -> Panshi -> Imphal -> Baramula
+2 : Merida -> Hania -> Kovel -> Chittagong -> Lautoka -> Cabo Frio -> Tracy -> Gaya -> Santa Fe -> Suileng -> Tucson -> Macau -> Jizzax -> Antananarivo
+3 : Charlotte -> Purnia -> Messina -> Eagan -> West New York -> Santa Clara
+4 : Barnaul -> Cuttack -> Salta -> Colombo -> Qingan -> Round Lake Beach -> Sayanogorsk
+5 : Trujillo -> Jayapura -> Puerto Plata -> Evansville -> Asyut -> Marseille -> Trujillo -> Cirebon -> Verona -> Yueyang -> Seres
+6 : Roseville -> Dushanbe -> Calbayog -> Hollywood -> Chelyabinsk -> Muzaffarpur -> Americana -> Mesa -> Tarma -> Dnipro -> Joensuu -> Kaohsiung
+7 : Dagupan -> Gombe -> Elizabeth -> Play Ku -> Kilis -> Zaragoza -> Abu Kamal
+8 : Naxcivan -> Kattaqorgon -> Tuscaloosa
+9 : Pabna -> Genoa -> Seremban -> Olomouc -> Thakhek -> Saint Augustine -> Syracuse -> Beirut -> Gode -> Villavicencio -> Chongqing -> Jamaame
+10 : Prague -> Novi Sad -> Springfield -> Dobrich -> Jorhat -> Quetzaltenango -> Al Hudaydah -> Springfield -> Martapura -> Elyria -> Kalasin -> Gangtok -> Medan
+11 : Middelburg -> Ryazan -> Missouri City -> Jawhar -> Bannu
+12 : Mostaganem -> Chiang Rai -> San Juan -> Ho Chi Minh City -> Olmaliq -> Palu -> Richmond -> Richmond -> Guaymas -> Perth
+13 : Matsuyama -> Shiraz -> Rizhao -> En Nuhud -> Amravati -> Magong -> Varanasi -> Hungnam -> Half Way Tree -> Homestead
+14 : Bulawayo -> Peoria -> Spokane Valley -> Yulin -> Vyshnniy Volochek -> Mazatenango -> Tandil -> Nashua -> Margate -> Chemnitz -> Pachuca -> Aurora
+15 : Zaporizhzhya -> Mafetang -> Sri Jawewardenepura Kotte -> Aguascalientes -> Suwon -> Carbondale -> Stara Zagora -> Hyderabad -> Maribor -> Norwalk -> Aguascalientes -> Wuxi -> Sierra Vista -> Suwon -> Decatur -> Kursk -> Gibraltar -> Rotorua
+16 : Maizuru -> Qyzylorda -> Rio Claro -> Achinsk -> Turkistan -> Pirassununga -> Port Moresby -> Lafayette -> Olympia -> Kolhapur
+17 : Chivilcoy -> Sioux City -> Luanshya -> Izhevsk -> Baytown -> Colorado Springs -> Medenine -> Pyongyang -> Odessa -> Port Elizabeth -> Irbid
+18 : Bordeaux -> Solwezi -> Vadodara -> Omsk -> Edina -> Keelung -> Zigong -> Rostock -> Los Lunas -> Chenzhou -> Nuevo Laredo -> Sabha -> Nyeri -> Barcelona -> Agboville -> Tampa -> Singkawang -> Yichang -> Tampa
+19 : El Bayadh -> Fushun -> Federal Way -> Hims -> Hims -> Al Karak
+20 : Goodyear -> Otaru -> Ternate -> Turpan -> Cardiff -> Gitarama -> Cagliari -> Tabuk -> Hechi -> Xapeco -> Tyumen -> Iwaki -> Shahrud -> Nouakchott -> Oral
+21 : Bam -> Surakarta -> Sherman -> Sungai Petani -> Valera -> Pergamino -> Sibu -> Assab -> Blida -> Murcia
+22 : Yorba Linda -> Berlin -> El Banco -> Pietermaritzburg -> Burbank -> Perm -> Iloilo -> Entebbe -> Ambon -> Durban -> Maastricht
+23 : Tehuacan -> Nuevitas -> Eagle Pass -> Antwerpen -> Sergiyev Posad -> Chilpancingo -> Pakokku -> Shymkent -> Kharkiv -> Valencia -> Lenexa -> Valencia
+24 : Awka -> Wichita Falls -> Tengchong -> Quchan -> Gaziantep -> Kinshasa -> Mahilyow -> Williamsburg -> Mweka -> Hatay
+25 : Greenwood -> Shenyeng -> Syktyvkar -> Tebingtinggi -> Nizhny Novgorod -> Trabzon -> Bello -> Nizhny Novgorod -> Bangor -> Kogon -> Nantou
+26 : Pattani -> Kenosha -> Kampong Cham -> Kelang -> Thiruvananthapuram -> Cam Ranh
+27 : Puerto Princesa -> Glasgow -> Johns Creek -> Ufa -> Welkom -> Supham Buri -> Yokohama -> Sokcho -> Kota Kinabalu -> Murom -> Umuahia
+28 : Thessaloniki -> Novocherkassk -> Orlando -> Orlando -> Karachi -> Kasama -> Wafangdian -> Nenjiang -> Saint Peters -> Menifee -> Buraydah -> Costa Mesa -> Beni Suef -> Ogbomosho
+29 : Muar -> Batna -> Puebla -> Bhagalpur -> Gifu -> Chifeng -> Zanzibar -> Lisbon -> Toledo -> East Stroudsburg -> Fatehpur -> Bengbu -> Kompong Chhnang -> Janesville
+30 : Phoenix -> Bogor -> Marzuq -> Jalal Abad -> Dahuk -> Yanbu al Bahr
+31 : Hindupur -> El Giza -> Kumamoto -> Quito -> Accra -> Allahabad -> Jamshedpur -> Tartu
+32 : Vancouver -> Ukhta -> Bujumbura -> Modesto -> Tangshan -> Saltillo -> Valladolid -> Shizuishan -> Geneina -> Mianyang
+33 : Cabimas -> Carpina -> Atlixco -> Seaside -> Konya -> Cork -> Minsk -> Fall River
+34 : Skopje -> Qiqihar -> Kipushi -> Shadrinsk -> Bolzano -> Nezahualcoyotl -> Lucknow -> Halifax
+35 : Osh -> Mary -> Durango -> Longyan -> Nicosia -> Nova Friburgo -> Nizhny Tagil -> Fuxin
+36 : Shijianzhuang -> Yazd -> Hajjah -> Madiun -> Pingyi -> Nagano -> Shillong -> Kilifi
+37 : Ciudad del Este -> Prince George -> Troitsk -> Kuito
+38 : Johnson City -> Lira -> Macheng -> Virginia Beach -> Can Tho -> Kigoma -> Manzhouli -> Tegal -> Posadas
+39 : Lees Summit -> Qinzhou -> Cali -> Probolinggo -> Gliwice -> Valle de la Pascua -> Niamey -> Maple Grove -> Parintins -> Niamey -> Meriden
+40 : Monterrey -> San Leandro -> Carora -> Westminster -> Pemba -> Xiangtan -> Savannah -> Lokoja -> Sahiwal -> Agua Prieta -> Rochester
+41 : Yancheng -> Alexandria -> Bremerton -> Arnhem -> Antsiranana -> Norwich -> Solnechnogorsk -> Alexandria -> Azogues -> Panzhihua -> Zabol -> Drummondville -> Taylor
+42 : Mandurah -> Kitale -> Geneva -> Pouso Alegre -> Regina -> Kandy -> Ibri -> Tongling -> Shostka
+43 : Angren -> Beijing -> Wiener Neustadt -> Drohobych -> Krasnokamensk -> Lubbock -> Monywa -> Greenville -> Jakarta -> Uvinza -> Shimoga -> Poway -> Wellington
+44 : Bolu -> Haifa -> Birganj -> Shishou -> Nanchong -> Goldsboro -> Dakar -> Vilhena -> Tunis -> Puyang -> Sarasota -> Keffi -> Van -> Haifa -> Angarsk -> Santa Ana -> Ulanhot
+45 : Bafang -> Seattle -> Chetumal -> Kryvyy Rih -> Polevskoy -> Salalah -> Ratlam -> Cuernavaca -> Dimbokro -> Zouirat -> Duisburg -> Jammu -> Duisburg -> Firozabad -> Colima
+46 : Linfen -> At Taif -> Linfen -> Paterson -> Fairbanks -> Blackpool
+47 : Kansas City -> Xinqing -> Bamako -> Vyborg -> Kanggye -> Antioch -> Coeur d'Alene -> Brentwood -> Jiaojing -> New Delhi -> Harrisburg
+48 : Tikhoretsk -> Malegaon -> Wausau -> Zunyi -> Zunyi -> Goma -> Rockford -> Davenport -> Barreiras
+49 : Manisa -> Rotterdam -> Ilorin -> Tunja -> North Little Rock -> Highland -> Pingdu
+50 : Cahul -> Tirupati -> Cozumel -> Matola -> Xiangfan -> Koblenz -> Santa Maria -> Xiangfan -> Vizianagaram
+51 : Brest -> Vijayawada -> Turin -> Koudougou -> Klerksdorp -> Podgorica -> Zhuhai -> Quanzhou -> Houston
+52 : Chuncheon -> Rocky Mount -> Toronto -> Rodos -> Opole -> Mobile -> Al Mafraq
+53 : Newcastle -> Yongzhou -> Livny -> Zuwarah -> Wenzhou -> Bamenda -> Tirana -> Aswan -> Yongzhou -> Encinitas -> General Pico -> Ikare -> Dayton -> Birnin Kebbi
+54 : Nevinnomyssk -> Burdur -> Scottsdale -> Murmansk -> Medford -> Evanston -> Zhezqazghan -> Bata -> Cairns -> Krasnodar -> St.-Denis
+55 : Pontiac -> Tbilisi -> Bryansk -> Bhusawal -> New Bern -> Miri -> Ashgabat -> Arauca
+56 : Paramaribo -> Shizuoka -> Flint -> 's-Hertogenbosch -> Bloomsburg -> Norfolk -> Ilebo -> Xiamen -> Saint Louis -> Kaduna
+57 : Lokossa -> Silchar -> Uppsala -> Banda Aceh -> Krasnoyarsk -> Anshan -> Birobidzhan -> Sincelejo -> Campos -> Pingzhen -> Addis Ababa -> Gedaref
+58 : Kumbakonam -> El Cajon -> Huaibei -> Guatemala -> Saint Charles -> Niyala -> Bangui -> Heihe -> Venice -> Kribi -> Parma -> Ajmer
+59 : Ouagadougou -> San Antonio -> Georgetown -> Maracay -> Blaine -> Ho -> Gujrat -> Baldwin Park -> Sadiqabad -> Valletta -> Huzhou
+60 : Ksar El Kebir -> Abeokuta -> Birmingham -> Catania -> Downey -> Melbourne
+61 : Al Musayyib -> Pisco -> Kadoma -> Bowie -> Biak -> Irbil
+62 : Bursa -> Rosario -> Xinyi -> Sadah -> Myeik
+63 : Iseyin -> Ujjain -> San Pedro -> Fort Lauderdale -> Kondoz -> Lanxi -> Aleppo -> Montes Claros -> Belize City -> Rivne -> Rawalpindi -> Hue -> Bhilai
+64 : Zhuanghe -> Caruaru -> Kwekwe -> Noginsk -> Neyshabur -> Daugavpils -> Ridder -> Pucallpa
+65 : Guangzhou -> Indianapolis -> Skien -> Tataouine -> Cary -> Des Plaines -> Alagoinhas -> Liverpool
+66 : Gbadolite -> Guangyuan -> Formosa -> Napa -> Formosa -> Massawa
+67 : Mannheim -> Mannheim -> Bergen -> Taloqan -> Jianmen -> Sammamish
+68 : Ludhiana -> Caldwell -> Kaifeng -> Dunhuang -> As Samawah -> Abuja -> Abuja -> Kuala Terengganu -> Fez -> Alhambra
+69 : Bucaramanga -> Chiayi -> Cangzhou -> Rafha -> San Fernando -> Huntersville -> Kaluga -> Chiniot -> Rocklin -> Isna
+70 : Meerut -> Tiruchirappalli -> Kroonstad -> Cienfuegos -> Miami Gardens -> Bur Said -> Navoi
+71 : Fort-de-France -> Jember -> Kiev -> Porto -> Omaha -> Sisophon -> Pizen -> Eger -> York -> Rapid City -> Samut Prakan -> Yucaipa -> Petropavlovsk -> Haldia -> Fort Collins -> Kiev -> Windsor -> Foumban
+72 : Suzhou -> Sunyani -> Thika -> Huanren -> Az Zarqa -> Deyang -> Waterbury -> Suzhou
+73 : Huinan -> Auckland -> Novokuybishevsk -> Baia Mare
+74 : Mar del Plata -> Chesapeake -> Willemstad -> Djougou -> Maputo -> Shashi -> Dubuque
+75 : Santa Cruz -> Trieste
+76 : Zheleznogorsk -> Utrecht -> Cologne -> Leeds -> Cologne -> Anuradhapura -> Frisco -> Mishan -> Ende -> Mopti -> Paris
+77 : Makeni -> Ayr -> Abilene -> Bhavnagar -> Man -> Satu Mare -> Isfahan
+78 : Hamamatsu -> Montevideo -> Hegang -> Potiskum -> Munich -> Panama City -> Padangsidempuan -> Tailai
+79 : Kon Tum -> Farmington -> Hafar al Batin -> Moore -> Chulucanas -> Rostov -> Brno -> Waukegan -> Kano -> Mbanza-Ngungu -> Agen -> Maoming -> Abu Dhabi -> Itanhaem
+80 : Pinar del Rio -> Wilmington -> Hobart -> Daan -> Dindigul -> Sungaipenuh -> Topeka
+81 : Saint Cloud -> Wheeling -> Muskegon -> Cambridge -> Lake Elsinore -> Rockhampton -> Cambridge -> Raichur
+82 : Jinzhou -> Nizhenvartovsk -> Manpo -> Nampo -> Manteca -> Jinzhou -> Shibin el Kom
+83 : Arrecife -> Surigao -> Comodoro Rivadavia -> Ningan -> Tokmak -> Celaya -> Tartus
+84 : Hohhot -> Skokie -> Hosaina -> Puerto la Cruz -> Edinburg -> Billings -> Hong Kong -> Libreville -> Haiphong -> Chino Hills -> Aksu -> Les Cayes -> Suhar
+85 : Lusaka -> Tokyo -> Khanty Mansiysk -> Houma -> Matanzas -> Saidpur -> Hami -> Faridabad -> Houma -> Biu -> Olinda
+86 : Chandrapur -> Batumi -> Krasnokamsk -> The Hague -> Milan -> Langfang -> Kissimmee -> The Hague -> Kyshtym -> Nawabganj -> Bishkek -> Civitavecchia
+87 : Juazeiro do Norte -> Kayseri -> Sokoto -> Samarqand -> Sokoto -> Providence -> Timbuktu -> Musan -> Arak
+88 : Astana -> Bangkok -> Bangkok -> Haverhill -> Tianjin -> Talcahuano
+89 : Omdurman -> Ovalle -> An Najaf -> Mumbai -> Girga -> Chingola -> San Diego -> Sikar -> Lynchburg
+90 : Morgantown -> Naltchik -> Arad -> Bandar-e-Abbas -> Irkutsk -> Punta del Este -> Morristown -> Sarh
+91 : Hubli -> Pursat
+92 : El Manaqil -> Frankfurt
+93 : Cuamba -> Bhiwani -> Tijuana -> West Sacramento -> Chambersburg
+94 : Dingzhou -> Yopal -> Tapachula -> Moscow -> Moscow -> Danbury
+95 : Middletown -> Nagaoka -> Hamhung -> Puerto Montt -> Taichung -> Budaun -> Neijiang -> Karimnagar -> Salima -> Zamboanga -> Tieling -> Zamboanga -> Mombasa
+96 : Atlantic City -> Luzern -> Sorong -> Maha Sarakham
+97 : Canoas -> Pyay -> Cheboksary -> Dongguan -> Chihuahua -> Shihezi -> Akola -> Alor Setar -> Chihuahua -> Warren -> Eau Claire -> Miami Beach
+98 : Lake Havasu City -> Qingdao -> Belo Horizonte -> Ulan Ude -> Masvingo -> Almaty
+99 : Provo -> Jingmen -> Malacca -> Hotan -> Zhob -> Butuan -> Beer Sheva -> Gulu -> Bidar -> Apia -> Okara
+100 : Ar Raqqah -> Rockville -> Burlington -> Dublin -> Handan -> Shanxian -> Rancagua -> Pori
+101 : Shangrao -> Laiwu -> Puch'on -> Rafaela -> Kikwit -> Bhuj -> Ganca
+102 : Quezon City -> La Romana -> Saint George -> Emden -> Leominster -> North Richland Hills -> Taiyuan -> Lyon -> Puzi -> Doha -> Taipei -> Monroe -> Taipei -> Independence -> Crato -> Garanhuns
+103 : Saidu -> Harar -> Maladzyechna -> Al Kharj -> Fianarantsoa -> Dortmund -> Turbo -> Vigo
+104 : Agadir -> Conakry -> Mallawi -> Kingston upon Hull -> Weifang -> Juchitan
+105 : Gardena -> Samara -> Lille -> Xiantao -> Turlock -> Xiantao -> Orizaba -> Brunswick -> Neftekamsk
+106 : Hebi -> Al Mukalla -> Melun -> Qom -> Perth Amboy -> Magelang -> Markala
+107 : Kanpur -> Kanpur -> Navajoa -> Hiroshima -> Albuquerque -> Temple -> Athens -> Camarillo -> Matsue -> Charleston

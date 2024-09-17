@@ -1,0 +1,14 @@
+11.397436
+0 : Cagayan de Oro -> Kazan -> Rostov -> Mbuji-Mayi -> Sydney -> Srinagar -> Zhengzhou -> Almaty -> Seattle -> Benxi
+1 : Singapore -> The Hague -> Baghdad -> Vienna -> Ahvaz -> Mandalay -> Linyi -> Jabalpur -> Baoding -> Birmingham -> Natal
+2 : Xiamen -> Rome
+3 : Qom -> Ganzhou -> Sapporo -> Doha
+4 : Vadodara -> Hiroshima -> London -> Hamamatsu -> Perth -> Changde -> Amritsar -> Kyoto -> Naples -> Los Angeles -> Jakarta -> Milwaukee -> Nashville
+5 : Asansol -> Bhopal -> Suwon -> Lubumbashi -> Zhuzhou -> Port-au-Prince -> Jodhpur -> Dalian -> Ad Damman
+6 : Columbus -> Dallas -> Qingdao -> Daegu -> Nanjing -> Virginia Beach -> Jinan -> Volgograd -> Pyongyang -> New York -> Damascus -> Haikou
+7 : Kalyan -> Valencia -> Kuala Lumpur -> Fez -> Wanzhou
+8 : Curitiba -> Jinhua -> Medan -> Suining -> El Giza -> Tbilisi
+9 : Suzhou -> Suzhou -> Indore -> Shenyeng -> Lanzhou -> Luzhou -> Beijing -> Puebla -> Mosul -> Zaozhuang
+10 : Daqing -> Wuxi -> Brisbane -> Kampala -> Taichung -> Kawasaki -> Hanoi
+11 : Meerut -> Marseille -> Weifang -> Bursa -> Donetsk
+12 : Taian -> San Jose -> Surat -> Philadelphia -> Coimbatore -> Hyderabad

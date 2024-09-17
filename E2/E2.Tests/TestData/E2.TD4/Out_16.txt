@@ -1,0 +1,5 @@
+31.333333
+0 : Porto Alegre -> Huambo -> Vishakhapatnam -> Washington -> Miami -> Hechi -> Bucharest -> Hong Kong -> Ho Chi Minh City -> Bogota -> Nanchong -> Melbourne -> Vila Velha -> Hohhot -> Ndjamena -> Salt Lake City -> Dakar
+1 : Baku -> Changsha -> Jinan -> Phnom Penh -> Jining -> Tianshui -> Odessa -> Wenzhou -> Isfahan -> Fortaleza -> Chifeng -> Shiraz -> Vienna -> Maanshan -> Tokyo -> Fuzhou -> Nashville -> Addis Ababa -> Marseille -> New Orleans -> Singapore -> Guangzhou -> Warsaw -> Khulna -> Natal -> Xianyang -> Varanasi
+2 : Hefei -> Qom -> Huaiyin -> Kaohsiung -> Kampala -> Santos -> Taian -> Dushanbe -> Denver -> Belgrade -> Prague -> Campinas -> Yaounde -> Zigong -> Madurai -> Guadalajara -> La Paz -> Maputo -> Busan -> Kazan -> Abidjan -> Surabaya -> Jixi -> Almaty -> Munich -> Gwalior
+3 : Huainan -> Hiroshima -> Zhangzhou -> Rawalpindi -> Kyoto -> Khartoum -> Jianmen -> Hyderabad -> Philadelphia -> Bekasi -> Stuttgart -> Ufa -> Nairobi -> Jakarta -> Madrid -> Ningbo -> Kiev -> Milwaukee -> Xuzhou -> Charlotte -> Beijing -> Fushun -> Naples -> Rajkot -> San Francisco -> Maoming -> Sapporo -> Yokohama -> Wuxi -> Manhattan
