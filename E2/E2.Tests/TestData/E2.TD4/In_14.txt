@@ -1,0 +1,11 @@
+10 2
+Santiago
+Chicago
+Guangzhou
+Hyderabad
+Tehran
+Seoul
+Washington
+London
+Lagos
+Jakarta

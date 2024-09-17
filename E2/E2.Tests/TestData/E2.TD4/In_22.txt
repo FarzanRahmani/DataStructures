@@ -1,0 +1,101 @@
+100 13
+Kalyan
+Columbus
+Meerut
+Vadodara
+Marseille
+Hiroshima
+Curitiba
+Valencia
+Qom
+Cagayan de Oro
+Suzhou
+Asansol
+Singapore
+Taian
+Suzhou
+Dallas
+Kazan
+Daqing
+The Hague
+Bhopal
+San Jose
+Kuala Lumpur
+Weifang
+Wuxi
+Fez
+Suwon
+Indore
+Brisbane
+Ganzhou
+Kampala
+Lubumbashi
+Surat
+Baghdad
+London
+Rostov
+Taichung
+Hamamatsu
+Qingdao
+Mbuji-Mayi
+Vienna
+Daegu
+Shenyeng
+Lanzhou
+Bursa
+Nanjing
+Jinhua
+Perth
+Luzhou
+Ahvaz
+Sydney
+Zhuzhou
+Virginia Beach
+Mandalay
+Beijing
+Philadelphia
+Medan
+Linyi
+Port-au-Prince
+Srinagar
+Changde
+Donetsk
+Coimbatore
+Suining
+Zhengzhou
+Amritsar
+Kawasaki
+Jinan
+Volgograd
+Jodhpur
+Pyongyang
+Jabalpur
+Kyoto
+Dalian
+Sapporo
+Almaty
+El Giza
+Naples
+Baoding
+Puebla
+Mosul
+Seattle
+New York
+Los Angeles
+Zaozhuang
+Birmingham
+Xiamen
+Damascus
+Wanzhou
+Hanoi
+Ad Damman
+Hyderabad
+Haikou
+Jakarta
+Natal
+Benxi
+Milwaukee
+Doha
+Tbilisi
+Rome
+Nashville

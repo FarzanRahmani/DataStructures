@@ -1,0 +1,101 @@
+100 15
+Richmond
+Taian
+Can Tho
+Alexandria
+Hamamatsu
+Essen
+Baghdad
+Jianmen
+Duisburg
+Jiamusi
+Yerevan
+Kyoto
+Kolkata
+Santiago
+Ludhiana
+Rawalpindi
+Naples
+Nairobi
+Nezahualcoyotl
+Hong Kong
+Indianapolis
+Zhengzhou
+Tangshan
+Cologne
+Athens
+Sydney
+Yongzhou
+Lahore
+Bucharest
+Warsaw
+Nagpur
+Sacramento
+Tianshui
+Jamshedpur
+Cairo
+Kharkiv
+Ujungpandang
+Stuttgart
+Rosario
+Shanghai
+Linyi
+Tbilisi
+Aden
+Cilacap
+Kaohsiung
+Leeds
+Nanchang
+Varanasi
+Benin City
+Frankfurt
+Atlanta
+Montevideo
+Los Angeles
+Taichung
+Vadodara
+Banghazi
+Jakarta
+Vila Velha
+Brisbane
+Rangoon
+Bogota
+Changsha
+Auckland
+Kiev
+Luoyang
+Novosibirsk
+Seville
+San Diego
+Yulin
+San Antonio
+Tokyo
+Xian
+Chittagong
+Fuzhou
+Aleppo
+Pune
+Ottawa
+Memphis
+Prague
+Luan
+Ankara
+Samara
+Neijiang
+Monrovia
+Vancouver
+Lisbon
+Manchester
+Miami
+Warangal
+Porto Alegre
+Detroit
+Dar es Salaam
+Damascus
+Xiangtan
+Birmingham
+Indore
+Ho Chi Minh City
+Mbuji-Mayi
+Xianyang
+Dubai

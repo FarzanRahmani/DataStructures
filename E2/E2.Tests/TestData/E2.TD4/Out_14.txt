@@ -1,0 +1,3 @@
+2.000000
+0 : Santiago -> Tehran -> Washington -> London
+1 : Chicago -> Guangzhou -> Hyderabad -> Seoul -> Lagos -> Jakarta

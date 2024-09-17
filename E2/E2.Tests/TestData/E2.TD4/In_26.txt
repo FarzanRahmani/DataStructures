@@ -1,0 +1,101 @@
+100 24
+Aleppo
+Meerut
+Glasgow
+Birmingham
+Rotterdam
+Lille
+Istanbul
+Zhongli
+Makkah
+Maracay
+Louisville
+Taiyuan
+Dubai
+Huzhou
+Ulsan
+Boston
+Bursa
+New Orleans
+Lucknow
+Shantou
+Bhopal
+Florence
+Columbus
+Tokyo
+Ranchi
+Fushun
+Leshan
+Haifa
+Taichung
+Mbuji-Mayi
+Suzhou
+Kazan
+Shijianzhuang
+Salt Lake City
+Shanghai
+La Paz
+Frankfurt
+Tampa
+Varanasi
+Valencia
+Conakry
+Cincinnati
+San Antonio
+Austin
+Neijiang
+Guilin
+Melbourne
+Mandalay
+Delhi
+Wuxi
+Benxi
+Medina
+Virginia Beach
+Xianyang
+Khartoum
+Raleigh
+Vancouver
+Odessa
+Xiangtan
+Dongguan
+Changzhou
+Kinshasa
+Nanning
+Berlin
+Nanchang
+Lagos
+Tangshan
+Cleveland
+Antananarivo
+Kanpur
+Tehran
+Dallas
+Hefei
+Haikou
+Abbottabad
+San Diego
+Daqing
+Benin City
+Miami
+Gujranwala
+Isfahan
+Milan
+Karaj
+Heze
+Hiroshima
+Fukuoka
+Dnipro
+Can Tho
+Kuwait
+Orlando
+Manhattan
+Barquisimeto
+Rostov
+Liuzhou
+Hohhot
+Mianyang
+Bamako
+Pune
+Belo Horizonte
+Marseille

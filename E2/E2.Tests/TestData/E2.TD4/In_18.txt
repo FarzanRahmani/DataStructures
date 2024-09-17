@@ -1,0 +1,101 @@
+100 9
+Panama City
+Davao
+Virginia Beach
+Cape Town
+Gwalior
+Kaohsiung
+Ottawa
+Zhucheng
+Shijianzhuang
+Nanning
+Baoding
+Luanda
+Huainan
+Ahmedabad
+Berlin
+Brazzaville
+Ghaziabad
+Katowice
+Port-au-Prince
+Rajkot
+Cilacap
+Changzhou
+Pune
+Riyadh
+Kampala
+Jinxi
+Memphis
+Marseille
+Ujungpandang
+Jinan
+San Antonio
+Naples
+St. Petersburg
+Damascus
+Mexico City
+Shuyang
+Bogota
+Ankang
+Phoenix
+Yulin
+Coimbatore
+Vadodara
+Tabriz
+Nagpur
+Rabat
+Lusaka
+Jeddah
+Wuhan
+Rome
+Conakry
+Dushanbe
+Meerut
+Dublin
+Luzhou
+Xiamen
+Fushun
+Nizhny Novgorod
+Guilin
+Fez
+New Orleans
+Melbourne
+Athens
+Omsk
+Natal
+Joinville
+Dongguan
+Guiyang
+Barranquilla
+Lisbon
+Jining
+New York
+Ankara
+Chandigarh
+Beijing
+Kolkata
+Houston
+Amsterdam
+Hohhot
+Maanshan
+Los Angeles
+Jilin
+Vila Velha
+Sapporo
+Yerevan
+Singapore
+Fortaleza
+Xining
+Omdurman
+Port Harcourt
+Quanzhou
+Saidu
+Yongzhou
+Kumasi
+Lucknow
+Agra
+Chelyabinsk
+Wanzhou
+Dnipro
+Zhangjiakou
+Beirut

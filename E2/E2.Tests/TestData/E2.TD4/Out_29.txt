@@ -1,0 +1,16 @@
+11.095238
+0 : Anshan -> Manchester -> Shantou -> San Salvador
+1 : Cagayan de Oro -> Beijing -> Nezahualcoyotl
+2 : Lubumbashi -> Indianapolis -> Changzhou -> Ad Damman -> Tunis -> Xiamen -> Omdurman -> Rajkot -> Shangrao -> Pittsburgh -> Mandalay
+3 : Boston -> Port-au-Prince -> Jiaxing -> Detroit
+4 : Nanjing -> Kano -> Singapore -> Allahabad
+5 : Wenzhou -> Ranchi -> Kunming -> Ankara -> Rome -> Belgrade -> Pretoria -> Johannesburg -> Milan
+6 : Hamburg -> Kabul -> Chennai -> Guwahati -> George Town -> Tijuana -> Fukuoka -> Xian -> Tel Aviv-Yafo -> Taipei -> Tianshui
+7 : Rostov -> Yangquan -> Monterrey -> Dongguan -> El Giza -> Sapporo -> Daegu -> Huaiyin -> Bhopal -> Tainan -> Buenos Aires -> Ibadan -> Durban
+8 : Khulna -> Damascus -> Amsterdam -> Nairobi -> Nasik -> Jabalpur -> Hefei -> Qingdao -> Alexandria
+9 : Charlotte -> Nagoya -> Guadalajara -> Ujungpandang -> Glasgow -> New Orleans
+10 : Daqing -> Cleveland -> Kalyan -> Shangqiu -> Medan
+11 : Daejeon -> Baltimore -> London -> Dhanbad -> Chittagong -> Conakry -> Porto Alegre -> Benoni -> Jiamusi
+12 : Vila Velha -> Mosul -> Medina
+13 : Asansol -> Perm -> Nizhny Novgorod -> Mogadishu
+14 : Zaozhuang -> Brazzaville -> Joinville -> Bandung -> Hanoi

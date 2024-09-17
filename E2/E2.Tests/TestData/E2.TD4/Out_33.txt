@@ -1,0 +1,21 @@
+5.368421
+0 : Port Harcourt -> Kumasi -> Ahmedabad
+1 : Port Elizabeth -> Chennai -> Isfahan -> Natal
+2 : Taian -> Kazan -> Kaohsiung -> Ad Damman -> Santiago -> Portland -> Jixi
+3 : Luzhou -> Datong -> Houston -> Jilin -> Maoming -> Rawalpindi -> Chandigarh
+4 :
+5 : Cleveland -> Benxi -> Samara -> Rome
+6 : Sendai -> Budapest -> Chittagong -> Taipei -> Nanning -> Salvador
+7 : Tbilisi -> Ufa -> Changde -> Jodhpur -> Rostov -> Raleigh -> El Giza -> Benin City -> Ibadan
+8 : Ho Chi Minh City -> Bogota
+9 : New Orleans -> Jinan -> Lille -> Xianyang -> Addis Ababa
+10 : Karaj -> Panama City -> Gujranwala -> Lyon -> Virginia Beach -> Tabriz
+11 : Bhilai -> Kyoto -> Saidu -> Daejeon -> Jinhua -> Fukuoka
+12 : Vila Velha
+13 : Khulna -> Duisburg -> Dalian -> Lagos -> Mumbai -> Shanghai -> Haikou -> Barquisimeto
+14 : Zaozhuang -> Minneapolis -> Rosario -> Riverside -> Ottawa -> Algiers
+15 : Manhattan -> Taichung -> Makkah -> Chengdu -> Huzhou
+16 : London -> Birmingham -> Frankfurt -> Ndjamena -> Orlando -> Kawasaki -> Vancouver
+17 : Puebla -> Agra -> Amritsar -> Auckland -> Riyadh
+18 : Jeddah -> Manila -> Louisville
+19 : Jakarta -> Valencia -> Nagoya -> Caracas -> Hims -> Charlotte

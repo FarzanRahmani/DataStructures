@@ -1,0 +1,4 @@
+6.333333
+0 : Shenzhen -> Mexico City -> Lima
+1 : Delhi -> Wuhan -> Beijing -> Tianjin -> Bogota -> Buenos Aires
+2 : Chicago

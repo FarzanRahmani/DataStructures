@@ -1,0 +1,6 @@
+5 3
+Rio de Janeiro
+Mumbai
+Lima
+Chicago
+Tokyo

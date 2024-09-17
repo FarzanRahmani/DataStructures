@@ -1,0 +1,16 @@
+7.380952
+0 : Harare -> Panama City -> Kampala -> Manchester
+1 : Guatemala -> Saidu -> Beijing -> Qiqihar -> Douala
+2 : Mudangiang -> Portland -> Aden -> Omdurman -> Pittsburgh -> Tangshan -> Rajkot -> Changzhou -> Calgary
+3 : Aleppo -> Dalian -> Fortaleza -> Campinas -> Boston -> Datong -> Incheon
+4 : Novosibirsk -> Singapore -> San Francisco -> Kano
+5 : Johannesburg -> Sharjah -> Ankara -> Manhattan -> Yongzhou -> Newcastle -> Donetsk -> Seville -> Haifa -> Wenzhou
+6 : Dnipro -> Abbottabad -> Birmingham -> Vijayawada -> Richmond -> Kolkata -> Milwaukee -> Hamburg -> Jaipur -> Multan -> Melbourne
+7 : San Jose -> Katowice -> Nanchang -> Srinagar -> Monterrey -> Tbilisi -> Sapporo -> Bekasi -> Shuyang
+8 : Amsterdam -> Qingdao -> Hefei -> Ikare -> Fez -> Pyongyang -> Jabalpur -> Ahvaz -> Xiangfan
+9 : Cairo -> Guadalajara -> Queens -> Charlotte -> Hamamatsu -> Philadelphia
+10 : Medan -> Aurangabad -> Kalyan -> Nanyang -> Faridabad -> Jamshedpur -> Ahmedabad -> Prague -> Benxi -> Shenyeng
+11 : Stuttgart -> Sholapur -> Rangoon -> Naples
+12 : Maracaibo -> Austin -> Kaohsiung -> Brisbane
+13 : Cologne -> Jacksonville -> Manila -> Barquisimeto
+14 : Lupanshui -> Maracay -> Sheffield -> Guangzhou

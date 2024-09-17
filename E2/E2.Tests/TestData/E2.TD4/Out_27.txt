@@ -1,0 +1,28 @@
+4.985755
+0 : Ufa -> Boston
+1 : Makkah -> Orlando -> Liuzhou -> Zhucheng
+2 : Ankara -> Dubai
+3 : Phoenix -> Adelaide -> Mexico City -> Queens -> Yerevan -> Zhangjiakou
+4 : Sendai -> Faridabad -> Shuyang -> Lusaka
+5 : Maracay -> Marseille -> Madurai -> Vancouver -> Sholapur -> Mianyang -> Lagos -> Maanshan -> La Paz
+6 : Zhangzhou -> Lima -> Tehran -> Fortaleza -> Salt Lake City -> Fuzhou
+7 : Ahmedabad -> Kazan
+8 : Rosario -> Zhuzhou -> Amritsar -> Porto Alegre -> Bursa -> Ganzhou
+9 : Phnom Penh -> Tianshui -> Dalian -> Bangalore
+10 :
+11 : Santos -> Frankfurt
+12 : Tijuana -> Dhaka
+13 : Nanjing -> Mogadishu -> Patna -> Zhongli -> Benin City
+14 : Yulin -> Ludhiana -> Santiago
+15 : Cincinnati -> Hyderabad -> Shantou
+16 : Guayaquil
+17 : Rajkot -> Belo Horizonte -> Pyongyang -> Chengdu -> Mandalay -> Qingdao -> Surabaya -> Mudangiang -> Nairobi
+18 : Changchun -> Tampa -> Incheon -> Suzhou -> Zigong -> Seattle
+19 : Srinagar -> Cilacap -> Rabat -> Bekasi -> Shangqiu
+20 : Shangrao -> Kansas City
+21 : Doha -> Barranquilla -> Taipei
+22 : Kumasi
+23 : Linyi -> Kunming -> Surat
+24 : Gaziantep -> Turin -> Hamamatsu
+25 : Maoming -> Luoyang -> Douala
+26 : Tabriz -> Lanzhou -> Yantai -> Ikare

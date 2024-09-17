@@ -1,0 +1,3 @@
+8.000000
+0 : Bangkok -> Hong Kong -> Bangalore -> Dhaka -> Taipei -> Tianjin -> Tehran
+1 : Guangzhou -> Rio de Janeiro -> Seoul

@@ -1,0 +1,3 @@
+0.500000
+0 : Karachi -> Istanbul -> Manila
+1 : Mexico City -> Delhi

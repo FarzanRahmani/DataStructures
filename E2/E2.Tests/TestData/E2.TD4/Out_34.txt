@@ -1,0 +1,28 @@
+2.754986
+0 : Chennai -> Da Nang
+1 : Karachi -> Riverside -> Jacksonville -> Makkah -> Benxi
+2 : Cochabamba -> Hefei -> Chifeng -> Xiamen
+3 : Las Vegas -> Queens -> Tel Aviv-Yafo -> Natal -> Natal
+4 : Tokyo -> Quito -> San Jose -> Buenos Aires
+5 : Casablanca -> Brazzaville -> Milan -> Sholapur -> Vancouver
+6 : Salt Lake City -> Lahore -> Fortaleza -> Wanzhou -> Chelyabinsk
+7 : Nanning -> Ibadan
+8 : Ahvaz -> Jerusalem -> Porto Alegre -> Xinyi
+9 : Rio de Janeiro -> Rawalpindi
+10 : Faisalabad -> Medan
+11 : Joinville -> Santos -> Zaozhuang -> Guangzhou
+12 : Cali -> Harare
+13 : Asansol -> Monterrey -> Varanasi -> Patna -> Luan -> Tripoli -> Shiraz
+14 : Haikou -> Fez -> London -> Santiago
+15 : Suwon -> Fukuoka
+16 : Gwangju -> Yiyang
+17 : Amsterdam -> Odessa -> Jinhua -> Port Elizabeth -> Aden
+18 : Budapest -> Ujungpandang
+19 : Hims
+20 : Davao -> Busan -> Kansas City -> Sheffield -> Ad Damman
+21 : Doha -> Baghdad -> Santa Cruz -> Guadalajara
+22 : Rotterdam
+23 : Yekaterinburg -> Ottawa -> Kharkiv -> Suining -> Conakry
+24 : Vijayawada -> Sacramento -> Turin -> Munich -> Manaus -> Panama City
+25 : Aurangabad -> Sofia -> Luoyang -> Maoming
+26 : New York -> Ikare -> Kanpur -> Wenzhou -> Nasik -> Lanzhou

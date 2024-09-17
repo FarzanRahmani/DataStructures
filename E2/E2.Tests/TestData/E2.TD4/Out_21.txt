@@ -1,0 +1,30 @@
+3.041872
+0 : Lisbon
+1 : Banghazi -> Santiago -> Orlando -> Kumasi
+2 : Caracas
+3 : Leeds -> Warsaw -> Algiers -> Sapporo -> Nanyang -> Jaipur
+4 : Chittagong -> Qingdao -> Vadodara -> Can Tho -> Munich -> Allahabad
+5 : Luan -> San Jose -> Tashkent -> Prague -> Mumbai -> Xinyang
+6 : Surabaya -> Zhuhai -> Kiev -> Cali -> Birmingham -> Melbourne
+7 : Ulsan -> Port Harcourt
+8 : Jiaxing -> Chennai -> Santo Domingo
+9 : Salt Lake City -> Mannheim -> Tunis -> Essen
+10 : Ottawa -> Haifa -> Jeddah -> Yangquan -> Perm -> Omsk
+11 : Luoyang
+12 : Monterrey
+13 : La Paz -> Cochabamba -> Khulna
+14 : Queens -> Haora -> Qinhuangdao -> Haiphong -> Patna
+15 : Cairo -> Qiqihar -> Yantai -> Busan -> Stockholm -> Ghaziabad -> Naples
+16 : Luanda -> Stuttgart -> Maanshan
+17 : San Salvador -> Ouagadougou
+18 : Zhucheng -> Cagayan de Oro -> Turin
+19 : Shenyeng -> Huzhou
+20 : Srinagar -> Aurangabad
+21 : Liuzhou -> Benxi
+22 : Zhongli -> Indore -> Atlanta
+23 : Guadalajara -> Zhangzhou -> Brazzaville -> Nasik
+24 : Chicago -> Dahuk -> Anshan -> Fushun
+25 : Guayaquil -> Damascus -> Shantou
+26 : Fuzhou -> Natal -> Xiantao
+27 : Shanghai -> Sharjah -> Tehran -> Agra
+28 : Rome -> Dhanbad -> Ningbo

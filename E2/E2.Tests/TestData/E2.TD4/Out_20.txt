@@ -1,0 +1,5 @@
+88.666667
+0 : Xian -> Cologne -> Lubumbashi -> Lanzhou -> Yangquan -> Suining -> Luan -> Austin -> Yantai -> Xiamen -> Porto Alegre -> Wuhan -> Davao
+1 : Pyongyang -> Rome -> Helsinki -> Tijuana -> Nashville -> Havana -> Adelaide -> San Jose -> Guangzhou -> Wenzhou -> Isfahan -> New York -> Ahvaz -> Hamburg -> New Orleans -> Maanshan -> Santo Domingo -> Nanyang -> Alexandria -> Agra -> Jining -> Liuzhou -> Chongqing -> Lima -> Fuzhou -> Harare -> Yiyang -> Mudangiang -> Hengyang -> Leshan -> Seville -> Tainan
+2 : Santiago -> Bursa -> Chelyabinsk -> Douala -> Qiqihar -> Sholapur -> Kampala -> Ghaziabad -> Doha -> Gwalior -> Baltimore -> Riverside -> Hefei -> Ottawa -> Xinyi -> Zibo -> Medan -> Dushanbe -> Nanjing -> Shuyang -> Can Tho -> Huaiyin
+3 : Jodhpur -> San Francisco -> Kuwait -> Zhangzhou -> Rajkot -> Baoding -> Sanaa -> Joinville -> Taichung -> Sheffield -> Dhanbad -> Kanpur -> Xuzhou -> Charlotte -> Changwon -> Nagpur -> Kharkiv -> Casablanca -> Warangal -> Valencia -> Jianmen -> Brazzaville -> Monrovia -> Jilin -> Curitiba -> Athens -> San Antonio -> Bekasi -> Rangoon -> Mandalay -> Aleppo -> Kano -> Neijiang

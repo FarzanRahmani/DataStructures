@@ -1,0 +1,101 @@
+100 27
+Jianmen
+Essen
+Lupanshui
+San Jose
+Ranchi
+Melbourne
+Rawalpindi
+Hong Kong
+Yokohama
+Louisville
+Can Tho
+Accra
+Tashkent
+Yulin
+Gujranwala
+Tunis
+Benin City
+Leshan
+Shiraz
+Seattle
+Khartoum
+Saidu
+Gaziantep
+Shanghai
+Jinan
+Newcastle
+Istanbul
+Suwon
+Almaty
+Wenzhou
+Xiangfan
+Faisalabad
+Taichung
+Philadelphia
+Maracaibo
+Shenyeng
+Mbuji-Mayi
+Los Angeles
+Xianyang
+Ibadan
+Indianapolis
+Rotterdam
+Taiyuan
+Bursa
+Xining
+Pune
+Dhaka
+Nagpur
+Kuala Lumpur
+Fuzhou
+Aleppo
+Gwangju
+Brooklyn
+Warsaw
+Fushun
+Johannesburg
+Asansol
+Jacksonville
+Nanchong
+Ouagadougou
+Kinshasa
+Dallas
+Changde
+Vadodara
+Luanda
+Nanjing
+Mumbai
+Cagayan de Oro
+Zhengzhou
+Donetsk
+Weifang
+Seville
+Cairo
+Samara
+Baghdad
+Bangalore
+Abbottabad
+Joinville
+Ahmedabad
+Zhuhai
+Quito
+George Town
+Kochi
+Jabalpur
+Taipei
+Ikare
+Sapporo
+Dahuk
+Karaj
+Sheffield
+Changzhou
+Dublin
+Dnipro
+Tianjin
+Hanoi
+Vila Velha
+Havana
+Luoyang
+Ujungpandang
+Haiphong

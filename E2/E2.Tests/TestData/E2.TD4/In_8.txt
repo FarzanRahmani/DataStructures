@@ -1,0 +1,6 @@
+5 2
+Mexico City
+Delhi
+Karachi
+Istanbul
+Manila

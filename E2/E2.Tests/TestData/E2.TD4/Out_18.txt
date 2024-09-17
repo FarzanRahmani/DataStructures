@@ -1,0 +1,10 @@
+2.611111
+0 : Gwalior -> Shijianzhuang -> Riyadh -> Ujungpandang -> Vadodara -> Guilin -> Omsk -> Chandigarh -> Kolkata -> Beirut
+1 : Zhucheng -> Cilacap -> Ankang -> Rabat -> Wuhan -> Dublin -> Fushun -> Los Angeles -> Sapporo
+2 : Davao -> Virginia Beach -> Cape Town -> Ghaziabad -> Changzhou -> Damascus -> Xiamen -> Joinville -> Lisbon -> Ankara -> Port Harcourt
+3 : Port-au-Prince -> Kampala -> Mexico City -> Phoenix -> Jeddah -> Natal -> Barranquilla -> Hohhot -> Yerevan -> Zhangjiakou
+4 : Baoding -> Berlin -> Shuyang -> Bogota -> Coimbatore -> Lusaka -> Guiyang -> Jilin -> Singapore -> Saidu -> Kumasi
+5 : Ottawa -> Brazzaville -> Pune -> Marseille -> San Antonio -> Yulin -> Nagpur -> Conakry -> Fez -> Jining -> Maanshan -> Xining
+6 : Panama City -> Kaohsiung -> Jinxi -> Dushanbe -> New Orleans -> Melbourne -> Houston -> Vila Velha -> Fortaleza -> Quanzhou -> Agra -> Chelyabinsk -> Wanzhou -> Dnipro
+7 : Nanning -> Luanda -> Ahmedabad -> Katowice -> Meerut -> Luzhou -> Nizhny Novgorod -> Dongguan -> Beijing -> Lucknow
+8 : Huainan -> Rajkot -> Memphis -> Jinan -> Naples -> St. Petersburg -> Tabriz -> Rome -> Athens -> New York -> Amsterdam -> Omdurman -> Yongzhou

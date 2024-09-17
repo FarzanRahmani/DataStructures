@@ -1,0 +1,11 @@
+10 2
+Manila
+Mumbai
+Los Angeles
+Guangzhou
+Bogota
+Buenos Aires
+Jakarta
+Ho Chi Minh City
+Chongqing
+Kolkata

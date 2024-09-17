@@ -1,0 +1,3 @@
+0.000000
+0 : Bogota -> Bangalore -> Paris -> Manila -> Istanbul
+1 : Delhi -> Rio de Janeiro -> Beijing -> Lagos -> Shenzhen

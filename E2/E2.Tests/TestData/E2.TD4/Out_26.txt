@@ -1,0 +1,25 @@
+5.101449
+0 : Salt Lake City -> Cincinnati -> Melbourne -> Kinshasa -> Tehran
+1 : Rotterdam -> Tokyo -> Liuzhou
+2 : Istanbul -> Bursa -> La Paz -> Antananarivo -> Hefei -> Heze -> Belo Horizonte
+3 : Raleigh
+4 : Daqing
+5 : Xianyang -> Odessa -> Lagos -> Haikou
+6 : Tampa -> Gujranwala -> Karaj
+7 : Makkah -> Fushun -> Benin City -> Rostov
+8 : Mbuji-Mayi -> Vancouver -> Miami
+9 : Lille -> New Orleans -> Shantou
+10 : Meerut -> Lucknow -> Kazan -> Nanchang
+11 : Ranchi -> Taichung -> Valencia -> Kanpur -> Kuwait
+12 : Birmingham -> Suzhou -> Shijianzhuang -> Austin -> Guilin -> Abbottabad -> Hohhot
+13 : Varanasi -> Delhi -> Benxi -> Dongguan -> Cleveland -> Dallas -> Barquisimeto
+14 : Dubai -> Ulsan -> Virginia Beach -> Milan -> Can Tho -> Pune
+15 : Aleppo -> Glasgow -> Boston -> Wuxi -> Khartoum -> Fukuoka
+16 : Xiangtan -> Orlando
+17 : Shanghai -> San Diego -> Isfahan -> Marseille
+18 : Taiyuan -> Medina -> Dnipro
+19 :
+20 : Florence -> Haifa -> Frankfurt -> Conakry -> Changzhou -> Tangshan -> Mianyang
+21 : Leshan
+22 : Zhongli -> Louisville -> Bhopal -> Columbus -> Nanning -> Berlin
+23 : Maracay -> Huzhou -> San Antonio -> Neijiang -> Mandalay -> Hiroshima -> Manhattan -> Bamako

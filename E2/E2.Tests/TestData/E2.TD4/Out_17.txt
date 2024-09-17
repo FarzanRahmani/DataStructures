@@ -1,0 +1,28 @@
+2.216524
+0 : Yokohama -> Leshan -> George Town
+1 : Los Angeles -> Jacksonville -> Changde -> Sapporo
+2 : Johannesburg -> Jabalpur -> Changzhou
+3 : Hong Kong -> Gujranwala -> Dahuk -> Haiphong
+4 : San Jose -> Louisville -> Accra -> Kuala Lumpur -> Zhengzhou -> Quito
+5 : Shanghai -> Pune -> Ouagadougou
+6 : Melbourne -> Khartoum -> Fuzhou -> Cairo -> Dnipro -> Vila Velha
+7 : Ibadan -> Cagayan de Oro -> Ahmedabad -> Tianjin
+8 : Tashkent -> Bursa -> Mumbai -> Donetsk -> Seville -> Havana
+9 : Rawalpindi -> Aleppo -> Bangalore
+10 : Faisalabad
+11 : Lupanshui -> Can Tho -> Istanbul -> Indianapolis -> Joinville
+12 : Dhaka -> Abbottabad
+13 : Jianmen -> Benin City -> Shiraz -> Asansol -> Nanjing
+14 : Ranchi -> Yulin -> Taichung -> Xining -> Kochi
+15 : Suwon -> Warsaw
+16 : Gwangju -> Luanda
+17 : Tunis -> Jinan -> Almaty -> Nanchong
+18 : Seattle -> Maracaibo -> Vadodara -> Karaj -> Ujungpandang
+19 : Fushun -> Dallas -> Dublin
+20 : Essen -> Sheffield
+21 : Taiyuan -> Baghdad -> Taipei
+22 : Saidu -> Rotterdam
+23 : Xiangfan -> Nagpur -> Brooklyn -> Weifang
+24 : Gaziantep -> Philadelphia -> Kinshasa -> Samara -> Zhuhai
+25 : Shenyeng -> Luoyang
+26 : Newcastle -> Wenzhou -> Mbuji-Mayi -> Xianyang -> Ikare -> Hanoi

@@ -1,0 +1,101 @@
+100 27
+Tabriz
+Shangrao
+Sendai
+Changchun
+Rajkot
+Belo Horizonte
+Ankara
+Yulin
+Pyongyang
+Phnom Penh
+Tijuana
+Faridabad
+Rosario
+Ufa
+Lanzhou
+Maoming
+Makkah
+Phoenix
+Orlando
+Chengdu
+Adelaide
+Santos
+Nanjing
+Shuyang
+Maracay
+Srinagar
+Marseille
+Cilacap
+Cincinnati
+Tampa
+Zhuzhou
+Zhangzhou
+Madurai
+Doha
+Boston
+Luoyang
+Hyderabad
+Mexico City
+Gaziantep
+Linyi
+Yantai
+Vancouver
+Mogadishu
+Sholapur
+Tianshui
+Ahmedabad
+Ludhiana
+Guayaquil
+Barranquilla
+Rabat
+Lima
+Incheon
+Dalian
+Taipei
+Tehran
+Turin
+Kunming
+Fortaleza
+Bekasi
+Suzhou
+Kazan
+Mianyang
+Frankfurt
+Ikare
+Lusaka
+Kumasi
+Queens
+Liuzhou
+Zigong
+Zhucheng
+Patna
+Mandalay
+Zhongli
+Qingdao
+Lagos
+Yerevan
+Amritsar
+Kansas City
+Porto Alegre
+Surabaya
+Dhaka
+Bursa
+Salt Lake City
+Maanshan
+Seattle
+Shantou
+Santiago
+La Paz
+Zhangjiakou
+Fuzhou
+Benin City
+Mudangiang
+Hamamatsu
+Nairobi
+Douala
+Shangqiu
+Dubai
+Ganzhou
+Bangalore
+Surat
